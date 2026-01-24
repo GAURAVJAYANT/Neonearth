@@ -1,5 +1,6 @@
 // @ts-check
 const { defineConfig } = require('@playwright/test');
+require('dotenv').config();
 
 module.exports = defineConfig({
   testDir: './tests',
@@ -7,12 +8,12 @@ module.exports = defineConfig({
   expect: {
     timeout: 40 * 1000,
   },
-  reporter: 'html',
+  reporter: [['html'], ['allure-playwright']],
   use: {
 
     browserName: 'chromium',
     //browserName: 'firefox',
-    headless: false, // ✅ Browser will open in headed mode
+    headless: false, // ✅ Browser will open in headless mode
     viewport: null,
     launchOptions: {
       args: ["--start-maximized"],

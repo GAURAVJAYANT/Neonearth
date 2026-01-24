@@ -1,0 +1,578 @@
+[3:04:54 am] Opening sitemap...
+[3:04:58 am] Total Products Found: 2219
+[3:05:09 am] 
+[1] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/12-custom-duck-cotton-canvas-tarp-p
+[3:05:20 am] Product Name: #12 Custom Duck Cotton Canvas Tarp
+[3:05:20 am] Initial Price: 24.22
+[3:05:21 am] Increased Price: 48.44
+[3:05:23 am] Final Price: 24.22
+[3:05:23 am] ✅ Price reset validated
+[3:05:23 am] Clicking Add to Cart...
+[3:05:28 am] ✅ Mini cart opened and Cart button available
+[3:05:28 am] Result saved for product 1
+[3:05:28 am] 
+[2] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/4-custom-duck-cotton-canvas-tarp-p
+[3:05:34 am] Product Name: #4 Custom Duck Cotton Canvas Tarp
+[3:05:34 am] Initial Price: 45.2
+[3:05:35 am] Increased Price: 90.4
+[3:05:37 am] Final Price: 45.2
+[3:05:37 am] ✅ Price reset validated
+[3:05:37 am] Clicking Add to Cart...
+[3:05:42 am] ✅ Mini cart opened and Cart button available
+[3:05:42 am] Result saved for product 2
+[3:05:42 am] 
+[3] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/8-custom-duck-cotton-canvas-tarp-p
+[3:05:59 am] Product Name: #8 Custom Duck Cotton Canvas Tarp
+[3:05:59 am] Initial Price: 32.23
+[3:06:00 am] Increased Price: 32.23
+[3:06:02 am] Final Price: 32.23
+[3:06:02 am] ✅ Price reset validated
+[3:06:02 am] Clicking Add to Cart...
+[3:06:07 am] ✅ Mini cart opened and Cart button available
+[3:06:07 am] Result saved for product 3
+[3:06:07 am] 
+[4] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/18-21-inch-tv-covers-p
+[3:06:17 am] Product Name: 18-21 inch TV Covers
+[3:06:17 am] Initial Price: 10.29
+[3:06:18 am] Increased Price: 19.56
+[3:06:20 am] Final Price: 10.29
+[3:06:20 am] ✅ Price reset validated
+[3:06:20 am] Clicking Add to Cart...
+[3:06:25 am] ✅ Mini cart opened and Cart button available
+[3:06:25 am] Result saved for product 4
+[3:06:25 am] 
+[5] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/22-25-inch-tv-covers-p
+[3:06:31 am] Product Name: 22-25 Inch TV Covers
+[3:06:31 am] Initial Price: 13.68
+[3:06:32 am] Increased Price: 26
+[3:06:34 am] Final Price: 13.68
+[3:06:34 am] ✅ Price reset validated
+[3:06:34 am] Clicking Add to Cart...
+[3:06:39 am] ✅ Mini cart opened and Cart button available
+[3:06:39 am] Result saved for product 5
+[3:06:39 am] 
+[6] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/26-31-inch-tv-covers-p
+[3:06:45 am] Product Name: 26-31 Inch TV Covers
+[3:06:45 am] Initial Price: 19.01
+[3:06:46 am] Increased Price: 36.12
+[3:06:48 am] Final Price: 19.01
+[3:06:48 am] ✅ Price reset validated
+[3:06:48 am] Clicking Add to Cart...
+[3:06:53 am] ✅ Mini cart opened and Cart button available
+[3:06:53 am] Result saved for product 6
+[3:06:53 am] 
+[7] Opening product: https://www.coversandall.com/marine-covers/bimini-top/3-bow-bimini-top-p
+[3:07:07 am] Product Name: 3 Bow Bimini Top
+[3:07:07 am] Initial Price: 209.95
+[3:07:09 am] Increased Price: 419.9
+[3:07:10 am] Final Price: 209.95
+[3:07:10 am] ✅ Price reset validated
+[3:07:10 am] Clicking Add to Cart...
+[3:07:15 am] ✅ Mini cart opened and Cart button available
+[3:07:15 am] Result saved for product 7
+[3:07:16 am] 
+[8] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/truck-tarps/3-piece-lumber-tarp-p
+[3:07:21 am] Product Name: 3-Piece Lumber Tarp
+[3:07:21 am] Initial Price: 245.07
+[3:07:22 am] Increased Price: 490.14
+[3:07:24 am] Final Price: 245.07
+[3:07:24 am] ✅ Price reset validated
+[3:07:24 am] Clicking Add to Cart...
+[3:07:29 am] ✅ Mini cart opened and Cart button available
+[3:07:29 am] Result saved for product 8
+[3:07:29 am] 
+[9] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/32-35-inch-tv-covers-p
+[3:07:59 am] Product Name: 32-35 Inch TV Covers
+[3:07:59 am] Initial Price: 24.58
+[3:08:01 am] Increased Price: 46.7
+[3:08:02 am] Final Price: 24.58
+[3:08:02 am] ✅ Price reset validated
+[3:08:02 am] Clicking Add to Cart...
+[3:08:08 am] ✅ Mini cart opened and Cart button available
+[3:08:08 am] Result saved for product 9
+[3:08:08 am] 
+[10] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/36-41-inch-tv-covers-p
+[3:08:13 am] Product Name: 36-41 Inch TV Covers
+[3:08:13 am] Initial Price: 30.38
+[3:08:15 am] Increased Price: 30.38
+[3:08:16 am] Final Price: 30.38
+[3:08:16 am] ✅ Price reset validated
+[3:08:16 am] Clicking Add to Cart...
+[3:08:21 am] ✅ Mini cart opened and Cart button available
+[3:08:21 am] Result saved for product 10
+[3:08:22 am] 
+[11] Opening product: https://www.coversandall.com/marine-covers/bimini-top/4-bow-bimini-top-p
+[3:08:51 am] Product Name: 4 Bow Bimini Top
+[3:08:51 am] Initial Price: 331.95
+[3:08:52 am] Increased Price: 663.9
+[3:08:54 am] Final Price: 331.95
+[3:08:54 am] ✅ Price reset validated
+[3:08:54 am] Clicking Add to Cart...
+[3:08:59 am] ✅ Mini cart opened and Cart button available
+[3:08:59 am] Result saved for product 11
+[3:08:59 am] 
+[12] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/42-45-inch-tv-covers-p
+[3:09:05 am] Product Name: 42-45 Inch TV Covers
+[3:09:05 am] Initial Price: 37.24
+[3:09:06 am] Increased Price: 70.76
+[3:09:08 am] Final Price: 37.24
+[3:09:08 am] ✅ Price reset validated
+[3:09:08 am] Clicking Add to Cart...
+[3:09:13 am] ✅ Mini cart opened and Cart button available
+[3:09:13 am] Result saved for product 12
+[3:09:13 am] 
+[13] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/46-49-inch-tv-covers-p
+[3:09:18 am] Product Name: 46-49 Inch TV Covers
+[3:09:18 am] Initial Price: 42.5
+[3:09:20 am] Increased Price: 80.76
+[3:09:21 am] Final Price: 42.5
+[3:09:21 am] ✅ Price reset validated
+[3:09:21 am] Clicking Add to Cart...
+[3:09:26 am] ✅ Mini cart opened and Cart button available
+[3:09:26 am] Result saved for product 13
+[3:09:27 am] 
+[14] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/50-54-inch-tv-covers-p
+[3:09:32 am] Product Name: 50-54 Inch TV Covers
+[3:09:32 am] Initial Price: 48.09
+[3:09:34 am] Increased Price: 91.38
+[3:09:35 am] Final Price: 48.09
+[3:09:35 am] ✅ Price reset validated
+[3:09:35 am] Clicking Add to Cart...
+[3:09:40 am] ✅ Mini cart opened and Cart button available
+[3:09:40 am] Result saved for product 14
+[3:09:41 am] 
+[15] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/55-59-inch-tv-covers-p
+[3:09:46 am] Product Name: 55-59 Inch TV Covers
+[3:09:46 am] Initial Price: 55.04
+[3:09:47 am] Increased Price: 104.58
+[3:09:49 am] Final Price: 55.04
+[3:09:49 am] ✅ Price reset validated
+[3:09:49 am] Clicking Add to Cart...
+[3:09:54 am] ✅ Mini cart opened and Cart button available
+[3:09:54 am] Result saved for product 15
+[3:09:54 am] 
+[16] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/60-64-inch-tv-covers-p
+[3:10:04 am] Product Name: 60-64 Inch TV Covers
+[3:10:04 am] Initial Price: 63.51
+[3:10:05 am] Increased Price: 120.66
+[3:10:07 am] Final Price: 120.66
+[3:10:07 am] ❌ FAIL: Price did not reset after decrease
+[3:10:07 am] Clicking Add to Cart...
+[3:10:12 am] ✅ Mini cart opened and Cart button available
+[3:10:12 am] Result saved for product 16
+[3:10:13 am] 
+[17] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/65-68-inch-tv-covers-p
+[3:10:18 am] Product Name: 65-68 Inch TV Covers
+[3:10:18 am] Initial Price: 70.32
+[3:10:20 am] Increased Price: 133.6
+[3:10:21 am] Final Price: 70.32
+[3:10:21 am] ✅ Price reset validated
+[3:10:21 am] Clicking Add to Cart...
+[3:10:26 am] ✅ Mini cart opened and Cart button available
+[3:10:26 am] Result saved for product 17
+[3:10:27 am] 
+[18] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/70-73-inch-tv-covers-p
+[3:10:32 am] Product Name: 70-73 Inch TV Covers
+[3:10:32 am] Initial Price: 81.78
+[3:10:34 am] Increased Price: 155.38
+[3:10:35 am] Final Price: 81.78
+[3:10:35 am] ✅ Price reset validated
+[3:10:35 am] Clicking Add to Cart...
+[3:10:40 am] ✅ Mini cart opened and Cart button available
+[3:10:40 am] Result saved for product 18
+[3:10:41 am] 
+[19] Opening product: https://www.coversandall.com/cushion-pillow-covers/outdoor-cushion-covers/abstract-cushion-cover-p
+[3:10:46 am] Product Name: Abstract Cushion Cover
+[3:10:46 am] Initial Price: 20.96
+[3:10:47 am] Increased Price: 41.92
+[3:10:49 am] Final Price: 20.96
+[3:10:49 am] ✅ Price reset validated
+[3:10:49 am] Clicking Add to Cart...
+[3:10:54 am] ✅ Mini cart opened and Cart button available
+[3:10:54 am] Result saved for product 19
+[3:10:54 am] 
+[20] Opening product: https://www.coversandall.com/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/abstract-pillow-cover-p
+[3:11:00 am] Product Name: Abstract Pillow Cover
+[3:11:00 am] Initial Price: 19.79
+[3:11:01 am] Increased Price: 39.58
+[3:11:03 am] Final Price: 39.58
+[3:11:03 am] ❌ FAIL: Price did not reset after decrease
+[3:11:03 am] Clicking Add to Cart...
+[3:11:08 am] ✅ Mini cart opened and Cart button available
+[3:11:08 am] Result saved for product 20
+[3:11:08 am] 
+[21] Opening product: https://www.coversandall.com/cushion-pillow-covers/throw-pillow-covers/printed-pillow/abstract-throw-pillow-p
+[3:11:20 am] Product Name: Abstract Throw Pillow
+[3:11:20 am] Initial Price: 29.03
+[3:11:21 am] Increased Price: 58.06
+[3:11:23 am] Final Price: 29.03
+[3:11:23 am] ✅ Price reset validated
+[3:11:23 am] Clicking Add to Cart...
+[3:11:28 am] ✅ Mini cart opened and Cart button available
+[3:11:28 am] Result saved for product 21
+[3:11:28 am] 
+[22] Opening product: https://www.coversandall.com/patio-furniture-covers/seating-covers/chair-covers/chair-cover-design-22-p
+[3:11:58 am] Product Name: Acapulco Chair Custom Covers
+[3:11:58 am] Initial Price: 25.33
+[3:11:59 am] Increased Price: 48.12
+[3:12:01 am] Final Price: 25.33
+[3:12:01 am] ✅ Price reset validated
+[3:12:01 am] Clicking Add to Cart...
+[3:12:06 am] ✅ Mini cart opened and Cart button available
+[3:12:06 am] Result saved for product 22
+[3:12:06 am] 
+[23] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-cl-car-cover-p
+[3:12:12 am] Product Name: Acura CL Car Cover
+[3:12:12 am] Initial Price: 145.17
+[3:12:13 am] Increased Price: 290.34
+[3:12:15 am] Final Price: 145.17
+[3:12:15 am] ✅ Price reset validated
+[3:12:15 am] Clicking Add to Cart...
+[3:12:20 am] ❌ FAIL: Add to Cart button is not working for Acura CL Car Cover
+[3:12:20 am] Result saved for product 23
+[3:12:20 am] 
+[24] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-ilx-car-cover-p
+[3:12:30 am] Product Name: Acura ILX Car Cover
+[3:12:30 am] Initial Price: 160.98
+[3:12:32 am] Increased Price: 321.96
+[3:12:33 am] Final Price: 160.98
+[3:12:33 am] ✅ Price reset validated
+[3:12:33 am] Clicking Add to Cart...
+[3:12:38 am] ❌ FAIL: Add to Cart button is not working for Acura ILX Car Cover
+[3:12:38 am] Result saved for product 24
+[3:12:39 am] 
+[25] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-ilx-hybrid-car-cover-p
+[3:12:44 am] Product Name: Acura ILX Hybrid Car Cover
+[3:12:44 am] Initial Price: 160.98
+[3:12:45 am] Increased Price: 321.96
+[3:12:47 am] Final Price: 160.98
+[3:12:47 am] ✅ Price reset validated
+[3:12:47 am] Clicking Add to Cart...
+[3:12:52 am] ❌ FAIL: Add to Cart button is not working for Acura ILX Hybrid Car Cover
+[3:12:52 am] Result saved for product 25
+[3:12:52 am] 
+[26] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-integra-car-cover-p
+[3:12:58 am] Product Name: Acura Integra Car Cover
+[3:12:58 am] Initial Price: 160.98
+[3:13:00 am] Increased Price: 160.98
+[3:13:01 am] Final Price: 160.98
+[3:13:01 am] ✅ Price reset validated
+[3:13:01 am] Clicking Add to Cart...
+[3:13:06 am] ❌ FAIL: Add to Cart button is not working for Acura Integra Car Cover
+[3:13:06 am] Result saved for product 26
+[3:13:07 am] 
+[27] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-legend-car-cover-p
+[3:13:45 am] Product Name: Acura Legend Car Cover
+[3:13:45 am] Initial Price: 145.17
+[3:13:47 am] Increased Price: 290.34
+[3:13:48 am] Final Price: 145.17
+[3:13:48 am] ✅ Price reset validated
+[3:13:48 am] Clicking Add to Cart...
+[3:13:53 am] ❌ FAIL: Add to Cart button is not working for Acura Legend Car Cover
+[3:13:53 am] Result saved for product 27
+[3:13:54 am] 
+[28] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-mdx-car-cover-p
+[3:13:59 am] Product Name: Acura MDX Car Cover
+[3:13:59 am] Initial Price: 171.53
+[3:14:01 am] Increased Price: 343.06
+[3:14:03 am] Final Price: 171.53
+[3:14:03 am] ✅ Price reset validated
+[3:14:03 am] Clicking Add to Cart...
+[3:14:08 am] ❌ FAIL: Add to Cart button is not working for Acura MDX Car Cover
+[3:14:08 am] Result saved for product 28
+[3:14:08 am] 
+[29] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-nsx-car-cover-p
+[3:14:17 am] Product Name: Acura NSX Car Cover
+[3:14:17 am] Initial Price: 145.17
+[3:14:18 am] Increased Price: 290.34
+[3:14:20 am] Final Price: 145.17
+[3:14:20 am] ✅ Price reset validated
+[3:14:20 am] Clicking Add to Cart...
+[3:14:25 am] ❌ FAIL: Add to Cart button is not working for Acura NSX Car Cover
+[3:14:25 am] Result saved for product 29
+[3:14:25 am] 
+[30] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-rdx-car-cover-p
+[3:14:55 am] Product Name: Acura RDX Car Cover
+[3:14:55 am] Initial Price: 171.53
+[3:14:57 am] Increased Price: 343.06
+[3:14:58 am] Final Price: 171.53
+[3:14:58 am] ✅ Price reset validated
+[3:14:58 am] Clicking Add to Cart...
+[3:15:04 am] ❌ FAIL: Add to Cart button is not working for Acura RDX Car Cover
+[3:15:04 am] Result saved for product 30
+[3:15:04 am] 
+[31] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-rl-car-cover-p
+[3:15:15 am] Product Name: Acura RL Car Cover
+[3:15:15 am] Initial Price: 160.98
+[3:15:16 am] Increased Price: 160.98
+[3:15:18 am] Final Price: 160.98
+[3:15:18 am] ✅ Price reset validated
+[3:15:18 am] Clicking Add to Cart...
+[3:15:23 am] ❌ FAIL: Add to Cart button is not working for Acura RL Car Cover
+[3:15:23 am] Result saved for product 31
+[3:15:23 am] 
+[32] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-rlx-car-cover-p
+[3:15:33 am] Product Name: Acura RLX Car Cover
+[3:15:33 am] Initial Price: 160.98
+[3:15:35 am] Increased Price: 160.98
+[3:15:37 am] Final Price: 160.98
+[3:15:37 am] ✅ Price reset validated
+[3:15:37 am] Clicking Add to Cart...
+[3:15:42 am] ❌ FAIL: Add to Cart button is not working for Acura RLX Car Cover
+[3:15:42 am] Result saved for product 32
+[3:15:42 am] 
+[33] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-rsx-car-cover-p
+[3:15:48 am] Product Name: Acura RSX Car Cover
+[3:15:48 am] Initial Price: 150.91
+[3:15:49 am] Increased Price: 301.82
+[3:15:51 am] Final Price: 150.91
+[3:15:51 am] ✅ Price reset validated
+[3:15:51 am] Clicking Add to Cart...
+[3:15:56 am] ❌ FAIL: Add to Cart button is not working for Acura RSX Car Cover
+[3:15:56 am] Result saved for product 33
+[3:15:56 am] 
+[34] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-slx-car-cover-p
+[3:16:26 am] Product Name: Acura SLX Car Cover
+[3:16:26 am] Initial Price: 171.53
+[3:16:28 am] Increased Price: 343.06
+[3:16:30 am] Final Price: 171.53
+[3:16:30 am] ✅ Price reset validated
+[3:16:30 am] Clicking Add to Cart...
+[3:16:35 am] ❌ FAIL: Add to Cart button is not working for Acura SLX Car Cover
+[3:16:35 am] Result saved for product 34
+[3:16:35 am] 
+[35] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-tl-car-cover-p
+[3:16:40 am] Product Name: Acura TL Car Cover
+[3:16:40 am] Initial Price: 160.98
+[3:16:42 am] Increased Price: 321.96
+[3:16:43 am] Final Price: 160.98
+[3:16:43 am] ✅ Price reset validated
+[3:16:43 am] Clicking Add to Cart...
+[3:16:49 am] ❌ FAIL: Add to Cart button is not working for Acura TL Car Cover
+[3:16:49 am] Result saved for product 35
+[3:16:49 am] 
+[36] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-tlx-car-cover-p
+[3:16:54 am] Product Name: Acura TLX Car Cover
+[3:16:54 am] Initial Price: 160.98
+[3:16:56 am] Increased Price: 321.96
+[3:16:57 am] Final Price: 160.98
+[3:16:57 am] ✅ Price reset validated
+[3:16:57 am] Clicking Add to Cart...
+[3:17:03 am] ❌ FAIL: Add to Cart button is not working for Acura TLX Car Cover
+[3:17:03 am] Result saved for product 36
+[3:17:03 am] 
+[37] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-tsx-car-cover-p
+[3:17:08 am] Product Name: Acura TSX Car Cover
+[3:17:08 am] Initial Price: 160.98
+[3:17:10 am] Increased Price: 321.96
+[3:17:12 am] Final Price: 160.98
+[3:17:12 am] ✅ Price reset validated
+[3:17:12 am] Clicking Add to Cart...
+[3:17:17 am] ❌ FAIL: Add to Cart button is not working for Acura TSX Car Cover
+[3:17:17 am] Result saved for product 37
+[3:17:17 am] 
+[38] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-tsx-sport-wagon-car-cover-p
+[3:17:22 am] Product Name: Acura TSX Sport Wagon Car Cover
+[3:17:22 am] Initial Price: 163.91
+[3:17:24 am] Increased Price: 327.82
+[3:17:25 am] Final Price: 163.91
+[3:17:25 am] ✅ Price reset validated
+[3:17:25 am] Clicking Add to Cart...
+[3:17:31 am] ❌ FAIL: Add to Cart button is not working for Acura TSX Sport Wagon Car Cover
+[3:17:31 am] Result saved for product 38
+[3:17:31 am] 
+[39] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-vigor-car-cover-p
+[3:17:36 am] Product Name: Acura Vigor Car Cover
+[3:17:36 am] Initial Price: 160.98
+[3:17:38 am] Increased Price: 160.98
+[3:17:40 am] Final Price: 160.98
+[3:17:40 am] ✅ Price reset validated
+[3:17:40 am] Clicking Add to Cart...
+[3:17:45 am] ❌ FAIL: Add to Cart button is not working for Acura Vigor Car Cover
+[3:17:45 am] Result saved for product 39
+[3:17:45 am] 
+[40] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/acura/acura-zdx-car-cover-p
+[3:17:55 am] Product Name: Acura ZDX Car Cover
+[3:17:55 am] Initial Price: 150.91
+[3:17:56 am] Increased Price: 301.82
+[3:17:58 am] Final Price: 150.91
+[3:17:58 am] ✅ Price reset validated
+[3:17:58 am] Clicking Add to Cart...
+[3:18:03 am] ❌ FAIL: Add to Cart button is not working for Acura ZDX Car Cover
+[3:18:03 am] Result saved for product 40
+[3:18:03 am] 
+[41] Opening product: https://www.coversandall.com/industrial-equipment-covers/equipment-covers/gym-equipment-covers/adaptive-motion-trainer-covers-p
+[3:18:08 am] Product Name: Adaptive Motion Trainer Covers
+[3:18:08 am] Initial Price: 115.77
+[3:18:10 am] Increased Price: 219.96
+[3:18:12 am] Final Price: 115.77
+[3:18:12 am] ✅ Price reset validated
+[3:18:12 am] Clicking Add to Cart...
+[3:18:17 am] ✅ Mini cart opened and Cart button available
+[3:18:17 am] Result saved for product 41
+[3:18:17 am] 
+[42] Opening product: https://www.coversandall.com/cushion-pillow-covers/outdoor-cushion-covers/adirondack-chair-cushion-cover-p
+[3:18:23 am] Product Name: Adirondack Chair Cushion Cover
+[3:18:23 am] Initial Price: 38.2
+[3:18:24 am] Increased Price: 72.58
+[3:18:26 am] Final Price: 38.2
+[3:18:26 am] ✅ Price reset validated
+[3:18:26 am] Clicking Add to Cart...
+[3:18:31 am] ✅ Mini cart opened and Cart button available
+[3:18:31 am] Result saved for product 42
+[3:18:31 am] 
+[43] Opening product: https://www.coversandall.com/patio-furniture-covers/seating-covers/adirondack-chair-covers/adirondack-chair-covers-design-1-p
+[3:18:36 am] Product Name: Adirondack Chair Custom Covers
+[3:18:36 am] Initial Price: 81.17
+[3:18:38 am] Increased Price: 81.17
+[3:18:40 am] Final Price: 81.17
+[3:18:40 am] ✅ Price reset validated
+[3:18:40 am] Clicking Add to Cart...
+[3:18:45 am] ✅ Mini cart opened and Cart button available
+[3:18:45 am] Result saved for product 43
+[3:18:45 am] 
+[44] Opening product: https://www.coversandall.com/patio-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-6-p
+[3:18:50 am] Product Name: Adirondack Footrest Chair Custom Covers
+[3:18:50 am] Initial Price: 149.88
+[3:18:52 am] Increased Price: 284.78
+[3:18:53 am] Final Price: 149.88
+[3:18:53 am] ✅ Price reset validated
+[3:18:53 am] Clicking Add to Cart...
+[3:18:58 am] ✅ Mini cart opened and Cart button available
+[3:18:58 am] Result saved for product 44
+[3:18:59 am] 
+[45] Opening product: https://www.coversandall.com/patio-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-7-p
+[3:19:04 am] Product Name: Adirondack High Chair Custom Covers
+[3:19:04 am] Initial Price: 77.67
+[3:19:05 am] Increased Price: 147.58
+[3:19:07 am] Final Price: 77.67
+[3:19:07 am] ✅ Price reset validated
+[3:19:07 am] Clicking Add to Cart...
+[3:19:12 am] ✅ Mini cart opened and Cart button available
+[3:19:12 am] Result saved for product 45
+[3:19:12 am] 
+[46] Opening product: https://www.coversandall.com/patio-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-2-p
+[3:19:23 am] Product Name: Adirondack Lounger Chair Custom Covers
+[3:19:23 am] Initial Price: 149.88
+[3:19:25 am] Increased Price: 284.78
+[3:19:26 am] Final Price: 284.78
+[3:19:26 am] ❌ FAIL: Price did not reset after decrease
+[3:19:26 am] Clicking Add to Cart...
+[3:19:32 am] ✅ Mini cart opened and Cart button available
+[3:19:32 am] Result saved for product 46
+[3:19:32 am] 
+[47] Opening product: https://www.coversandall.com/patio-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-4-p
+[3:19:42 am] Product Name: Adirondack Rocking Chair Custom Covers
+[3:19:42 am] Initial Price: 84.76
+[3:19:44 am] Increased Price: 161.04
+[3:19:46 am] Final Price: 84.76
+[3:19:46 am] ✅ Price reset validated
+[3:19:46 am] Clicking Add to Cart...
+[3:19:51 am] ✅ Mini cart opened and Cart button available
+[3:19:51 am] Result saved for product 47
+[3:19:51 am] 
+[48] Opening product: https://www.coversandall.com/patio-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-5-p
+[3:19:56 am] Product Name: Adirondack Settee Custom Covers
+[3:19:56 am] Initial Price: 124.6
+[3:19:58 am] Increased Price: 236.74
+[3:19:59 am] Final Price: 124.6
+[3:19:59 am] ✅ Price reset validated
+[3:19:59 am] Clicking Add to Cart...
+[3:20:05 am] ✅ Mini cart opened and Cart button available
+[3:20:05 am] Result saved for product 48
+[3:20:05 am] 
+[49] Opening product: https://www.coversandall.com/patio-furniture-covers/seating-covers/chaise-covers/chaise-lounge-cover-design-7-p
+[3:20:44 am] Product Name: Adjustable Chaise Lounge Custom Covers
+[3:20:44 am] Initial Price: 51.68
+[3:20:46 am] Increased Price: 98.2
+[3:20:47 am] Final Price: 51.68
+[3:20:47 am] ✅ Price reset validated
+[3:20:47 am] Clicking Add to Cart...
+[3:20:53 am] ✅ Mini cart opened and Cart button available
+[3:20:53 am] Result saved for product 49
+[3:20:53 am] 
+[50] Opening product: https://www.coversandall.com/accessories/air-bags-p
+[3:21:03 am] Product Name: Air Bags
+[3:21:03 am] Initial Price: 9.99
+[3:21:04 am] Increased Price: 19.98
+[3:21:06 am] Final Price: 9.99
+[3:21:06 am] ✅ Price reset validated
+[3:21:06 am] Clicking Add to Cart...
+[3:21:11 am] ✅ Mini cart opened and Cart button available
+[3:21:11 am] Result saved for product 50
+[3:21:11 am] 
+[51] Opening product: https://www.coversandall.com/patio-furniture-covers/game-table-covers/air-hockey-table-covers-p
+[3:21:16 am] Product Name: Air Hockey Table Covers
+[3:21:16 am] Initial Price: 108.19
+[3:21:18 am] Increased Price: 205.56
+[3:21:19 am] Final Price: 108.19
+[3:21:19 am] ✅ Price reset validated
+[3:21:19 am] Clicking Add to Cart...
+[3:21:25 am] ✅ Mini cart opened and Cart button available
+[3:21:25 am] Result saved for product 51
+[3:21:25 am] 
+[52] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/alfa-romeo/alfa-romeo-4c-car-cover-p
+[3:21:30 am] Product Name: Alfa Romeo 4C Car Cover
+[3:21:30 am] Initial Price: 145.17
+[3:21:32 am] Increased Price: 290.34
+[3:21:33 am] Final Price: 145.17
+[3:21:33 am] ✅ Price reset validated
+[3:21:33 am] Clicking Add to Cart...
+[3:21:38 am] ❌ FAIL: Add to Cart button is not working for Alfa Romeo 4C Car Cover
+[3:21:38 am] Result saved for product 52
+[3:21:38 am] 
+[53] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/alfa-romeo/alfa-romeo-giulia-car-cover-p
+[3:21:43 am] Product Name: Alfa Romeo Giulia Car Cover
+[3:21:43 am] Initial Price: 160.98
+[3:21:45 am] Increased Price: 321.96
+[3:21:47 am] Final Price: 160.98
+[3:21:47 am] ✅ Price reset validated
+[3:21:47 am] Clicking Add to Cart...
+[3:21:52 am] ❌ FAIL: Add to Cart button is not working for Alfa Romeo Giulia Car Cover
+[3:21:52 am] Result saved for product 53
+[3:21:52 am] 
+[54] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/alfa-romeo/alfa-romeo-stelvio-car-cover-p
+[3:21:57 am] Product Name: Alfa Romeo Stelvio Car Cover
+[3:21:57 am] Initial Price: 171.53
+[3:21:59 am] Increased Price: 171.53
+[3:22:01 am] Final Price: 171.53
+[3:22:01 am] ✅ Price reset validated
+[3:22:01 am] Clicking Add to Cart...
+[3:22:06 am] ❌ FAIL: Add to Cart button is not working for Alfa Romeo Stelvio Car Cover
+[3:22:06 am] Result saved for product 54
+[3:22:06 am] 
+[55] Opening product: https://www.coversandall.com/grill-heating-covers/oven-smoker-covers/outdoor-pizza-oven-covers-design-5-p
+[3:22:11 am] Product Name: Alfresco Pizza Oven Custom Covers
+[3:22:11 am] Initial Price: 64.6
+[3:22:13 am] Increased Price: 122.74
+[3:22:14 am] Final Price: 64.6
+[3:22:14 am] ✅ Price reset validated
+[3:22:14 am] Clicking Add to Cart...
+[3:22:20 am] ✅ Mini cart opened and Cart button available
+[3:22:20 am] Result saved for product 55
+[3:22:20 am] 
+[56] Opening product: https://www.coversandall.com/marine-covers/boat-covers/aluminium-fishing-boat-cover-p
+[3:22:25 am] Product Name: Aluminium Fishing Boat Cover
+[3:22:25 am] Initial Price: 221.52
+[3:22:27 am] Increased Price: 443.04
+[3:22:28 am] Final Price: 221.52
+[3:22:28 am] ✅ Price reset validated
+[3:22:28 am] Clicking Add to Cart...
+[3:22:33 am] ✅ Mini cart opened and Cart button available
+[3:22:33 am] Result saved for product 56
+[3:22:34 am] 
+[57] Opening product: https://www.coversandall.com/marine-covers/boat-covers/aluminium-v-jon-boat-cover-p
+[3:22:39 am] Product Name: Aluminium V Jon Boat Cover
+[3:22:39 am] Initial Price: 155.06
+[3:22:40 am] Increased Price: 310.12
+[3:22:42 am] Final Price: 155.06
+[3:22:42 am] ✅ Price reset validated
+[3:22:42 am] Clicking Add to Cart...
+[3:22:47 am] ✅ Mini cart opened and Cart button available
+[3:22:47 am] Result saved for product 57
+[3:22:47 am] 
+[58] Opening product: https://www.coversandall.com/vehicle-covers/car-covers/car-covers-by-brand/am-general/am-general-hummer-car-cover-p
+[3:22:59 am] Product Name: AM General Hummer Car Cover
+[3:22:59 am] Initial Price: 171.53
+[3:23:01 am] 🔥 ERROR: page.waitForTimeout: Test ended.
+[3:23:01 am] Result saved for product 58
