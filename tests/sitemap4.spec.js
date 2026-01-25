@@ -2,15 +2,15 @@ const { test } = require('@playwright/test');
 const fs = require('fs');
 const path = require('path');
 
-test('Sitemap products – price validation + add to cart (5 PARALLEL SAFE)', async ({ browser }) => {
+test('Sitemap products – price validation + add to cart (FINAL FIXED)', async ({ browser }) => {
   test.setTimeout(0);
 
   const BASE_DOMAIN = 'https://www.coversandall.com';
   const SITEMAP_URL = `${BASE_DOMAIN}/sitemap`;
-  const csvPath = path.join(__dirname, 'product_validation_result1.csv');
-  const PARALLEL_LIMIT = 5;
 
-  /* ---------- LOGGER ---------- */
+  const csvPath = path.join(__dirname, 'product_validation_result.csv');
+
+  /* ---------- REAL-TIME LOGGER ---------- */
   const log = (msg) => {
     process.stdout.write(`[${new Date().toLocaleTimeString()}] ${msg}\n`);
   };
@@ -33,10 +33,13 @@ test('Sitemap products – price validation + add to cart (5 PARALLEL SAFE)', as
 
   const products = mainPage.locator(PRODUCTS_XPATH);
   const count = await products.count();
+
   log(`Total Products Found: ${count}`);
 
   let productUrls = [];
+  let failures = [];
 
+  /* ---------- COLLECT PRODUCT URLS ---------- */
   for (let i = 0; i < count; i++) {
     let url = await products.nth(i).getAttribute('href');
     if (!url.startsWith('http')) {
@@ -47,11 +50,10 @@ test('Sitemap products – price validation + add to cart (5 PARALLEL SAFE)', as
 
   await mainContext.close();
 
-  let failures = [];
-  let indexCounter = 1;
+  /* ---------- PROCESS PRODUCTS ---------- */
+  let index = 1;
 
-  /* ---------- WORKER FUNCTION (UNCHANGED LOGIC) ---------- */
-  const processProduct = async (productUrl, index) => {
+  for (const productUrl of productUrls) {
     const context = await browser.newContext();
     const page = await context.newPage();
 
@@ -72,32 +74,36 @@ test('Sitemap products – price validation + add to cart (5 PARALLEL SAFE)', as
       const nameLocator = page.locator(
         "//h1[contains(@class,'font-medium') and contains(@class,'leading-9')]"
       );
+
       if (await nameLocator.count() > 0) {
         productName = (await nameLocator.first().innerText()).trim();
       }
 
-      log(`[${index}] Product Name: ${productName}`);
+      log(`Product Name: ${productName}`);
 
-      /* ---------- PRICE ---------- */
+      /* ---------- PRICE LOCATOR ---------- */
+      const priceSelector =
+        "//span[contains(@class,'font-semibold') and contains(@class,'text-primary-900')]";
+
       const getPrice = async () => {
-        const priceLocator = page.locator(
-          "//span[contains(@class,'font-semibold') and contains(@class,'text-primary-900')]"
-        );
+        const priceLocator = page.locator(priceSelector);
         if (await priceLocator.count() === 0) return 0;
         const txt = (await priceLocator.first().innerText()).trim();
         return parseFloat(txt.replace(/[^0-9.]/g, '')) || 0;
       };
 
+      /* ---------- WAIT FOR PRICE CHANGE ---------- */
       const waitForPriceChange = async (oldPrice, timeout = 5000) => {
         await page.waitForFunction(
-          (prev) => {
+          (prevPrice) => {
             const el = document.querySelector(
               'span.font-semibold.text-primary-900'
             );
             if (!el) return false;
-            const current =
-              parseFloat(el.innerText.replace(/[^0-9.]/g, '')) || 0;
-            return current !== prev;
+            const current = parseFloat(
+              el.innerText.replace(/[^0-9.]/g, '')
+            ) || 0;
+            return current !== prevPrice;
           },
           oldPrice,
           { timeout }
@@ -106,16 +112,16 @@ test('Sitemap products – price validation + add to cart (5 PARALLEL SAFE)', as
 
       /* ---------- INITIAL PRICE ---------- */
       initialPrice = await getPrice();
-      log(`[${index}] Initial Price: ${initialPrice}`);
+      log(`Initial Price: ${initialPrice}`);
 
       if (initialPrice === 0) {
         status = 'FAIL';
         remark = 'Initial price is zero';
         failures.push(`ZERO PRICE | ${productUrl}`);
-        return;
+        continue;
       }
 
-      /* ---------- INCREASE ---------- */
+      /* ---------- INCREASE PRICE ---------- */
       const increaseBtn = page.locator("//button[p[normalize-space()='+']]");
       if (await increaseBtn.count() > 0) {
         await increaseBtn.first().click();
@@ -123,9 +129,9 @@ test('Sitemap products – price validation + add to cart (5 PARALLEL SAFE)', as
       }
 
       increasedPrice = await getPrice();
-      log(`[${index}] Increased Price: ${increasedPrice}`);
+      log(`Increased Price: ${increasedPrice}`);
 
-      /* ---------- DECREASE ---------- */
+      /* ---------- DECREASE PRICE ---------- */
       const decreaseBtn = page.locator("//button[p[normalize-space()='-']]");
       if (await decreaseBtn.count() > 0) {
         await decreaseBtn.first().click();
@@ -133,39 +139,51 @@ test('Sitemap products – price validation + add to cart (5 PARALLEL SAFE)', as
       }
 
       finalPrice = await getPrice();
-      log(`[${index}] Final Price: ${finalPrice}`);
+      log(`Final Price: ${finalPrice}`);
 
       if (initialPrice !== finalPrice) {
         status = 'FAIL';
         remark = 'Price did not reset after decrease';
         failures.push(`PRICE RESET FAIL | ${productName}`);
+        log(`❌ FAIL: ${remark}`);
+      } else {
+        log('✅ Price reset validated');
       }
 
       /* ---------- ADD TO CART ---------- */
+      log('Clicking Add to Cart...');
       const addToCartBtn = page.locator(
         "//button[normalize-space()='Add to Cart' and @type='button']"
       );
+
       if (await addToCartBtn.count() === 0) {
         status = 'FAIL';
         remark = 'Add to Cart button not found';
         failures.push(`ADD TO CART MISSING | ${productUrl}`);
-        return;
+        continue;
       }
 
       await addToCartBtn.first().click();
       await page.waitForTimeout(5000);
 
+      /* ---------- MINI CART CHECK ---------- */
       const cartBtn = page.locator('a[href="/checkout/cart"]');
+
       if (await cartBtn.count() === 0) {
         status = 'FAIL';
-        remark = `Add to Cart not working`;
+        remark = `Add to Cart not working for ${productName}`;
         failures.push(`MINI CART FAIL | ${productName}`);
+        log(`❌ FAIL: ${remark}`);
+        continue;
       }
+
+      log('✅ Mini cart opened successfully');
 
     } catch (e) {
       status = 'ERROR';
       remark = e.message;
       failures.push(`ERROR | ${productUrl}`);
+      log(`🔥 ERROR: ${remark}`);
     } finally {
       const escape = (v) => `"${String(v).replace(/"/g, '""')}"`;
 
@@ -174,21 +192,10 @@ test('Sitemap products – price validation + add to cart (5 PARALLEL SAFE)', as
         `${index},${escape(productName)},${escape(productUrl)},${initialPrice},${increasedPrice},${finalPrice},${status},${escape(remark)}\n`
       );
 
-      log(`[${index}] Result saved`);
+      log(`Result saved for product ${index}`);
+      index++;
       await context.close();
     }
-  };
-
-  /* ---------- RUN IN PARALLEL (5 AT A TIME) ---------- */
-  for (let i = 0; i < productUrls.length; i += PARALLEL_LIMIT) {
-    const batch = productUrls.slice(i, i + PARALLEL_LIMIT);
-    const currentIndexes = batch.map(() => indexCounter++);
-
-    await Promise.all(
-      batch.map((url, idx) =>
-        processProduct(url, currentIndexes[idx])
-      )
-    );
   }
 
   /* ---------- FINAL ASSERT ---------- */

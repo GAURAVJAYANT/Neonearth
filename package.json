@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test",
+    "allure:open": "npx allure serve allure-results",
+    "test:report": "npx playwright test --reporter=line,allure-playwright && npx allure serve allure-results",
+    "test:auto": "npx playwright test && npx allure serve allure-results",
+    "test:windows": "powershell -ExecutionPolicy Bypass -File ./test-and-report.ps1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

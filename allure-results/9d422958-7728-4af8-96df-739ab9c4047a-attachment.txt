@@ -1,0 +1,27 @@
+[10:23:26 pm] Opening sitemap...
+[10:24:03 pm] Total Products Found: 2219
+[10:24:03 pm] 
+🚀 Processing batch 1
+[10:24:03 pm] [1] Opening https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/12-custom-duck-cotton-canvas-tarp-p
+[10:24:03 pm] [2] Opening https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/4-custom-duck-cotton-canvas-tarp-p
+[10:24:03 pm] [3] Opening https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/8-custom-duck-cotton-canvas-tarp-p
+[10:24:03 pm] [4] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/18-21-inch-tv-covers-p
+[10:24:03 pm] [5] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/22-25-inch-tv-covers-p
+[10:24:03 pm] [6] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/26-31-inch-tv-covers-p
+[10:24:03 pm] [7] Opening https://www.coversandall.com/marine-covers/bimini-top/3-bow-bimini-top-p
+[10:24:03 pm] [8] Opening https://www.coversandall.com/tarps-curtains/custom-tarps/truck-tarps/3-piece-lumber-tarp-p
+[10:24:03 pm] [10] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/36-41-inch-tv-covers-p
+[10:24:03 pm] [9] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/32-35-inch-tv-covers-p
+[10:24:24 pm] ✅ Batch written to CSV
+[10:24:24 pm] 
+🚀 Processing batch 2
+[10:24:24 pm] [11] Opening https://www.coversandall.com/marine-covers/bimini-top/4-bow-bimini-top-p
+[10:24:24 pm] [12] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/42-45-inch-tv-covers-p
+[10:24:24 pm] [13] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/46-49-inch-tv-covers-p
+[10:24:24 pm] [14] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/50-54-inch-tv-covers-p
+[10:24:24 pm] [15] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/55-59-inch-tv-covers-p
+[10:24:24 pm] [16] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/60-64-inch-tv-covers-p
+[10:24:24 pm] [17] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/65-68-inch-tv-covers-p
+[10:24:24 pm] [18] Opening https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/70-73-inch-tv-covers-p
+[10:24:24 pm] [19] Opening https://www.coversandall.com/cushion-pillow-covers/outdoor-cushion-covers/abstract-cushion-cover-p
+[10:24:24 pm] [20] Opening https://www.coversandall.com/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/abstract-pillow-cover-p
