@@ -1,0 +1,22 @@
+{
+  "name": "cov_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:windows": "powershell -ExecutionPolicy Bypass -File ./test-and-report.ps1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^24.10.1",
+    "monocart-reporter": "^2.9.23"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "winston": "^3.19.0"
+  }
+}
