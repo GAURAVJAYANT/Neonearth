@@ -1,0 +1,1348 @@
+[1:23:12 pm] Opening sitemap...
+[1:23:24 pm] Total Products Found: 1033
+[1:23:24 pm] 
+🚀 Processing batch 1
+[1:23:24 pm] [1] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-canvas-tarpaulins/12-custom-duck-cotton-canvas-tarpaulin-p
+[1:23:24 pm] [2] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-canvas-tarpaulins/4-custom-duck-cotton-canvas-tarpaulin-p
+[1:23:24 pm] [3] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-canvas-tarpaulins/8-custom-duck-cotton-canvas-tarpaulin-p
+[1:23:24 pm] [4] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/18-21-inch-tv-covers-p
+[1:23:24 pm] [5] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/22-25-inch-tv-covers-p
+[1:23:24 pm] [6] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/26-31-inch-tv-covers-p
+[1:23:24 pm] [7] Opening https://www.coversandall.co.uk/marine-covers/bimini-top/3-bow-bimini-top-p
+[1:23:24 pm] [8] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/truck-tarpaulins/lumber-tarpaulins-three-piece-p
+[1:23:24 pm] [9] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/32-35-inch-tv-covers-p
+[1:23:24 pm] [10] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/36-41-inch-tv-covers-p
+[1:23:43 pm] ✅ Batch written to CSV
+[1:23:43 pm] 
+🚀 Processing batch 2
+[1:23:43 pm] [11] Opening https://www.coversandall.co.uk/marine-covers/bimini-top/4-bow-bimini-top-p
+[1:23:43 pm] [12] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/42-45-inch-tv-covers-p
+[1:23:43 pm] [13] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/46-49-inch-tv-covers-p
+[1:23:43 pm] [14] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/50-54-inch-tv-covers-p
+[1:23:43 pm] [15] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/55-59-inch-tv-covers-p
+[1:23:43 pm] [16] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/60-64-inch-tv-covers-p
+[1:23:43 pm] [17] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/65-68-inch-tv-covers-p
+[1:23:43 pm] [18] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/70-73-inch-tv-covers-p
+[1:23:43 pm] [19] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/abstract-cushion-cover-p
+[1:23:43 pm] [20] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/abstract-pillow-cover-p
+[1:24:02 pm] ✅ Batch written to CSV
+[1:24:02 pm] 
+🚀 Processing batch 3
+[1:24:02 pm] [21] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/abstract-throw-pillow-p
+[1:24:02 pm] [22] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-22-p
+[1:24:02 pm] [23] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/gym-equipment-covers/adaptive-motion-trainer-covers-p
+[1:24:02 pm] [24] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/adirondack-chair-cushion-cover-p
+[1:24:02 pm] [25] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-1-p
+[1:24:02 pm] [26] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-6-p
+[1:24:02 pm] [27] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-7-p
+[1:24:02 pm] [28] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-2-p
+[1:24:02 pm] [29] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-4-p
+[1:24:02 pm] [30] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-5-p
+[1:24:24 pm] ✅ Batch written to CSV
+[1:24:24 pm] 
+🚀 Processing batch 4
+[1:24:24 pm] [31] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-7-p
+[1:24:24 pm] [32] Opening https://www.coversandall.co.uk/accessories/air-bags-p
+[1:24:24 pm] [33] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/air-hockey-table-covers-p
+[1:24:24 pm] [34] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/outdoor-pizza-oven-covers-design-5-p
+[1:24:24 pm] [35] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/aluminium-fishing-boat-cover-p
+[1:24:24 pm] [36] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/aluminium-v-jon-boat-cover-p
+[1:24:24 pm] [37] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/concession-display-covers/custom-concession-display-cover-design-2-p
+[1:24:24 pm] [38] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/animal-print-cushion-cover-p
+[1:24:24 pm] [39] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/animal-print-pillow-cover-p
+[1:24:24 pm] [40] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/animal-print-throw-pillow-p
+[1:24:44 pm] ✅ Batch written to CSV
+[1:24:44 pm] 
+🚀 Processing batch 5
+[1:24:44 pm] [41] Opening https://www.coversandall.co.uk/bbq-heating-covers/chiminea-covers/antique-bronze-chiminea-cover-p
+[1:24:44 pm] [42] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/argentinean-grill-cover-p
+[1:24:44 pm] [43] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/recliner-covers/recliner-covers-design-3-p
+[1:24:44 pm] [44] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/armless-chair-covers-p
+[1:24:44 pm] [45] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-16-p
+[1:24:44 pm] [46] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/atm-cover-p
+[1:24:44 pm] [47] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/atv-cover-p
+[1:24:44 pm] [48] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/light-filtering-roller-shades/avantgarde-light-filtering-sheerlux-shade-p
+[1:24:44 pm] [49] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/bar-stool-cushion-cover-p
+[1:24:44 pm] [50] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/dining-table-covers-design-3-p
+[1:25:04 pm] ✅ Batch written to CSV
+[1:25:04 pm] 
+🚀 Processing batch 6
+[1:25:04 pm] [51] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/standard-bbq-covers/bbq-cover-design-1-p
+[1:25:04 pm] [52] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/sports-tarpaulin/baseball-field-covers-p
+[1:25:04 pm] [53] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/sports-tarpaulin/baseball-weighted-mound-tarps-rectangle-square-p
+[1:25:04 pm] [54] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/sports-tarpaulin/baseball-weighted-mound-tarps-round-p
+[1:25:04 pm] [55] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/bass-boat-cover-p
+[1:25:04 pm] [56] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/bay-boat-cover-p
+[1:25:04 pm] [57] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/genesis-series/bbq-cover-for-weber-genesis-ii-e-310-gas-bbq-p
+[1:25:04 pm] [58] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/genesis-series/bbq-cover-for-weber-genesis-ii-e-315-gas-bbq-p
+[1:25:04 pm] [59] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/genesis-series/bbq-cover-for-weber-genesis-ii-e-330-gas-bbq-p
+[1:25:04 pm] [60] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/genesis-series/bbq-cover-for-weber-genesis-ii-e-335-gas-bbq-p
+[1:25:23 pm] ✅ Batch written to CSV
+[1:25:23 pm] 
+🚀 Processing batch 7
+[1:25:23 pm] [61] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/genesis-series/bbq-cover-for-weber-genesis-ii-e-410-gas-bbq-p
+[1:25:23 pm] [62] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/genesis-series/bbq-cover-for-weber-genesis-ii-e-435-gas-bbq-p
+[1:25:23 pm] [63] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/genesis-series/bbq-cover-for-weber-genesis-ii-s-310-gas-bbq-p
+[1:25:23 pm] [64] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/spirit-series/bbq-cover-for-weber-genesis-ii-se-310-gas-bbq-p
+[1:25:23 pm] [65] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/genesis-series/bbq-cover-for-weber-genesis-ii-se-330-gas-bbq-p
+[1:25:23 pm] [66] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/genesis-series/bbq-cover-for-weber-genesis-ii-se-335-gas-bbq-p
+[1:25:23 pm] [67] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/portable-bbq-covers/go-anywhere-series/bbq-cover-for-weber-go-anywhere-charcoal-bbq-p
+[1:25:23 pm] [68] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/portable-bbq-covers/go-anywhere-series/bbq-cover-for-weber-go-anywhere-gas-bbq-p
+[1:25:23 pm] [69] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/portable-bbq-covers/jumbo-joe-series/bbq-cover-for-weber-jumbo-joe-charcoal-bbq-18-p
+[1:25:23 pm] [70] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/master-touch-series/bbq-cover-for-weber-master-touch-charcoal-bbq-22-p
+[1:25:43 pm] ✅ Batch written to CSV
+[1:25:43 pm] 
+🚀 Processing batch 8
+[1:25:43 pm] [71] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/original-kettle-series/bbq-cover-for-weber-original-kettle-charcoal-bbq-18-p
+[1:25:43 pm] [72] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/original-kettle-series/bbq-cover-for-weber-original-kettle-premium-charcoal-bbq-22-p
+[1:25:43 pm] [73] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/original-kettle-series/bbq-cover-for-weber-original-kettle-premium-charcoal-bbq-26-p
+[1:25:43 pm] [74] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/performer-series/bbq-cover-for-weber-performer-charcoal-bbq-22-p
+[1:25:43 pm] [75] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/performer-series/bbq-cover-for-weber-performer-deluxe-charcoal-bbq-22-p
+[1:25:43 pm] [76] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/performer-series/bbq-cover-for-weber-performer-premium-charcoal-bbq-22-p
+[1:25:43 pm] [77] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/q-series/bbq-cover-for-weber-q-1000-gas-bbq-p
+[1:25:43 pm] [78] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/q-series/bbq-cover-for-weber-q-1200-gas-bbq-p
+[1:25:44 pm] [79] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/electric-bbq-covers/q-electric-bbq/bbq-cover-for-weber-q-1400-electric-bbq-p
+[1:25:44 pm] [80] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/q-series/bbq-cover-for-weber-q-2000-gas-bbq-p
+[1:26:16 pm] ✅ Batch written to CSV
+[1:26:16 pm] 
+🚀 Processing batch 9
+[1:26:16 pm] [81] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/q-series/bbq-cover-for-weber-q-2200-gas-bbq-p
+[1:26:16 pm] [82] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/electric-bbq-covers/q-electric-bbq/bbq-cover-for-weber-q-2400-electric-bbq-p
+[1:26:17 pm] [83] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/q-series/bbq-cover-for-weber-q-3200-gas-bbq-p
+[1:26:17 pm] [84] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/ranch-series/bbq-cover-for-weber-ranch-kettle-charcoal-bbq-37-p
+[1:26:17 pm] [85] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/wood-pellet-bbq-covers/smokefire-series/bbq-cover-for-weber-smokefire-ex4-wood-fired-pellet-bbq-p
+[1:26:17 pm] [86] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/wood-pellet-bbq-covers/smokefire-series/bbq-cover-for-weber-smokefire-ex6-wood-fired-pellet-bbq-p
+[1:26:17 pm] [87] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/portable-bbq-covers/smokey-joe-series/bbq-cover-for-weber-smokey-joe-charcoal-bbq-14-p
+[1:26:17 pm] [88] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/portable-bbq-covers/smokey-joe-series/bbq-cover-for-weber-smokey-joe-premium-charcoal-bbq-14-p
+[1:26:17 pm] [89] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/smokey-mountain-cooker-series/bbq-cover-for-weber-smokey-mountain-cooker-smoker-14-p
+[1:26:17 pm] [90] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/smokey-mountain-cooker-series/bbq-cover-for-weber-smokey-mountain-cooker-smoker-18-p
+[1:26:48 pm] ✅ Batch written to CSV
+[1:26:48 pm] 
+🚀 Processing batch 10
+[1:26:48 pm] [91] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/smokey-mountain-cooker-series/bbq-cover-for-weber-smokey-mountain-cooker-smoker-22-p
+[1:26:48 pm] [92] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/spirit-series/bbq-cover-for-weber-spirit-e-210-gas-bbq-p
+[1:26:48 pm] [93] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/spirit-series/bbq-cover-for-weber-spirit-e-310-gas-bbq-p
+[1:26:48 pm] [94] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/spirit-series/bbq-cover-for-weber-spirit-e-330-gas-bbq-p
+[1:26:48 pm] [95] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/spirit-series/bbq-cover-for-weber-spirit-ii-e-210-gas-bbq-p
+[1:26:48 pm] [96] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/spirit-series/bbq-cover-for-weber-spirit-ii-e-310-gas-bbq-p
+[1:26:48 pm] [97] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/spirit-series/bbq-cover-for-weber-spirit-s-315-gas-bbq-p
+[1:26:48 pm] [98] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/spirit-series/bbq-cover-for-weber-spirit-sp-335-gas-bbq-p
+[1:26:48 pm] [99] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/summit-series/bbq-cover-for-weber-summit-grill-center-p
+[1:26:48 pm] [100] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/summit-charcoal-bbq-series/bbq-cover-for-weber-summit-charcoal-bbq-24-p
+[1:27:21 pm] ✅ Batch written to CSV
+[1:27:21 pm] 
+🚀 Processing batch 11
+[1:27:21 pm] [101] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/charcoal-bbq-covers/summit-charcoal-bbq-series/bbq-cover-for-weber-summit-charcoal-grilling-center-24-p
+[1:27:21 pm] [102] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/summit-series/bbq-cover-for-weber-summit-e-470-gas-bbq-p
+[1:27:21 pm] [103] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/summit-series/bbq-cover-for-weber-summit-e-670-gas-bbq-p
+[1:27:21 pm] [104] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/summit-series/bbq-cover-for-weber-summit-s-460-built-in-gas-bbq-p
+[1:27:21 pm] [105] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/summit-series/bbq-cover-for-weber-summit-s-470-gas-bbq-p
+[1:27:21 pm] [106] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/summit-series/bbq-cover-for-weber-summit-s-660-built-in-gas-bbq-p
+[1:27:21 pm] [107] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/weber-covers/gas-bbq-covers/summit-series/bbq-cover-for-weber-summit-s-670-gas-bbq-p
+[1:27:21 pm] [108] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/bench-cushion-cover-p
+[1:27:22 pm] [109] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/big-egg-barbecue-covers-p
+[1:27:22 pm] [110] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/bird-bath-covers-p
+[1:27:53 pm] ✅ Batch written to CSV
+[1:27:53 pm] 
+🚀 Processing batch 12
+[1:27:54 pm] [111] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/blackout-cellular-shade-plain-p
+[1:27:54 pm] [112] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/blackout-cellular-shade-textured-p
+[1:27:54 pm] [113] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/industrial-curtains/body-shop-curtains-p
+[1:27:54 pm] [114] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/light-filtering-roller-shades/bogota-light-filtering-roller-shade-p
+[1:27:54 pm] [115] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/bolster-cushion-cover-p
+[1:27:54 pm] [116] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/bolster-indoor-cushion-cover-p
+[1:27:54 pm] [117] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/bolster-straight-back-cushion-cover-p
+[1:27:54 pm] [118] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/bolster-straight-back-indoor-cushion-cover-p
+[1:27:54 pm] [119] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/sports-tarpaulin/boxing-ring-covers-p
+[1:27:54 pm] [120] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/standard-bbq-covers/broil-king-grill-covers-p
+[1:28:28 pm] ✅ Batch written to CSV
+[1:28:28 pm] 
+🚀 Processing batch 13
+[1:28:28 pm] [121] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/built-in-barbecue-covers-p
+[1:28:28 pm] [122] Opening https://www.coversandall.co.uk/accessories/bungee-ball-p
+[1:28:28 pm] [123] Opening https://www.coversandall.co.uk/accessories/bungee-cord-p
+[1:28:28 pm] [124] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/cabin-cruiser-boat-cover-p
+[1:28:28 pm] [125] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/standard-bbq-covers/cadac-grill-covers-p
+[1:28:29 pm] [126] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/canopy-covers-p
+[1:28:29 pm] [127] Opening https://www.coversandall.co.uk/accessories/weight-bags/canopy-weight-bags-p
+[1:28:29 pm] [128] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/specialized-tarpaulins/canvas-painter-s-drop-cloth-p
+[1:28:29 pm] [129] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-canvas-tarpaulins/canvas-tarpaulin-rectangle-square-p
+[1:28:29 pm] [130] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-5-x-7-p
+[1:29:06 pm] ✅ Batch written to CSV
+[1:29:06 pm] 
+🚀 Processing batch 14
+[1:29:06 pm] [131] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-6-x-8-p
+[1:29:06 pm] [132] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-6-x-10-p
+[1:29:06 pm] [133] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-6-x-20-p
+[1:29:06 pm] [134] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-7-x-9-p
+[1:29:06 pm] [135] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-8-x-12-p
+[1:29:06 pm] [136] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-8-x-10-p
+[1:29:06 pm] [137] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-12-x-16-p
+[1:29:06 pm] [138] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-12-x-20-p
+[1:29:06 pm] [139] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-12-x-24-p
+[1:29:06 pm] [140] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-10-x-12-p
+[1:29:35 pm] ✅ Batch written to CSV
+[1:29:35 pm] 
+🚀 Processing batch 15
+[1:29:36 pm] [141] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-10-x-10-p
+[1:29:36 pm] [142] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-10-x-16-p
+[1:29:36 pm] [143] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-10-x-20-p
+[1:29:36 pm] [144] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-14-x-20-p
+[1:29:36 pm] [145] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-14-x-24-p
+[1:29:36 pm] [146] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-16-x-20-p
+[1:29:36 pm] [147] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-canvas-tarpaulin/canvas-tarpaulin-16oz-size-20-x-20-p
+[1:29:36 pm] [148] Opening https://www.coversandall.co.uk/bbq-heating-covers/chiminea-covers/custom-chiminea-cover-design-1-p
+[1:29:36 pm] [149] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/chair-cushion-cover-set-p
+[1:29:36 pm] [150] Opening https://www.coversandall.co.uk/accessories/chair-organizer-p
+[1:30:07 pm] ✅ Batch written to CSV
+[1:30:07 pm] 
+🚀 Processing batch 16
+[1:30:07 pm] [151] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/chair-seat-cushion-cover-p
+[1:30:07 pm] [152] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-10-p
+[1:30:07 pm] [153] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/standard-bbq-covers/char-broil-grill-covers-p
+[1:30:08 pm] [154] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/checkered-cushion-cover-p
+[1:30:08 pm] [155] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/checkered-pillow-cover-p
+[1:30:08 pm] [156] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/checkered-throw-pillow-p
+[1:30:08 pm] [157] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/outdoor-pizza-oven-covers-design-3-p
+[1:30:08 pm] [158] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/chevron-cushion-cover-p
+[1:30:08 pm] [159] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/chevron-pillow-cover-p
+[1:30:08 pm] [160] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/chevron-throw-pillow-p
+[1:30:40 pm] ✅ Batch written to CSV
+[1:30:40 pm] 
+🚀 Processing batch 17
+[1:30:40 pm] [161] Opening https://www.coversandall.co.uk/accessories/storage-bags/christmas-tree-storage-bag-p
+[1:30:40 pm] [162] Opening https://www.coversandall.co.uk/accessories/storage-bags/upright-christmas-tree-storage-bag-p
+[1:30:40 pm] [163] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-10-p
+[1:30:40 pm] [164] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/round-fire-pit-covers-design-3-p
+[1:30:40 pm] [165] Opening https://www.coversandall.co.uk/vehicle-covers/rv-covers/class-a-rv-cover-p
+[1:30:40 pm] [166] Opening https://www.coversandall.co.uk/vehicle-covers/rv-covers/class-b-rv-cover-p
+[1:30:40 pm] [167] Opening https://www.coversandall.co.uk/vehicle-covers/rv-covers/class-c-rv-cover-p
+[1:30:40 pm] [168] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/outdoor-seating-covers/standard-size-adirondack-chair-cover-design-1-p
+[1:30:40 pm] [169] Opening https://www.coversandall.co.uk/bbq-heating-covers/chiminea-covers/custom-chiminea-cover-design-3-p
+[1:30:40 pm] [170] Opening https://www.coversandall.co.uk/solar-shades/outdoor-roller-shades/classic-outdoor-roller-shade-p
+[1:31:13 pm] ✅ Batch written to CSV
+[1:31:13 pm] 
+🚀 Processing batch 18
+[1:31:14 pm] [171] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-13-p
+[1:31:14 pm] [172] Opening https://www.coversandall.co.uk/solar-shades/outdoor-roller-shades/classic-pro-outdoor-roller-shades-p
+[1:31:14 pm] [173] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/classic-retro-motorcycle-cover-p
+[1:31:14 pm] [174] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-11-p
+[1:31:14 pm] [175] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-3-p
+[1:31:14 pm] [176] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/industrial-curtains/clean-room-curtains-p
+[1:31:14 pm] [177] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-1-2m-x-1-8m-p
+[1:31:14 pm] [178] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-5x5-p
+[1:31:14 pm] [179] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-1-5m-x-2-1m-p
+[1:31:14 pm] [180] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-5x8-p
+[1:31:46 pm] ✅ Batch written to CSV
+[1:31:46 pm] 
+🚀 Processing batch 19
+[1:31:46 pm] [181] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-5x10-p
+[1:31:47 pm] [182] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-5x15-p
+[1:31:47 pm] [183] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-5x20-p
+[1:31:47 pm] [184] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-6x8-p
+[1:31:47 pm] [185] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-6x12-p
+[1:31:47 pm] [186] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-6x10-p
+[1:31:47 pm] [187] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-6x15-p
+[1:31:47 pm] [188] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-6x20-p
+[1:31:47 pm] [189] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-2-1m-x-3m-p
+[1:31:47 pm] [190] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-8x8-p
+[1:32:08 pm] ✅ Batch written to CSV
+[1:32:08 pm] 
+🚀 Processing batch 20
+[1:32:08 pm] [191] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-8x12-p
+[1:32:08 pm] [192] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-8x10-p
+[1:32:08 pm] [193] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-8x15-p
+[1:32:08 pm] [194] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-8x20-p
+[1:32:08 pm] [195] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-8x25-p
+[1:32:08 pm] [196] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-12x15-p
+[1:32:08 pm] [197] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-10x12-p
+[1:32:08 pm] [198] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-10x10-p
+[1:32:08 pm] [199] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-10x15-p
+[1:32:08 pm] [200] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/clear-vinyl-tarpaulin/clear-plastic-tarpaulin-20mil-size-14x14-p
+[1:32:31 pm] ✅ Batch written to CSV
+[1:32:31 pm] 
+🚀 Processing batch 21
+[1:32:31 pm] [201] Opening https://www.coversandall.co.uk/solar-shades/outdoor-roller-shades/clear-roller-shade-p
+[1:32:31 pm] [202] Opening https://www.coversandall.co.uk/custom-covers/clear-vinyl-covers-p
+[1:32:31 pm] [203] Opening https://www.coversandall.co.uk/custom-covers/clear-vinyl-covers-round-cylinder-shape-p
+[1:32:31 pm] [204] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/outdoor-curtains/clear-vinyl-curtains-p
+[1:32:31 pm] [205] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/outdoor-curtains/clear-vinyl-magnetic-curtain-p
+[1:32:31 pm] [206] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/clear-tarpaulins/custom-clear-plastic-tarpaulin-p
+[1:32:31 pm] [207] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/clipped-bolster-cushion-cover-p
+[1:32:31 pm] [208] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/recliner-covers/recliner-covers-design-5-p
+[1:32:31 pm] [209] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/truck-tarpaulins/coil-bag-p
+[1:32:31 pm] [210] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/winch-covers/custom-winch-covers-design-2-p
+[1:33:06 pm] ✅ Batch written to CSV
+[1:33:06 pm] 
+🚀 Processing batch 22
+[1:33:06 pm] [211] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/custom-firewood-rack-cover-design-1-p
+[1:33:06 pm] [212] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/pressure-washer-covers/custom-pressure-washer-covers-design-4-p
+[1:33:06 pm] [213] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/concert-lighting-covers-p
+[1:33:06 pm] [214] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/specialized-tarpaulins/concrete-blankets-p
+[1:33:06 pm] [215] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-9-p
+[1:33:06 pm] [216] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/corner-chair-covers-p
+[1:33:06 pm] [217] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/crescent-firewood-rack-cover-p
+[1:33:06 pm] [218] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/cross-motorcycle-cover-p
+[1:33:07 pm] [219] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/cruiser-chopper-motorcycle-cover-p
+[1:33:07 pm] [220] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/cube-cushion-cover-p
+[1:33:39 pm] ✅ Batch written to CSV
+[1:33:39 pm] 
+🚀 Processing batch 23
+[1:33:39 pm] [221] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/cuddy-cabin-boat-cover-p
+[1:33:39 pm] [222] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/outdoor-pizza-oven-covers-design-6-p
+[1:33:39 pm] [223] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/outdoor-curtains/curtain-with-clear-vinyl-panel-p
+[1:33:39 pm] [224] Opening https://www.coversandall.co.uk/marine-covers/boat-cushions/curved-boat-cushion-p
+[1:33:39 pm] [225] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/curved-cushion-cover-p
+[1:33:39 pm] [226] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/curved-indoor-cushion-cover-p
+[1:33:39 pm] [227] Opening https://www.coversandall.co.uk/bbq-heating-covers/kitchen-island-covers/outdoor-bar-island-covers-design-5-p
+[1:33:39 pm] [228] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-12-p
+[1:33:39 pm] [229] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-16-p
+[1:33:39 pm] [230] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/concession-display-covers/custom-concession-display-cover-design-1-p
+[1:34:14 pm] ✅ Batch written to CSV
+[1:34:14 pm] 
+🚀 Processing batch 24
+[1:34:14 pm] [231] Opening https://www.coversandall.co.uk/standard-size-covers/standard-size-sofa-covers/standard-size-curved-sofa-covers-p
+[1:34:14 pm] [232] Opening https://www.coversandall.co.uk/standard-size-covers/standard-size-cushion-pillow-covers/cushion-covers-p
+[1:34:14 pm] [233] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-7-p
+[1:34:14 pm] [234] Opening https://www.coversandall.co.uk/accessories/storage-bags/cushion-storage-bags-p
+[1:34:14 pm] [235] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/cushion-storage-chest-covers-p
+[1:34:14 pm] [236] Opening https://www.coversandall.co.uk/garden-furniture-covers/sofa-covers/sofa-slipcovers/custom-2-seater-sofa-slipcover-p
+[1:34:14 pm] [237] Opening https://www.coversandall.co.uk/garden-furniture-covers/sofa-covers/sofa-slipcovers/custom-3-seater-sofa-slipcover-p
+[1:34:14 pm] [238] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/adirondacks-chair-cushion-p
+[1:34:15 pm] [239] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/backs-cushion-p
+[1:34:15 pm] [240] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/bar-height-dining-set-covers-p
+[1:34:48 pm] ✅ Batch written to CSV
+[1:34:48 pm] 
+🚀 Processing batch 25
+[1:34:49 pm] [241] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/bar-stool-cushion-p
+[1:34:49 pm] [242] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/custom-barbecue-covers-p
+[1:34:49 pm] [243] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/bench-cushion-p
+[1:34:49 pm] [244] Opening https://www.coversandall.co.uk/vehicle-covers/custom-boat-center-console-covers-p
+[1:34:49 pm] [245] Opening https://www.coversandall.co.uk/vehicle-covers/custom-boat-seat-covers-p
+[1:34:49 pm] [246] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/chair-cushion-set-p
+[1:34:49 pm] [247] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/chair-seat-cushion-p
+[1:34:49 pm] [248] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/snowblower-covers/custom-cordless-snowblower-cover-p
+[1:34:49 pm] [249] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-p
+[1:34:49 pm] [250] Opening https://www.coversandall.co.uk/custom-size-covers-any-shape-p
+[1:35:24 pm] ✅ Batch written to CSV
+[1:35:24 pm] 
+🚀 Processing batch 26
+[1:35:24 pm] [251] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/curved-cushion-p
+[1:35:25 pm] [252] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/ottoman-covers/curved-ottoman-covers-p
+[1:35:25 pm] [253] Opening https://www.coversandall.co.uk/garden-furniture-covers/sofa-covers/lounge-loveseat-covers/curved-sofa-covers-p
+[1:35:25 pm] [254] Opening https://www.coversandall.co.uk/custom-covers/custom-cylinder-round-covers-p
+[1:35:25 pm] [255] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/daybed-cushion-p
+[1:35:25 pm] [256] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/custom-dog-crate-cover-p
+[1:35:25 pm] [257] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/hatchback-car-cover-p
+[1:35:25 pm] [258] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/limo-car-covers-p
+[1:35:25 pm] [259] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/monster-truck-cover-p
+[1:35:25 pm] [260] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/sedan-car-cover-p
+[1:36:00 pm] ✅ Batch written to CSV
+[1:36:00 pm] 
+🚀 Processing batch 27
+[1:36:00 pm] [261] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/sports-car-cover-p
+[1:36:01 pm] [262] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/suv-cover-p
+[1:36:01 pm] [263] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/truck-cover-p
+[1:36:01 pm] [264] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/van-cover-p
+[1:36:01 pm] [265] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/vintage-car-cover-p
+[1:36:01 pm] [266] Opening https://www.coversandall.co.uk/vehicle-covers/car-covers/wagon-car-covers-p
+[1:36:01 pm] [267] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/floor-cushion-p
+[1:36:01 pm] [268] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/classic-sun-shade-sail/custom-four-sided-sun-shade-sail-p
+[1:36:01 pm] [269] Opening https://www.coversandall.co.uk/solar-shades/custom-patio-umbrella-p
+[1:36:01 pm] [270] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/custom-gas-grill-cover-p
+[1:36:40 pm] ✅ Batch written to CSV
+[1:36:40 pm] 
+🚀 Processing batch 28
+[1:36:41 pm] [271] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/snowblower-covers/custom-gas-snowblower-cover-p
+[1:36:41 pm] [272] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/glider-cushion-p
+[1:36:41 pm] [273] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/half-rounded-cushion-p
+[1:36:41 pm] [274] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/vinyl-tarpaulins/custom-heavy-duty-vinyl-tarpaulin-rectangle-square-p
+[1:36:41 pm] [275] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/waterproof-tarpaulins/custom-heavy-duty-vinyl-tarpaulin-round-p
+[1:36:41 pm] [276] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/custom-hexagonal-trampoline-cover-p
+[1:36:41 pm] [277] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/custom-insulated-cover-p
+[1:36:41 pm] [278] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/industrial-curtains/custom-insulated-curtains-p
+[1:36:41 pm] [279] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/specialized-tarpaulins/custom-insulated-tarpaulin-p
+[1:36:41 pm] [280] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/custom-l-shape-sofa-slipcover-p
+[1:37:16 pm] ✅ Batch written to CSV
+[1:37:16 pm] 
+🚀 Processing batch 29
+[1:37:16 pm] [281] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/log-splitter-covers/custom-log-splitter-covers-dual-action-log-splitter-p
+[1:37:16 pm] [282] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/log-splitter-covers/custom-log-splitter-covers-electric-log-splitter-p
+[1:37:16 pm] [283] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/log-splitter-covers/custom-log-splitter-covers-horizontal-vertical-gas-log-splitter-p
+[1:37:16 pm] [284] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/log-splitter-covers/custom-log-splitter-covers-kinetic-gas-log-splitter-p
+[1:37:16 pm] [285] Opening https://www.coversandall.co.uk/vehicle-covers/custom-magnetic-car-windshield-cover-p
+[1:37:16 pm] [286] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/winch-covers/custom-master-lock-portable-electric-winch-cover-p
+[1:37:16 pm] [287] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/vinyl-tarpaulins/custom-medium-duty-vinyl-tarp-round-p
+[1:37:16 pm] [288] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/vinyl-tarpaulins/custom-medium-duty-vinyl-tarpaulin-rectangle-square-p
+[1:37:16 pm] [289] Opening https://www.coversandall.co.uk/tarpaulins-curtains/privacy-screens/custom-mesh-fence-privacy-screen-p
+[1:37:16 pm] [290] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-mesh-tarpaulins/custom-mesh-tarpaulin-p
+[1:37:47 pm] ✅ Batch written to CSV
+[1:37:47 pm] 
+🚀 Processing batch 30
+[1:37:48 pm] [291] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-canvas-tarpaulins/custom-natural-untreated-canvas-tarpaulin-p
+[1:37:48 pm] [292] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/ottoman-cushion-round-p
+[1:37:48 pm] [293] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/ottoman-cushion-rectangle-square-p
+[1:37:48 pm] [294] Opening https://www.coversandall.co.uk/vehicle-covers/custom-outdoor-boat-motor-covers-p
+[1:37:48 pm] [295] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/outdoor-curtains/custom-outdoor-curtains-p
+[1:37:48 pm] [296] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/custom-outdoor-mattress-cover-p
+[1:37:48 pm] [297] Opening https://www.coversandall.co.uk/garden-furniture-covers/sofa-covers/lounge-loveseat-covers/modular-sofa-loveseat-covers-p
+[1:37:48 pm] [298] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/oval-cushion-p
+[1:37:48 pm] [299] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/pergola-covers/classic-pergola-covers/custom-pergola-shade-cover-extended-p
+[1:37:48 pm] [300] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/pergola-covers/classic-pergola-covers/custom-pergola-shade-covers-p
+[1:38:23 pm] ✅ Batch written to CSV
+[1:38:23 pm] 
+🚀 Processing batch 31
+[1:38:23 pm] [301] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/custom-pillow-covers-rectangle-p
+[1:38:24 pm] [302] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/custom-pillow-covers-round-p
+[1:38:24 pm] [303] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/custom-pillow-covers-square-p
+[1:38:24 pm] [304] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/custom-poker-table-cover-octagonal-p
+[1:38:24 pm] [305] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/custom-poker-table-cover-oval-p
+[1:38:24 pm] [306] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/custom-poker-table-cover-round-p
+[1:38:24 pm] [307] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/custom-poker-table-cover-squarerectangle-p
+[1:38:24 pm] [308] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/waterproof-tarpaulins/poly-tarpaulin-p
+[1:38:24 pm] [309] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/ottoman-covers/rectangle-ottoman-covers-p
+[1:38:24 pm] [310] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/custom-rectangular-square-trampoline-cover-p
+[1:39:01 pm] ✅ Batch written to CSV
+[1:39:01 pm] 
+🚀 Processing batch 32
+[1:39:01 pm] [311] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/rmu-covers/custom-rmu-cover-one-side-open-p
+[1:39:01 pm] [312] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/rmu-covers/custom-rmu-cover-round-p
+[1:39:01 pm] [313] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/rmu-covers/custom-rmu-cover-three-sides-open-p
+[1:39:01 pm] [314] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/rocking-chair-cushion-set-p
+[1:39:01 pm] [315] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/specialized-tarpaulins/custom-roof-tarpaulin-p
+[1:39:01 pm] [316] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/ottoman-covers/round-ottoman-covers-p
+[1:39:01 pm] [317] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/round-table-chair-set-covers-p
+[1:39:01 pm] [318] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/round-table-chair-set-covers-w-umbrella-hole-p
+[1:39:01 pm] [319] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/custom-round-trampoline-cover-p
+[1:39:01 pm] [320] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/round-cushion-p
+[1:39:37 pm] ✅ Batch written to CSV
+[1:39:37 pm] 
+🚀 Processing batch 33
+[1:39:38 pm] [321] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/custom-scissor-lift-cover-p
+[1:39:38 pm] [322] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/seats-cushion-p
+[1:39:38 pm] [323] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/custom-shape-cushion-cover-p
+[1:39:38 pm] [324] Opening https://www.coversandall.co.uk/garden-furniture-covers/sofa-covers/sofa-slipcovers/custom-single-seater-sofa-slipcover-p
+[1:39:38 pm] [325] Opening https://www.coversandall.co.uk/solar-shades/skylight-covers/custom-skylight-covers-barrel-vaulted-p
+[1:39:38 pm] [326] Opening https://www.coversandall.co.uk/solar-shades/skylight-covers/custom-skylight-covers-extended-pyramid-p
+[1:39:38 pm] [327] Opening https://www.coversandall.co.uk/solar-shades/skylight-covers/custom-skylight-covers-flat-bent-p
+[1:39:38 pm] [328] Opening https://www.coversandall.co.uk/solar-shades/skylight-covers/custom-skylight-covers-pyramid-p
+[1:39:38 pm] [329] Opening https://www.coversandall.co.uk/solar-shades/skylight-covers/custom-skylight-covers-rectangularsquare-p
+[1:39:38 pm] [330] Opening https://www.coversandall.co.uk/solar-shades/skylight-covers/custom-skylight-covers-rectangular-square-dome-p
+[1:40:11 pm] ✅ Batch written to CSV
+[1:40:11 pm] 
+🚀 Processing batch 34
+[1:40:11 pm] [331] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/specialized-tarpaulins/custom-snow-removal-tarpaulin-p
+[1:40:11 pm] [332] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/sofa-cushion-set-p
+[1:40:11 pm] [333] Opening https://www.coversandall.co.uk/vehicle-covers/custom-spare-tyre-covers-p
+[1:40:11 pm] [334] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/ottoman-covers/square-ottoman-covers-p
+[1:40:11 pm] [335] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/square-rectangle-table-chair-set-covers-p
+[1:40:11 pm] [336] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/square-rectangle-table-chair-set-covers-w-umbrella-hole-p
+[1:40:12 pm] [337] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/custom-storage-bench-covers-p
+[1:40:12 pm] [338] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/classic-sun-shade-sail/custom-sun-shade-sail-rectangle-p
+[1:40:12 pm] [339] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/classic-sun-shade-sail/custom-sun-shade-sail-square-p
+[1:40:12 pm] [340] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/classic-sun-shade-sail/custom-sun-shade-sail-triangle-p
+[1:40:56 pm] ✅ Batch written to CSV
+[1:40:56 pm] 
+🚀 Processing batch 35
+[1:40:57 pm] [341] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/vinyl-tarpaulins/super-heavy-duty-custom-tarpaulin-rectangle-square-p
+[1:40:57 pm] [342] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/vinyl-tarpaulins/super-heavy-duty-round-shaped-tarpaulin-p
+[1:40:57 pm] [343] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/cooler-covers/custom-swamp-cooler-covers-down-discharge-round-p
+[1:40:57 pm] [344] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/cooler-covers/custom-swamp-cooler-covers-downdraft-p
+[1:40:57 pm] [345] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/cooler-covers/custom-swamp-cooler-covers-side-discharge-p
+[1:40:57 pm] [346] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/swing-cushion-p
+[1:40:57 pm] [347] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/t-shape-cushion-p
+[1:40:57 pm] [348] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/custom-pillow/custom-throw-pillow-rectangle-p
+[1:40:57 pm] [349] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/custom-pillow/custom-throw-pillow-round-p
+[1:40:57 pm] [350] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/custom-pillow/custom-throw-pillow-square-p
+[1:41:31 pm] ✅ Batch written to CSV
+[1:41:31 pm] 
+🚀 Processing batch 36
+[1:41:31 pm] [351] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/tv-covers/custom-tv-covers-p
+[1:41:31 pm] [352] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/v-shape-cushion-p
+[1:41:31 pm] [353] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/winch-covers/custom-warn-axon-winch-cover-p
+[1:41:31 pm] [354] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/ottoman-covers/wedge-ottoman-covers-p
+[1:41:31 pm] [355] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushions/window-seat-cushion-p
+[1:41:31 pm] [356] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-4-p
+[1:41:31 pm] [357] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/day-cruiser-boat-cover-p
+[1:41:31 pm] [358] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/daybed-cushion-cover-p
+[1:41:31 pm] [359] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-6-p
+[1:41:31 pm] [360] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/specialized-tarpaulins/debris-lifting-tarpaulin-p
+[1:42:06 pm] ✅ Batch written to CSV
+[1:42:06 pm] 
+🚀 Processing batch 37
+[1:42:06 pm] [361] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/deck-boat-cover-p
+[1:42:06 pm] [362] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-3-p
+[1:42:06 pm] [363] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-1-p
+[1:42:06 pm] [364] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-17-p
+[1:42:06 pm] [365] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/dining-table-covers-design-5-p
+[1:42:06 pm] [366] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/dining-table-covers-design-4-p
+[1:42:06 pm] [367] Opening https://www.coversandall.co.uk/vehicle-covers/dog-car-seat-cover/dog-car-front-seat-cover-p
+[1:42:06 pm] [368] Opening https://www.coversandall.co.uk/vehicle-covers/dog-car-seat-cover/dog-car-rear-seat-cover-p
+[1:42:06 pm] [369] Opening https://www.coversandall.co.uk/vehicle-covers/dog-car-seat-cover/dog-car-rear-seat-cover-with-hammock-p
+[1:42:06 pm] [370] Opening https://www.coversandall.co.uk/vehicle-covers/dog-car-seat-cover/dog-car-trunk-cover-p
+[1:42:43 pm] ✅ Batch written to CSV
+[1:42:43 pm] 
+🚀 Processing batch 38
+[1:42:43 pm] [371] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/zebra-blinds/dolce-zebra-shades-p
+[1:42:43 pm] [372] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-bowl-covers/fire-bowl-covers-design-5-p
+[1:42:43 pm] [373] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/outdoor-pizza-oven-covers-design-2-p
+[1:42:43 pm] [374] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-3-p
+[1:42:43 pm] [375] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/outdoor-seating-covers/standard-size-adirondack-chair-cover-design-2-p
+[1:42:43 pm] [376] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/drift-boat-cover-p
+[1:42:43 pm] [377] Opening https://www.coversandall.co.uk/accessories/storage-bags/dry-bags-p
+[1:42:43 pm] [378] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-4-p
+[1:42:43 pm] [379] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-3-p
+[1:42:43 pm] [380] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/truck-tarpaulins/dump-truck-tarpaulin-p
+[1:43:18 pm] ✅ Batch written to CSV
+[1:43:18 pm] 
+🚀 Processing batch 39
+[1:43:18 pm] [381] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/dumpster-covers-p
+[1:43:18 pm] [382] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/economy-poly-tarpaulin/economy-poly-tarpaulin-size-5-x-7-p
+[1:43:18 pm] [383] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/economy-poly-tarpaulin/economy-poly-tarpaulin-size-12-x-12-p
+[1:43:18 pm] [384] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/heater-covers/patio-heater-covers-design-2-p
+[1:43:18 pm] [385] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/pressure-washer-covers/custom-pressure-washer-covers-design-1-p
+[1:43:18 pm] [386] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/light-filtering-roller-shades/elegance-light-filtering-sheerlux-shade-p
+[1:43:18 pm] [387] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/enduro-motorcycle-cover-p
+[1:43:18 pm] [388] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/ethereal-blackout-roller-shade-p
+[1:43:19 pm] [389] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/extra-large-rectangle-firewood-rack-cover-p
+[1:43:19 pm] [390] Opening https://www.coversandall.co.uk/vehicle-covers/rv-covers/fifth-wheel-trailer-cover-p
+[1:43:38 pm] ✅ Batch written to CSV
+[1:43:38 pm] 
+🚀 Processing batch 40
+[1:43:38 pm] [391] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-1-p
+[1:43:38 pm] [392] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/fire-pit-covers-hexagon-p
+[1:43:38 pm] [393] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/fire-pit-covers-octagon-p
+[1:43:38 pm] [394] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/fire-pit-covers-triangle-p
+[1:43:38 pm] [395] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/fire-retardant-tarpaulins/fire-retardant-clear-vinyl-tarpaulin-p
+[1:43:39 pm] [396] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/fire-retardant-tarpaulins/fire-retardant-mesh-tarpaulin-p
+[1:43:39 pm] [397] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/fire-retardant-tarpaulins/fire-retardant-vinyl-tarpaulin-p
+[1:43:39 pm] [398] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-bowl-covers/fire-bowl-covers-design-4-p
+[1:43:39 pm] [399] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/custom-firewood-rack-cover-design-2-p
+[1:43:39 pm] [400] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/custom-firewood-rack-cover-design-4-p
+[1:43:59 pm] ✅ Batch written to CSV
+[1:43:59 pm] 
+🚀 Processing batch 41
+[1:43:59 pm] [401] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/firewood-rack-with-kindling-holder-cover-p
+[1:43:59 pm] [402] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/fish-ski-boat-cover-p
+[1:43:59 pm] [403] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/flats-blunt-nose-boat-cover-p
+[1:43:59 pm] [404] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/floor-cushion-cover-p
+[1:43:59 pm] [405] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/floral-cushion-cover-p
+[1:43:59 pm] [406] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/floral-pillow-cover-p
+[1:43:59 pm] [407] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/floral-throw-pillow-p
+[1:43:59 pm] [408] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/custom-upright-ping-pong-table-cover-p
+[1:43:59 pm] [409] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-5-p
+[1:43:59 pm] [410] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/foosball-table-covers-p
+[1:44:29 pm] ✅ Batch written to CSV
+[1:44:29 pm] 
+🚀 Processing batch 42
+[1:44:30 pm] [411] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/forklift-covers-p
+[1:44:30 pm] [412] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/fountain-covers-p
+[1:44:30 pm] [413] Opening https://www.coversandall.co.uk/swatch-kit-p
+[1:44:30 pm] [414] Opening https://www.coversandall.co.uk/free-swatches-classic-outdoor-shade-p
+[1:44:30 pm] [415] Opening https://www.coversandall.co.uk/free-swatches-premium-outdoor-shade-p
+[1:44:30 pm] [416] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/standard-bbq-covers/fuego-grill-covers-p
+[1:44:30 pm] [417] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/full-sectional-set-cover-p
+[1:44:30 pm] [418] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/outdoor-seating-covers/standard-size-chair-cover-design-2-p
+[1:44:30 pm] [419] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/bench-covers/custom-bench-covers-design-1-p
+[1:44:30 pm] [420] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/garden-parasol-covers-p
+[1:44:49 pm] ✅ Batch written to CSV
+[1:44:49 pm] 
+🚀 Processing batch 43
+[1:44:49 pm] [421] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/gas-charcoal-combo-grill-cover-p
+[1:44:49 pm] [422] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/gas-station-pump-cover-p
+[1:44:49 pm] [423] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/pressure-washer-covers/custom-pressure-washer-covers-design-2-p
+[1:44:49 pm] [424] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/generator-covers-p
+[1:44:49 pm] [425] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/geneva-blackout-roller-shade-p
+[1:44:49 pm] [426] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/geometric-cushion-cover-p
+[1:44:49 pm] [427] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/geometric-pillow-cover-p
+[1:44:49 pm] [428] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/geometric-throw-pillow-p
+[1:44:49 pm] [429] Opening https://www.coversandall.co.uk/accessories/storage-bags/gift-wrap-storage-bag-p
+[1:44:49 pm] [430] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-9-p
+[1:45:08 pm] ✅ Batch written to CSV
+[1:45:08 pm] 
+🚀 Processing batch 44
+[1:45:09 pm] [431] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/glider-cushion-cover-p
+[1:45:09 pm] [432] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/golf-cart-covers-p
+[1:45:09 pm] [433] Opening https://www.coversandall.co.uk/swimming-pool-covers/grecian-pool-covers/grecian-pool-cover-center-steps-p
+[1:45:09 pm] [434] Opening https://www.coversandall.co.uk/swimming-pool-covers/grecian-pool-covers/grecian-pool-cover-left-right-corner-steps-p
+[1:45:09 pm] [435] Opening https://www.coversandall.co.uk/swimming-pool-covers/grecian-pool-covers/grecian-pool-cover-no-steps-p
+[1:45:09 pm] [436] Opening https://www.coversandall.co.uk/swimming-pool-covers/grecian-pool-covers/grecian-pool-covers-above-ground-p
+[1:45:09 pm] [437] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/grecian-winter-pool-cover-p
+[1:45:09 pm] [438] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/custom-griddle-covers-design-1-p
+[1:45:09 pm] [439] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/custom-griddle-covers-design-3-p
+[1:45:09 pm] [440] Opening https://www.coversandall.co.uk/accessories/storage-bags/grocery-shopping-bag-p
+[1:45:33 pm] ✅ Batch written to CSV
+[1:45:33 pm] 
+🚀 Processing batch 45
+[1:45:33 pm] [441] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/more-equipment-covers/gun-safe-cover-p
+[1:45:33 pm] [442] Opening https://www.coversandall.co.uk/marine-covers/boat-cushions/half-round-boat-cushion-p
+[1:45:33 pm] [443] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/half-rounded-cushion-cover-p
+[1:45:33 pm] [444] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/half-rounded-indoor-cushion-cover-p
+[1:45:33 pm] [445] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/custom-firewood-rack-cover-design-3-p
+[1:45:33 pm] [446] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/hamburg-blackout-roller-shade-p
+[1:45:33 pm] [447] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/hammock-covers-p
+[1:45:33 pm] [448] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/hanging-chair-covers/hanging-chair-cover-design-3-p
+[1:45:33 pm] [449] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/hanging-chair-covers/hanging-chair-cover-design-1-p
+[1:45:33 pm] [450] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/hanging-chair-covers/hanging-chair-cover-design-2-p
+[1:45:53 pm] ✅ Batch written to CSV
+[1:45:53 pm] 
+🚀 Processing batch 46
+[1:45:53 pm] [451] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/hard-top-boat-cover-p
+[1:45:53 pm] [452] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/specialized-tarpaulins/hay-tarpaulin-p
+[1:45:53 pm] [453] Opening https://www.coversandall.co.uk/tarpaulins-curtains/privacy-screens/heavy-duty-custom-fence-privacy-screens-p
+[1:45:53 pm] [454] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/heavy-duty-custom-sandbox-covers-no-pole-cut-out-p
+[1:45:53 pm] [455] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/heavy-duty-custom-sandbox-covers-with-4-pole-cut-out-p
+[1:45:53 pm] [456] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/heavy-duty-custom-sandbox-covers-with-6-pole-cut-out-p
+[1:45:53 pm] [457] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/heavy-duty-tarpaulins/heavy-duty-custom-tarpaulin-p
+[1:45:53 pm] [458] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/heavy-duty-poly-tarpaulin/heavy-duty-poly-tarpaulin-size-6-x-8-p
+[1:45:53 pm] [459] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/heavy-duty-poly-tarpaulin/heavy-duty-poly-tarpaulin-size-12-x-16-p
+[1:45:53 pm] [460] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/heavy-duty-tarpaulins/heavy-duty-round-shaped-tarpaulin-p
+[1:46:12 pm] ✅ Batch written to CSV
+[1:46:12 pm] 
+🚀 Processing batch 47
+[1:46:12 pm] [461] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-60x80-p
+[1:46:12 pm] [462] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-5x5-p
+[1:46:12 pm] [463] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-5x10-p
+[1:46:12 pm] [464] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-5x15-p
+[1:46:12 pm] [465] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-5x20-p
+[1:46:12 pm] [466] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-6x8-p
+[1:46:12 pm] [467] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-6x10-p
+[1:46:12 pm] [468] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-6x15-p
+[1:46:12 pm] [469] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-6x20-p
+[1:46:12 pm] [470] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-40x40-p
+[1:46:26 pm] ✅ Batch written to CSV
+[1:46:26 pm] 
+🚀 Processing batch 48
+[1:46:26 pm] [471] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-40x50-p
+[1:46:26 pm] [472] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-40x60-p
+[1:46:26 pm] [473] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-40x80-p
+[1:46:26 pm] [474] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-40x100-p
+[1:46:26 pm] [475] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-50x50-p
+[1:46:26 pm] [476] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-50x60-p
+[1:46:26 pm] [477] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-50x80-p
+[1:46:26 pm] [478] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-50x100-p
+[1:46:26 pm] [479] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-60x60-p
+[1:46:27 pm] [480] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-60x100-p
+[1:46:40 pm] ✅ Batch written to CSV
+[1:46:40 pm] 
+🚀 Processing batch 49
+[1:46:41 pm] [481] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-60x120-p
+[1:46:41 pm] [482] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-8x10-p
+[1:46:41 pm] [483] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-8x15-p
+[1:46:41 pm] [484] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-8x20-p
+[1:46:41 pm] [485] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-8x25-p
+[1:46:41 pm] [486] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-12x20-p
+[1:46:41 pm] [487] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-12x24-p
+[1:46:41 pm] [488] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-12x30-p
+[1:46:41 pm] [489] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-12x12-p
+[1:46:41 pm] [490] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-12x15-p
+[1:46:54 pm] ✅ Batch written to CSV
+[1:46:54 pm] 
+🚀 Processing batch 50
+[1:46:54 pm] [491] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-100x100-p
+[1:46:54 pm] [492] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-120x120-p
+[1:46:55 pm] [493] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-10x40-p
+[1:46:55 pm] [494] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-10x50-p
+[1:46:55 pm] [495] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-10x60-p
+[1:46:55 pm] [496] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-10x12-p
+[1:46:55 pm] [497] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-10x10-p
+[1:46:55 pm] [498] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-10x15-p
+[1:46:55 pm] [499] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-10x20-p
+[1:46:55 pm] [500] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-10x25-p
+[1:47:09 pm] ✅ Batch written to CSV
+[1:47:09 pm] 
+🚀 Processing batch 51
+[1:47:09 pm] [501] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-10x30-p
+[1:47:09 pm] [502] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-14x14-p
+[1:47:09 pm] [503] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-14x20-p
+[1:47:09 pm] [504] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-14x24-p
+[1:47:09 pm] [505] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-15x20-p
+[1:47:09 pm] [506] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-15x50-p
+[1:47:09 pm] [507] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-15x15-p
+[1:47:09 pm] [508] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-15x25-p
+[1:47:09 pm] [509] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-15x30-p
+[1:47:09 pm] [510] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-16x20-p
+[1:47:22 pm] ✅ Batch written to CSV
+[1:47:22 pm] 
+🚀 Processing batch 52
+[1:47:22 pm] [511] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-16x24-p
+[1:47:22 pm] [512] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-18x20-p
+[1:47:23 pm] [513] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-18x25-p
+[1:47:23 pm] [514] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-20x40-p
+[1:47:23 pm] [515] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-20x50-p
+[1:47:23 pm] [516] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-20x60-p
+[1:47:23 pm] [517] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-20x80-p
+[1:47:23 pm] [518] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-20x20-p
+[1:47:23 pm] [519] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-20x30-p
+[1:47:23 pm] [520] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-24x36-p
+[1:47:37 pm] ✅ Batch written to CSV
+[1:47:37 pm] 
+🚀 Processing batch 53
+[1:47:37 pm] [521] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-24x48-p
+[1:47:37 pm] [522] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-24x24-p
+[1:47:37 pm] [523] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-25x25-p
+[1:47:37 pm] [524] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-25x30-p
+[1:47:37 pm] [525] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-25x40-p
+[1:47:37 pm] [526] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-25x50-p
+[1:47:37 pm] [527] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-25x75-p
+[1:47:37 pm] [528] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-30x60-p
+[1:47:37 pm] [529] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-30x90-p
+[1:47:37 pm] [530] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-30x30-p
+[1:47:48 pm] ✅ Batch written to CSV
+[1:47:48 pm] 
+🚀 Processing batch 54
+[1:47:48 pm] [531] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-30x40-p
+[1:47:49 pm] [532] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/heavy-duty-vinyl-tarpaulin/heavy-duty-tarpaulin-18oz-size-30x50-p
+[1:47:49 pm] [533] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/pressure-washer-covers/custom-pressure-washer-covers-design-7-p
+[1:47:49 pm] [534] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/winch-covers/custom-winch-covers-design-1-p
+[1:47:49 pm] [535] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/hexagonal-firewood-rack-cover-p
+[1:47:49 pm] [536] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-16-p
+[1:47:49 pm] [537] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/bench-covers/custom-bench-covers-design-7-p
+[1:47:49 pm] [538] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-15-p
+[1:47:49 pm] [539] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-14-p
+[1:47:49 pm] [540] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-15-p
+[1:48:08 pm] ✅ Batch written to CSV
+[1:48:08 pm] 
+🚀 Processing batch 55
+[1:48:08 pm] [541] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-5x15-p
+[1:48:08 pm] [542] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-5x20-p
+[1:48:08 pm] [543] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-6x15-p
+[1:48:08 pm] [544] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-6x20-p
+[1:48:08 pm] [545] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-40x40-p
+[1:48:08 pm] [546] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-40x50-p
+[1:48:08 pm] [547] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-40x60-p
+[1:48:08 pm] [548] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-40x80-p
+[1:48:08 pm] [549] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-40x100-p
+[1:48:08 pm] [550] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-50x50-p
+[1:48:21 pm] ✅ Batch written to CSV
+[1:48:21 pm] 
+🚀 Processing batch 56
+[1:48:21 pm] [551] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-50x60-p
+[1:48:21 pm] [552] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-50x80-p
+[1:48:22 pm] [553] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-50x100-p
+[1:48:22 pm] [554] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-60x80-p
+[1:48:22 pm] [555] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-60x100-p
+[1:48:22 pm] [556] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-60x120-p
+[1:48:22 pm] [557] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-60x60-p
+[1:48:22 pm] [558] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-8x10-p
+[1:48:22 pm] [559] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-8x15-p
+[1:48:22 pm] [560] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-8x20-p
+[1:48:34 pm] ✅ Batch written to CSV
+[1:48:34 pm] 
+🚀 Processing batch 57
+[1:48:34 pm] [561] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-8x25-p
+[1:48:34 pm] [562] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-12x12-p
+[1:48:34 pm] [563] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-12x15-p
+[1:48:35 pm] [564] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-12x20-p
+[1:48:35 pm] [565] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-12x24-p
+[1:48:35 pm] [566] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-12x30-p
+[1:48:35 pm] [567] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-100x100-p
+[1:48:35 pm] [568] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-120x120-p
+[1:48:35 pm] [569] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-10x40-p
+[1:48:35 pm] [570] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-10x50-p
+[1:48:51 pm] ✅ Batch written to CSV
+[1:48:51 pm] 
+🚀 Processing batch 58
+[1:48:51 pm] [571] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-10x60-p
+[1:48:51 pm] [572] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-10x12-p
+[1:48:51 pm] [573] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-10x10-p
+[1:48:51 pm] [574] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-10x15-p
+[1:48:51 pm] [575] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-10x20-p
+[1:48:51 pm] [576] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-10x25-p
+[1:48:51 pm] [577] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-10x30-p
+[1:48:52 pm] [578] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-14x14-p
+[1:48:52 pm] [579] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-14x20-p
+[1:48:52 pm] [580] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-14x24-p
+[1:49:04 pm] ✅ Batch written to CSV
+[1:49:04 pm] 
+🚀 Processing batch 59
+[1:49:04 pm] [581] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-15x50-p
+[1:49:04 pm] [582] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-15x15-p
+[1:49:04 pm] [583] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-15x20-p
+[1:49:04 pm] [584] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-15x25-p
+[1:49:04 pm] [585] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-15x30-p
+[1:49:04 pm] [586] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-16x20-p
+[1:49:04 pm] [587] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-16x24-p
+[1:49:04 pm] [588] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-18x20-p
+[1:49:04 pm] [589] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-18x25-p
+[1:49:04 pm] [590] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-20x40-p
+[1:49:17 pm] ✅ Batch written to CSV
+[1:49:17 pm] 
+🚀 Processing batch 60
+[1:49:17 pm] [591] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-20x50-p
+[1:49:17 pm] [592] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-20x60-p
+[1:49:17 pm] [593] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-20x80-p
+[1:49:17 pm] [594] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-20x20-p
+[1:49:17 pm] [595] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-20x30-p
+[1:49:17 pm] [596] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-24x36-p
+[1:49:17 pm] [597] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-24x48-p
+[1:49:17 pm] [598] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-24x24-p
+[1:49:17 pm] [599] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-25x40-p
+[1:49:17 pm] [600] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-25x25-p
+[1:49:30 pm] ✅ Batch written to CSV
+[1:49:30 pm] 
+🚀 Processing batch 61
+[1:49:30 pm] [601] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-25x30-p
+[1:49:30 pm] [602] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-25x50-p
+[1:49:30 pm] [603] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-25x75-p
+[1:49:30 pm] [604] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-30x40-p
+[1:49:30 pm] [605] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-30x50-p
+[1:49:30 pm] [606] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-30x60-p
+[1:49:30 pm] [607] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-30x90-p
+[1:49:30 pm] [608] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/mesh-tarpaulin/high-strength-mesh-tarpaulin-6oz-size-30x30-p
+[1:49:30 pm] [609] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-7-p
+[1:49:30 pm] [610] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/custom-luggage-cart-cover-design-3-p
+[1:49:49 pm] ✅ Batch written to CSV
+[1:49:49 pm] 
+🚀 Processing batch 62
+[1:49:49 pm] [611] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/honeycomb-firewood-rack-cover-p
+[1:49:49 pm] [612] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/concession-display-covers/custom-concession-display-cover-design-3-p
+[1:49:49 pm] [613] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/hot-tub-covers-p
+[1:49:49 pm] [614] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/custom-luggage-cart-cover-design-1-p
+[1:49:49 pm] [615] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/houndstooth-cushion-cover-p
+[1:49:49 pm] [616] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/houndstooth-pillow-cover-p
+[1:49:49 pm] [617] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/houndstooth-throw-pillow-p
+[1:49:49 pm] [618] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/custom-firewood-rack-cover-design-5-p
+[1:49:49 pm] [619] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/more-equipment-covers/ibc-tote-cover-p
+[1:49:49 pm] [620] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/ice-cream-machine-cover-p
+[1:50:08 pm] ✅ Batch written to CSV
+[1:50:08 pm] 
+🚀 Processing batch 63
+[1:50:08 pm] [621] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/ice-hockey-net-cover-p
+[1:50:08 pm] [622] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/ikat-cushion-cover-p
+[1:50:08 pm] [623] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/ikat-pillow-cover-p
+[1:50:08 pm] [624] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/ikat-throw-pillow-p
+[1:50:08 pm] [625] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/inflatable-boat-cover-p
+[1:50:08 pm] [626] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/jet-boat-cover-p
+[1:50:08 pm] [627] Opening https://www.coversandall.co.uk/vehicle-covers/jet-ski-covers-p
+[1:50:08 pm] [628] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/jon-boat-cover-p
+[1:50:08 pm] [629] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/jon-style-bass-boat-cover-p
+[1:50:08 pm] [630] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/light-filtering-roller-shades/jutella-light-filtering-roller-shade-p
+[1:50:39 pm] ✅ Batch written to CSV
+[1:50:39 pm] 
+🚀 Processing batch 64
+[1:50:39 pm] [631] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/kamado-grill-covers-p
+[1:50:39 pm] [632] Opening https://www.coversandall.co.uk/marine-covers/kayak-covers/kayak-cover-design-3-p
+[1:50:39 pm] [633] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/light-filtering-roller-shades/kendo-light-filtering-roller-shade-p
+[1:50:39 pm] [634] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/kenya-blackout-roller-shade-p
+[1:50:39 pm] [635] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/kettle-covers-p
+[1:50:39 pm] [636] Opening https://www.coversandall.co.uk/swimming-pool-covers/keyhole-pool-covers/keyhole-pool-covers-no-steps-p
+[1:50:39 pm] [637] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/keyhole-winter-pool-cover-p
+[1:50:39 pm] [638] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/kingston-blackout-roller-shade-p
+[1:50:39 pm] [639] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/kiosk-covers-p
+[1:50:39 pm] [640] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/cart-covers-design-2-p
+[1:51:01 pm] ✅ Batch written to CSV
+[1:51:01 pm] 
+🚀 Processing batch 65
+[1:51:01 pm] [641] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-mesh-tarpaulins/knitted-mesh-tarpaulin-85-shade-p
+[1:51:01 pm] [642] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-mesh-tarpaulins/knitted-mesh-tarpaulin-95-shade-p
+[1:51:01 pm] [643] Opening https://www.coversandall.co.uk/marine-covers/boat-cushions/l-shape-boat-cushion-p
+[1:51:01 pm] [644] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-sofa-covers-design-1-p
+[1:51:01 pm] [645] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-sofa-covers-design-2-p
+[1:51:01 pm] [646] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-sofa-covers-design-3-p
+[1:51:01 pm] [647] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-sofa-covers-design-4-p
+[1:51:01 pm] [648] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-sofa-covers-design-5-p
+[1:51:01 pm] [649] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-sofa-covers-design-6-p
+[1:51:01 pm] [650] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-sofa-covers-design-7-p
+[1:51:25 pm] ✅ Batch written to CSV
+[1:51:25 pm] 
+🚀 Processing batch 66
+[1:51:25 pm] [651] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-sofa-covers-design-8-p
+[1:51:25 pm] [652] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-sofa-covers-design-9-p
+[1:51:25 pm] [653] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/l-shaped-sofa-covers/l-shape-curved-sofa-cover-p
+[1:51:25 pm] [654] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/l-shape-cushion-cover-p
+[1:51:25 pm] [655] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/l-shape-indoor-cushion-cover-p
+[1:51:25 pm] [656] Opening https://www.coversandall.co.uk/bbq-heating-covers/kitchen-island-covers/outdoor-bar-island-covers-design-2-p
+[1:51:25 pm] [657] Opening https://www.coversandall.co.uk/bbq-heating-covers/kitchen-island-covers/outdoor-bar-island-covers-design-3-p
+[1:51:25 pm] [658] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-5-p
+[1:51:25 pm] [659] Opening https://www.coversandall.co.uk/swimming-pool-covers/l-shaped-pool-covers/l-shape-pool-cover-center-steps-p
+[1:51:25 pm] [660] Opening https://www.coversandall.co.uk/swimming-pool-covers/l-shaped-pool-covers/l-shape-pool-cover-left-right-steps-p
+[1:51:48 pm] ✅ Batch written to CSV
+[1:51:48 pm] 
+🚀 Processing batch 67
+[1:51:48 pm] [661] Opening https://www.coversandall.co.uk/swimming-pool-covers/l-shaped-pool-covers/l-shape-pool-cover-no-steps-p
+[1:51:48 pm] [662] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-9-p
+[1:51:48 pm] [663] Opening https://www.coversandall.co.uk/standard-size-covers/standard-size-sofa-covers/standard-size-l-shape-sofa-cover-p
+[1:51:48 pm] [664] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/l-shape-winter-pool-cover-p
+[1:51:48 pm] [665] Opening https://www.coversandall.co.uk/bbq-heating-covers/kitchen-island-covers/l-shaped-island-kitchen-covers-left-p
+[1:51:48 pm] [666] Opening https://www.coversandall.co.uk/bbq-heating-covers/kitchen-island-covers/l-shaped-island-kitchen-covers-right-p
+[1:51:48 pm] [667] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/lawn-mower-covers/lawn-mower-covers-p
+[1:51:48 pm] [668] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/lazy-l-shape-winter-pool-cover-p
+[1:51:48 pm] [669] Opening https://www.coversandall.co.uk/swimming-pool-covers/lazy-l-shaped-pool-covers/lazy-l-shaped-pool-covers-left-p
+[1:51:48 pm] [670] Opening https://www.coversandall.co.uk/swimming-pool-covers/lazy-l-shaped-pool-covers/lazy-l-shaped-pool-covers-right-p
+[1:52:09 pm] ✅ Batch written to CSV
+[1:52:09 pm] 
+🚀 Processing batch 68
+[1:52:10 pm] [671] Opening https://www.coversandall.co.uk/swimming-pool-covers/leaf-net-pool-covers/grecian-pool-covers-leaf-net-p
+[1:52:10 pm] [672] Opening https://www.coversandall.co.uk/swimming-pool-covers/leaf-net-pool-covers/l-shape-pool-cover-leaf-net-p
+[1:52:10 pm] [673] Opening https://www.coversandall.co.uk/swimming-pool-covers/leaf-net-pool-covers/oval-pool-covers-leaf-net-p
+[1:52:10 pm] [674] Opening https://www.coversandall.co.uk/swimming-pool-covers/leaf-net-pool-covers/rectangular-pool-covers-leaf-net-p
+[1:52:10 pm] [675] Opening https://www.coversandall.co.uk/swimming-pool-covers/leaf-net-pool-covers/round-pool-covers-leaf-net-p
+[1:52:10 pm] [676] Opening https://www.coversandall.co.uk/garden-furniture-covers/sofa-covers/lounge-loveseat-covers/left-arm-loveseat-covers-p
+[1:52:10 pm] [677] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/light-filtering-roller-shades/light-filtering-cellular-shade-plain-p
+[1:52:10 pm] [678] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/linen-blackout-roller-shade-p
+[1:52:10 pm] [679] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/log-hoop-firewood-rack-cover-p
+[1:52:10 pm] [680] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/sports-tarpaulin/long-jump-pit-cover-p
+[1:52:30 pm] ✅ Batch written to CSV
+[1:52:30 pm] 
+🚀 Processing batch 69
+[1:52:31 pm] [681] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-9-p
+[1:52:31 pm] [682] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/truck-tarpaulins/lumber-tarpaulins-double-flap-p
+[1:52:31 pm] [683] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/truck-tarpaulins/lumber-tarpaulins-single-flap-p
+[1:52:31 pm] [684] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/machine-covers-p
+[1:52:31 pm] [685] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/outdoor-curtains/magnetic-screen-door-p
+[1:52:31 pm] [686] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/medium-duty-poly-tarpaulin/medium-duty-poly-tarpaulin-size-6-x-8-p
+[1:52:31 pm] [687] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/medium-duty-poly-tarpaulin/medium-duty-poly-tarpaulin-size-40-x-60-p
+[1:52:31 pm] [688] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/medium-duty-poly-tarpaulin/medium-duty-poly-tarpaulin-size-10-x-12-p
+[1:52:31 pm] [689] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/medium-duty-poly-tarpaulin/medium-duty-poly-tarpaulin-size-10-x-20-p
+[1:52:31 pm] [690] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/medium-duty-poly-tarpaulin/medium-duty-poly-tarpaulin-size-16-x-20-p
+[1:52:52 pm] ✅ Batch written to CSV
+[1:52:52 pm] 
+🚀 Processing batch 70
+[1:52:52 pm] [691] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/medium-duty-poly-tarpaulin/medium-duty-poly-tarpaulin-size-20-x-40-p
+[1:52:52 pm] [692] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/medium-duty-vinyl-tarpaulins/medium-duty-vinyl-tarpaulin-p
+[1:52:52 pm] [693] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/outdoor-curtains/mesh-curtains-p
+[1:52:52 pm] [694] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/mesh-custom-sandbox-covers-no-pole-cut-out-p
+[1:52:52 pm] [695] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/mesh-custom-sandbox-covers-with-4-pole-cut-out-p
+[1:52:52 pm] [696] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/mesh-custom-sandbox-covers-with-6-pole-cut-out-p
+[1:52:52 pm] [697] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/truck-tarpaulins/mesh-truck-tarpaulin-p
+[1:52:52 pm] [698] Opening https://www.coversandall.co.uk/accessories/metal-stakes-p
+[1:52:52 pm] [699] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/mini-motorcycle-cover-p
+[1:52:52 pm] [700] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/bench-covers/custom-bench-covers-design-6-p
+[1:53:13 pm] ✅ Batch written to CSV
+[1:53:13 pm] 
+🚀 Processing batch 71
+[1:53:13 pm] [701] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/recliner-covers/recliner-covers-design-4-p
+[1:53:13 pm] [702] Opening https://www.coversandall.co.uk/bbq-heating-covers/chiminea-covers/custom-chiminea-cover-design-2-p
+[1:53:13 pm] [703] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-6-p
+[1:53:13 pm] [704] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/custom-firewood-rack-cover-design-6-p
+[1:53:13 pm] [705] Opening https://www.coversandall.co.uk/bbq-heating-covers/chiminea-covers/custom-chiminea-cover-design-8-p
+[1:53:13 pm] [706] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-covers/square-table-covers-design-1-p
+[1:53:13 pm] [707] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-12-p
+[1:53:13 pm] [708] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-8-p
+[1:53:13 pm] [709] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-14-p
+[1:53:13 pm] [710] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-23-p
+[1:53:34 pm] ✅ Batch written to CSV
+[1:53:34 pm] 
+🚀 Processing batch 72
+[1:53:35 pm] [711] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-9-p
+[1:53:35 pm] [712] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-10-p
+[1:53:35 pm] [713] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/bench-covers/custom-bench-covers-design-8-p
+[1:53:35 pm] [714] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-1-p
+[1:53:35 pm] [715] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/modular-chair-covers/modular-club-chair-covers-design-6-p
+[1:53:35 pm] [716] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/modular-chair-covers/modular-club-chair-covers-design-2-p
+[1:53:35 pm] [717] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/modular-chair-covers/modular-club-chair-covers-design-4-p
+[1:53:35 pm] [718] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/modular-chair-covers/modular-club-chair-covers-design-3-p
+[1:53:35 pm] [719] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/modular-chair-covers/modular-club-chair-covers-design-1-p
+[1:53:35 pm] [720] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/modular-chair-covers/modular-club-chair-covers-design-5-p
+[1:53:57 pm] ✅ Batch written to CSV
+[1:53:57 pm] 
+🚀 Processing batch 73
+[1:53:57 pm] [721] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-12-p
+[1:53:57 pm] [722] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-5-p
+[1:53:57 pm] [723] Opening https://www.coversandall.co.uk/garden-furniture-covers/sofa-covers/lounge-loveseat-covers/custom-modular-sectional-sofa-cover-p
+[1:53:57 pm] [724] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/gym-equipment-covers/multi-gym-equipment-covers-p
+[1:53:57 pm] [725] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/round-fire-pit-covers-design-4-p
+[1:53:57 pm] [726] Opening https://www.coversandall.co.uk/accessories/storage-bags/multipurpose-bag-p
+[1:53:57 pm] [727] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/more-appliance-covers/music-mixer-covers-p
+[1:53:57 pm] [728] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/naked-motorcycle-cover-p
+[1:53:57 pm] [729] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/standard-bbq-covers/napoleon-grill-covers-p
+[1:53:57 pm] [730] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/napoli-blackout-roller-shade-p
+[1:54:19 pm] ✅ Batch written to CSV
+[1:54:19 pm] 
+🚀 Processing batch 74
+[1:54:19 pm] [731] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/light-filtering-roller-shades/light-filtering-roller-shadesnatural-light-filtering-sheerlux-shade-p
+[1:54:19 pm] [732] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/bench-covers/custom-bench-covers-design-4-p
+[1:54:19 pm] [733] Opening https://www.coversandall.co.uk/accessories/nylon-rope-p
+[1:54:19 pm] [734] Opening https://www.coversandall.co.uk/swimming-pool-covers/octagon-pool-covers/octagon-pool-covers-no-steps-p
+[1:54:19 pm] [735] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/octagon-winter-pool-cover-p
+[1:54:19 pm] [736] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-17-p
+[1:54:19 pm] [737] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-6-p
+[1:54:19 pm] [738] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/offset-smoker-covers-p
+[1:54:19 pm] [739] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/ottoman-cushion-cover-rectangle-square-p
+[1:54:19 pm] [740] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/ottoman-cushion-cover-round-p
+[1:54:40 pm] ✅ Batch written to CSV
+[1:54:40 pm] 
+🚀 Processing batch 75
+[1:54:40 pm] [741] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/air-conditioner-covers/outdoor-air-conditioner-covers-p
+[1:54:40 pm] [742] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/outdoor-seating-covers/standard-size-chair-cover-design-1-p
+[1:54:40 pm] [743] Opening https://www.coversandall.co.uk/bbq-heating-covers/kitchen-island-covers/outdoor-bar-island-covers-design-4-p
+[1:54:40 pm] [744] Opening https://www.coversandall.co.uk/bbq-heating-covers/kitchen-island-covers/outdoor-bar-island-covers-design-6-p
+[1:54:40 pm] [745] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-9-p
+[1:54:40 pm] [746] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-11-p
+[1:54:40 pm] [747] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/heater-covers/patio-heater-covers-design-5-p
+[1:54:40 pm] [748] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/cart-covers-design-7-p
+[1:54:40 pm] [749] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-8-p
+[1:54:40 pm] [750] Opening https://www.coversandall.co.uk/accessories/outdoor-faucet-cover-p
+[1:55:01 pm] ✅ Batch written to CSV
+[1:55:01 pm] 
+🚀 Processing batch 76
+[1:55:01 pm] [751] Opening https://www.coversandall.co.uk/bbq-heating-covers/kitchen-island-covers/outdoor-island-kitchen-covers-p
+[1:55:01 pm] [752] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-6-p
+[1:55:01 pm] [753] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/outdoor-patio-cooler-covers-p
+[1:55:01 pm] [754] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-4-p
+[1:55:01 pm] [755] Opening https://www.coversandall.co.uk/standard-size-covers/standard-size-cushion-pillow-covers/outdoor-pillow-covers-p
+[1:55:01 pm] [756] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/outdoor-pizza-oven-covers-design-1-p
+[1:55:01 pm] [757] Opening https://www.coversandall.co.uk/outdoor-rugs/outdoor-rugs-oval-p
+[1:55:01 pm] [758] Opening https://www.coversandall.co.uk/outdoor-rugs/outdoor-rugs-rectangle-p
+[1:55:01 pm] [759] Opening https://www.coversandall.co.uk/outdoor-rugs/outdoor-rugs-round-p
+[1:55:01 pm] [760] Opening https://www.coversandall.co.uk/outdoor-rugs/outdoor-rugs-square-p
+[1:55:22 pm] ✅ Batch written to CSV
+[1:55:22 pm] 
+🚀 Processing batch 77
+[1:55:23 pm] [761] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/outdoor-sauna-covers-p
+[1:55:23 pm] [762] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/outdoor-scoreboard-covers-p
+[1:55:23 pm] [763] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/cart-covers-design-5-p
+[1:55:23 pm] [764] Opening https://www.coversandall.co.uk/standard-size-covers/standard-size-sofa-covers/standard-size-outdoor-sofa-loveseat-covers-p
+[1:55:23 pm] [765] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/more-appliance-covers/outdoor-speaker-covers-p
+[1:55:23 pm] [766] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-10-p
+[1:55:23 pm] [767] Opening https://www.coversandall.co.uk/solar-shades/outdoor-tents/outdoor-storage-tents-10-ftx10-ft-p
+[1:55:23 pm] [768] Opening https://www.coversandall.co.uk/solar-shades/outdoor-tents/outdoor-storage-tents-20-ftx10-ft-p
+[1:55:23 pm] [769] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/heater-covers/patio-heater-covers-design-1-p
+[1:55:23 pm] [770] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/outdoor-curtains/outdoor-vinyl-curtains-p
+[1:55:42 pm] ✅ Batch written to CSV
+[1:55:42 pm] 
+🚀 Processing batch 78
+[1:55:42 pm] [771] Opening https://www.coversandall.co.uk/marine-covers/boat-cushions/oval-boat-cushion-p
+[1:55:43 pm] [772] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-3-p
+[1:55:43 pm] [773] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-covers/custom-oval-table-cover-design-2-p
+[1:55:43 pm] [774] Opening https://www.coversandall.co.uk/swimming-pool-covers/oval-pool-covers/oval-pool-cover-center-steps-p
+[1:55:43 pm] [775] Opening https://www.coversandall.co.uk/swimming-pool-covers/oval-pool-covers/oval-pool-cover-left-right-steps-p
+[1:55:43 pm] [776] Opening https://www.coversandall.co.uk/swimming-pool-covers/oval-pool-covers/oval-pool-cover-no-steps-p
+[1:55:43 pm] [777] Opening https://www.coversandall.co.uk/swimming-pool-covers/oval-pool-covers/oval-pool-covers-above-ground-p
+[1:55:43 pm] [778] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-covers/custom-oval-table-cover-design-1-p
+[1:55:43 pm] [779] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/oval-winter-pool-cover-p
+[1:55:43 pm] [780] Opening https://www.coversandall.co.uk/accessories/pad-eye-bracket-set-of-3-p
+[1:56:03 pm] ✅ Batch written to CSV
+[1:56:03 pm] 
+🚀 Processing batch 79
+[1:56:03 pm] [781] Opening https://www.coversandall.co.uk/accessories/pad-eye-bracket-p
+[1:56:04 pm] [782] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/paddle-boat-cover-p
+[1:56:04 pm] [783] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/pallet-covers-p
+[1:56:04 pm] [784] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/parking-meter-covers-p
+[1:56:04 pm] [785] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/zebra-blinds/paro-zebra-shades-p
+[1:56:04 pm] [786] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-11-p
+[1:56:04 pm] [787] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/heater-covers/patio-heater-covers-design-4-p
+[1:56:04 pm] [788] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-6-p
+[1:56:04 pm] [789] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-covers/square-table-covers-design-2-p
+[1:56:04 pm] [790] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/pellet-grill-covers-p
+[1:56:25 pm] ✅ Batch written to CSV
+[1:56:25 pm] 
+🚀 Processing batch 80
+[1:56:25 pm] [791] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/performance-boat-cover-p
+[1:56:25 pm] [792] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/personal-watercraft-boat-cover-p
+[1:56:25 pm] [793] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/picnic-table-covers/picnic-table-covers-design-1-p
+[1:56:25 pm] [794] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/pinball-game-cover-p
+[1:56:25 pm] [795] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/ping-pong-table-covers-design-2-p
+[1:56:25 pm] [796] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/bench-covers/custom-bench-covers-design-2-p
+[1:56:25 pm] [797] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/platform-luggage-cart-cover-p
+[1:56:25 pm] [798] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/polka-dot-cushion-cover-p
+[1:56:25 pm] [799] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/polka-dot-pillow-cover-p
+[1:56:25 pm] [800] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/polka-dot-throw-pillow-p
+[1:56:50 pm] ✅ Batch written to CSV
+[1:56:50 pm] 
+🚀 Processing batch 81
+[1:56:50 pm] [801] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/pontoon-boat-cover-p
+[1:56:50 pm] [802] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/pool-table-covers-p
+[1:56:50 pm] [803] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-2-p
+[1:56:50 pm] [804] Opening https://www.coversandall.co.uk/vehicle-covers/rv-covers/pop-up-camper-cover-p
+[1:56:50 pm] [805] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/popcorn-machine-cover-p
+[1:56:50 pm] [806] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/pressure-washer-covers/custom-pressure-washer-covers-design-5-p
+[1:56:50 pm] [807] Opening https://www.coversandall.co.uk/vehicle-covers/power-sports-equipment-covers-p
+[1:56:50 pm] [808] Opening https://www.coversandall.co.uk/tarpaulins-curtains/privacy-screens/premium-fence-screen-roll-p
+[1:56:50 pm] [809] Opening https://www.coversandall.co.uk/solar-shades/outdoor-roller-shades/premium-outdoor-roller-shade-p
+[1:56:50 pm] [810] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/pressure-washer-covers/custom-pressure-washer-covers-design-3-p
+[1:57:50 pm] ✅ Batch written to CSV
+[1:57:50 pm] 
+🚀 Processing batch 82
+[1:57:50 pm] [811] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/printed-indoor-roller-shades-p
+[1:57:50 pm] [812] Opening https://www.coversandall.co.uk/solar-shades/outdoor-roller-shades/printed-outdoor-blackout-shades-p
+[1:57:50 pm] [813] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/custom-griddle-covers-design-2-p
+[1:57:50 pm] [814] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-18-p
+[1:57:50 pm] [815] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/rack-cover-p
+[1:57:50 pm] [816] Opening https://www.coversandall.co.uk/marine-covers/kayak-covers/kayak-cover-design-1-p
+[1:57:50 pm] [817] Opening https://www.coversandall.co.uk/marine-covers/boat-cushions/rectangle-boat-cushion-p
+[1:57:50 pm] [818] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/rectangle-cushion-cover-p
+[1:57:50 pm] [819] Opening https://www.coversandall.co.uk/cushion-pillow-covers/dog-bed-cushion/rectangle-dog-bed-cushion-p
+[1:57:50 pm] [820] Opening https://www.coversandall.co.uk/bbq-heating-covers/firewood-covers/rectangle-firewood-rack-cover-p
+[1:58:52 pm] ✅ Batch written to CSV
+[1:58:52 pm] 
+🚀 Processing batch 83
+[1:58:52 pm] [821] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/rectangle-indoor-cushion-cover-p
+[1:58:52 pm] [822] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/side-table-covers/rectangle-accent-table-covers-p
+[1:58:52 pm] [823] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-covers/rectangle-table-covers-design-1-p
+[1:58:52 pm] [824] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/rectangular-fire-pit-covers-design-5-p
+[1:58:52 pm] [825] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-7-p
+[1:58:52 pm] [826] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/dining-table-covers-design-1-p
+[1:58:52 pm] [827] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/rectangular-fire-pit-covers-design-1-p
+[1:58:52 pm] [828] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/rectangular-fire-pit-covers-design-3-p
+[1:58:52 pm] [829] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/rectangular-fire-pit-covers-design-4-p
+[1:58:52 pm] [830] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-1-p
+[1:59:13 pm] ✅ Batch written to CSV
+[1:59:13 pm] 
+🚀 Processing batch 84
+[1:59:13 pm] [831] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-2-p
+[1:59:13 pm] [832] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-14-p
+[1:59:13 pm] [833] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-3-p
+[1:59:13 pm] [834] Opening https://www.coversandall.co.uk/swimming-pool-covers/rectangular-pool-covers/rectangular-pool-cover-center-steps-p
+[1:59:13 pm] [835] Opening https://www.coversandall.co.uk/swimming-pool-covers/rectangular-pool-covers/rectangular-pool-cover-left-right-steps-p
+[1:59:13 pm] [836] Opening https://www.coversandall.co.uk/swimming-pool-covers/rectangular-pool-covers/rectangular-pool-cover-no-steps-p
+[1:59:13 pm] [837] Opening https://www.coversandall.co.uk/swimming-pool-covers/rectangular-pool-covers/rectangular-pool-covers-above-ground-p
+[1:59:13 pm] [838] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-top-covers/rectangular-table-top-covers-p
+[1:59:13 pm] [839] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/rectangular-winter-pool-cover-p
+[1:59:13 pm] [840] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/gym-equipment-covers/recumbent-exercise-bike-covers-p
+[1:59:33 pm] ✅ Batch written to CSV
+[1:59:33 pm] 
+🚀 Processing batch 85
+[1:59:33 pm] [841] Opening https://www.coversandall.co.uk/garden-furniture-covers/sofa-covers/lounge-loveseat-covers/right-arm-loveseat-covers-p
+[1:59:33 pm] [842] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-1-p
+[1:59:34 pm] [843] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/rocking-chair-cushion-cover-set-p
+[1:59:34 pm] [844] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/pressure-washer-covers/custom-pressure-washer-covers-design-6-p
+[1:59:34 pm] [845] Opening https://www.coversandall.co.uk/swimming-pool-covers/roman-pool-covers/roman-pool-cover-left-right-steps-p
+[1:59:34 pm] [846] Opening https://www.coversandall.co.uk/swimming-pool-covers/roman-pool-covers/roman-pool-cover-no-steps-p
+[1:59:34 pm] [847] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/roman-winter-pool-cover-p
+[1:59:34 pm] [848] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/industrial-curtains/room-divider-curtains-p
+[1:59:34 pm] [849] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-27-p
+[1:59:34 pm] [850] Opening https://www.coversandall.co.uk/marine-covers/boat-cushions/round-boat-cushion-p
+[1:59:53 pm] ✅ Batch written to CSV
+[1:59:53 pm] 
+🚀 Processing batch 86
+[1:59:53 pm] [851] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-canvas-tarpaulins/round-canvas-tarps-p
+[1:59:53 pm] [852] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/round-cushion-cover-p
+[1:59:53 pm] [853] Opening https://www.coversandall.co.uk/cushion-pillow-covers/cushion-insert/round-cushion-insert-p
+[1:59:53 pm] [854] Opening https://www.coversandall.co.uk/cushion-pillow-covers/dog-bed-cushion/round-dog-bed-cushion-p
+[1:59:53 pm] [855] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-4-p
+[1:59:53 pm] [856] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-bowl-covers/fire-bowl-covers-design-1-p
+[1:59:53 pm] [857] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/round-fire-pit-chair-set-cover-p
+[1:59:53 pm] [858] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/round-indoor-cushion-cover-p
+[1:59:53 pm] [859] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-bowl-covers/fire-bowl-covers-design-3-p
+[1:59:53 pm] [860] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-1-p
+[2:00:14 pm] ✅ Batch written to CSV
+[2:00:14 pm] 
+🚀 Processing batch 87
+[2:00:14 pm] [861] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-2-p
+[2:00:14 pm] [862] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-covers/round-table-covers-design-1-p
+[2:00:14 pm] [863] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/picnic-table-covers/picnic-table-covers-design-2-p
+[2:00:14 pm] [864] Opening https://www.coversandall.co.uk/swimming-pool-covers/round-pool-covers/round-pool-cover-center-step-p
+[2:00:14 pm] [865] Opening https://www.coversandall.co.uk/swimming-pool-covers/round-pool-covers/round-pool-cover-no-steps-p
+[2:00:14 pm] [866] Opening https://www.coversandall.co.uk/swimming-pool-covers/round-pool-covers/round-pool-covers-above-ground-p
+[2:00:14 pm] [867] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/custom-mesh-tarpaulins/round-shape-mesh-tarpaulin-p
+[2:00:14 pm] [868] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/clear-tarpaulins/clear-round-shaped-plastic-tarpaulin-p
+[2:00:14 pm] [869] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/side-table-covers/round-accent-covers-p
+[2:00:14 pm] [870] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/round-smoker-covers-p
+[2:00:35 pm] ✅ Batch written to CSV
+[2:00:35 pm] 
+🚀 Processing batch 88
+[2:00:35 pm] [871] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-5-p
+[2:00:35 pm] [872] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/round-fire-pit-covers-design-1-p
+[2:00:35 pm] [873] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-covers/round-table-covers-design-2-p
+[2:00:35 pm] [874] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-top-covers/round-table-top-covers-p
+[2:00:35 pm] [875] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-15-p
+[2:00:35 pm] [876] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/round-winter-pool-cover-p
+[2:00:35 pm] [877] Opening https://www.coversandall.co.uk/accessories/rubber-strap-p
+[2:00:35 pm] [878] Opening https://www.coversandall.co.uk/swimming-pool-covers/safety-pool-net/safety-net-pool-cover-rectangle-p
+[2:00:35 pm] [879] Opening https://www.coversandall.co.uk/bbq-heating-covers/bbq-covers/santa-maria-grill-cover-p
+[2:00:35 pm] [880] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/scooter-cover-p
+[2:00:57 pm] ✅ Batch written to CSV
+[2:00:57 pm] 
+🚀 Processing batch 89
+[2:00:57 pm] [881] Opening https://www.coversandall.co.uk/accessories/screws-roll-plugs-set-of-3-p
+[2:00:57 pm] [882] Opening https://www.coversandall.co.uk/accessories/screws-roll-plugs-p
+[2:00:57 pm] [883] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/self-service-luggage-cart-cover-p
+[2:00:57 pm] [884] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/semi-oval-cushion-cover-p
+[2:00:57 pm] [885] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-20-p
+[2:00:57 pm] [886] Opening https://www.coversandall.co.uk/garden-furniture-covers/game-table-covers/shuffleboard-table-covers-p
+[2:00:57 pm] [887] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/side-burner-cover-p
+[2:00:57 pm] [888] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/zebra-blinds/sierra-zebra-shades-p
+[2:00:57 pm] [889] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/ski-boat-cover-p
+[2:00:57 pm] [890] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-19-p
+[2:01:20 pm] ✅ Batch written to CSV
+[2:01:20 pm] 
+🚀 Processing batch 90
+[2:01:20 pm] [891] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-13-p
+[2:01:20 pm] [892] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/rectangular-fire-pit-covers-design-2-p
+[2:01:20 pm] [893] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/bench-covers/custom-bench-covers-design-3-p
+[2:01:20 pm] [894] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/bench-covers/custom-bench-covers-design-5-p
+[2:01:20 pm] [895] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-bowl-covers/fire-bowl-covers-design-6-p
+[2:01:20 pm] [896] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-18-p
+[2:01:20 pm] [897] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-20-p
+[2:01:20 pm] [898] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/zebra-blinds/slope-blackout-zebra-shades-p
+[2:01:20 pm] [899] Opening https://www.coversandall.co.uk/vehicle-covers/snow-mobile-covers-p
+[2:01:20 pm] [900] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/sofa-cushion-cover-set-p
+[2:01:44 pm] ✅ Batch written to CSV
+[2:01:44 pm] 
+🚀 Processing batch 91
+[2:01:44 pm] [901] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/sport-motorcycle-cover-p
+[2:01:44 pm] [902] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/sport-touring-motorcycle-cover-p
+[2:01:44 pm] [903] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/dining-set-covers/dining-table-covers-design-2-p
+[2:01:44 pm] [904] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-26-p
+[2:01:44 pm] [905] Opening https://www.coversandall.co.uk/marine-covers/boat-cushions/square-boat-cushion-p
+[2:01:44 pm] [906] Opening https://www.coversandall.co.uk/bbq-heating-covers/chiminea-covers/custom-chiminea-cover-design-4-p
+[2:01:45 pm] [907] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/square-cushion-cover-p
+[2:01:45 pm] [908] Opening https://www.coversandall.co.uk/cushion-pillow-covers/dog-bed-cushion/square-dog-bed-cushion-p
+[2:01:45 pm] [909] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-bowl-covers/fire-bowl-covers-design-2-p
+[2:01:45 pm] [910] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-8-p
+[2:02:06 pm] ✅ Batch written to CSV
+[2:02:06 pm] 
+🚀 Processing batch 92
+[2:02:06 pm] [911] Opening https://www.coversandall.co.uk/bbq-heating-covers/chiminea-covers/custom-chiminea-cover-design-6-p
+[2:02:06 pm] [912] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/square-fire-pit-covers-p
+[2:02:06 pm] [913] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/square-indoor-cushion-cover-p
+[2:02:06 pm] [914] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/side-table-covers/square-accent-covers-p
+[2:02:06 pm] [915] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-2-p
+[2:02:06 pm] [916] Opening https://www.coversandall.co.uk/garden-furniture-covers/garden-table-covers/table-top-covers/square-table-top-covers-p
+[2:02:06 pm] [917] Opening https://www.coversandall.co.uk/cushion-pillow-covers/cushion-insert/square-rectangle-cushion-insert-p
+[2:02:06 pm] [918] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/square-rectangle-smoker-covers-p
+[2:02:06 pm] [919] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/stackable-chair-covers-p
+[2:02:06 pm] [920] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-8-p
+[2:02:30 pm] ✅ Batch written to CSV
+[2:02:30 pm] 
+🚀 Processing batch 93
+[2:02:30 pm] [921] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/sports-tarpaulin/stadium-seat-covers-p
+[2:02:30 pm] [922] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/adirondack-chair-covers/custom-adirondack-chair-covers-design-8-p
+[2:02:30 pm] [923] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/recliner-covers/recliner-covers-design-2-p
+[2:02:30 pm] [924] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/outdoor-seating-covers/standard-size-chair-cover-design-4-p
+[2:02:30 pm] [925] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/custom-luggage-cart-cover-design-2-p
+[2:02:30 pm] [926] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/standard-bbq-covers/standard-kettle-covers-p
+[2:02:30 pm] [927] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/outdoor-seating-covers/standard-size-rectangle-ottoman-covers-p
+[2:02:30 pm] [928] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/standard-size-dining-set-covers/standard-size-round-table-chair-cover-p
+[2:02:30 pm] [929] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/standard-size-dining-set-covers/standard-size-square-table-chair-cover-p
+[2:02:30 pm] [930] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/outdoor-seating-covers/standard-size-stackable-chair-cover-p
+[2:02:52 pm] ✅ Batch written to CSV
+[2:02:52 pm] 
+🚀 Processing batch 94
+[2:02:53 pm] [931] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/standard-size-dining-set-covers/standard-size-table-covers-p
+[2:02:53 pm] [932] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/cart-covers-design-4-p
+[2:02:53 pm] [933] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/gym-equipment-covers/stationary-exercise-bike-covers-p
+[2:02:53 pm] [934] Opening https://www.coversandall.co.uk/storage-bag-black-p
+[2:02:53 pm] [935] Opening https://www.coversandall.co.uk/accessories/storage-bags/storage-bags-p
+[2:02:53 pm] [936] Opening https://www.coversandall.co.uk/garden-furniture-covers/sofa-covers/lounge-loveseat-covers/straight-sofa-covers-p
+[2:02:53 pm] [937] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-25-p
+[2:02:53 pm] [938] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/stripes-cushion-cover-p
+[2:02:53 pm] [939] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-pillow-covers/printed-pillow-covers/stripes-pillow-cover-p
+[2:02:53 pm] [940] Opening https://www.coversandall.co.uk/cushion-pillow-covers/throw-pillow-covers/printed-pillow/stripes-throw-pillow-p
+[2:03:14 pm] ✅ Batch written to CSV
+[2:03:14 pm] 
+🚀 Processing batch 95
+[2:03:15 pm] [941] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/super-heavy-duty-poly-tarpaulin/super-heavy-duty-poly-tarpaulin-size-6-x-8-p
+[2:03:15 pm] [942] Opening https://www.coversandall.co.uk/standard-size-covers/best-selling-tarpaulins/standard-size-poly-tarpaulin/super-heavy-duty-poly-tarpaulin/super-heavy-duty-poly-tarpaulin-size-10-x-12-p
+[2:03:15 pm] [943] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/super-motard-motorcycle-cover-p
+[2:03:15 pm] [944] Opening https://www.coversandall.co.uk/garden-furniture-covers/outdoor-lifestyle-covers/swing-covers-p
+[2:03:15 pm] [945] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/swing-cushion-cover-p
+[2:03:15 pm] [946] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-24-p
+[2:03:15 pm] [947] Opening https://www.coversandall.co.uk/swimming-pool-covers/t-pool-covers/t-pool-covers-center-steps-p
+[2:03:15 pm] [948] Opening https://www.coversandall.co.uk/swimming-pool-covers/t-pool-covers/t-pool-covers-no-steps-p
+[2:03:15 pm] [949] Opening https://www.coversandall.co.uk/marine-covers/boat-cushions/t-shape-boat-cushion-p
+[2:03:15 pm] [950] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/t-shape-cushion-cover-p
+[2:03:36 pm] ✅ Batch written to CSV
+[2:03:36 pm] 
+🚀 Processing batch 96
+[2:03:37 pm] [951] Opening https://www.coversandall.co.uk/swimming-pool-covers/winter-pool-cover/t-pool-winter-pool-cover-p
+[2:03:37 pm] [952] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-3-p
+[2:03:37 pm] [953] Opening https://www.coversandall.co.uk/bbq-heating-covers/chiminea-covers/custom-chiminea-cover-design-5-p
+[2:03:37 pm] [954] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-column-covers/fire-column-covers-design-7-p
+[2:03:37 pm] [955] Opening https://www.coversandall.co.uk/accessories/tarpaulin-clips-p
+[2:03:37 pm] [956] Opening https://www.coversandall.co.uk/tarpaulins-curtains/privacy-screens/temporary-fence-screen-roll-p
+[2:03:37 pm] [957] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-tarpaulins/sports-tarpaulin/tennis-court-covers-p
+[2:03:37 pm] [958] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/textured-blackout-roller-shade-p
+[2:03:37 pm] [959] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/light-filtering-roller-shades/tigris-light-filtering-roller-shade-p
+[2:03:37 pm] [960] Opening https://www.coversandall.co.uk/accessories/storage-bags/tool-pouch-p
+[2:03:59 pm] ✅ Batch written to CSV
+[2:03:59 pm] 
+🚀 Processing batch 97
+[2:03:59 pm] [961] Opening https://www.coversandall.co.uk/vehicle-covers/motorcycle-covers/touring-motorcycle-cover-p
+[2:03:59 pm] [962] Opening https://www.coversandall.co.uk/vehicle-covers/rv-covers/toy-hauler-trailer-cover-p
+[2:03:59 pm] [963] Opening https://www.coversandall.co.uk/vehicle-covers/tractor-covers-p
+[2:03:59 pm] [964] Opening https://www.coversandall.co.uk/bbq-heating-covers/chiminea-covers/custom-chiminea-cover-design-7-p
+[2:03:59 pm] [965] Opening https://www.coversandall.co.uk/standard-size-covers/bbq-grill-covers/standard-bbq-covers/traeger-grill-covers-p
+[2:03:59 pm] [966] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/traffic-signal-covers-p
+[2:03:59 pm] [967] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-11-p
+[2:03:59 pm] [968] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-21-p
+[2:03:59 pm] [969] Opening https://www.coversandall.co.uk/vehicle-covers/rv-covers/travel-trailer-cover-p
+[2:03:59 pm] [970] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/gym-equipment-covers/treadmill-covers-p
+[2:04:25 pm] ✅ Batch written to CSV
+[2:04:25 pm] 
+🚀 Processing batch 98
+[2:04:25 pm] [971] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/tri-hull-runabout-boat-cover-p
+[2:04:25 pm] [972] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/triangle-cushion-cover-p
+[2:04:25 pm] [973] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/triangle-indoor-cushion-cover-p
+[2:04:25 pm] [974] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-10-p
+[2:04:25 pm] [975] Opening https://www.coversandall.co.uk/accessories/weight-bags/tripod-weight-bags-p
+[2:04:25 pm] [976] Opening https://www.coversandall.co.uk/vehicle-covers/rv-covers/truck-camper-cover-p
+[2:04:25 pm] [977] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-22-p
+[2:04:25 pm] [978] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/blackout-roller-shades/tulum-blackout-roller-shade-p
+[2:04:25 pm] [979] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-6-p
+[2:04:25 pm] [980] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-4-p
+[2:04:47 pm] ✅ Batch written to CSV
+[2:04:47 pm] 
+🚀 Processing batch 99
+[2:04:47 pm] [981] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/cart-covers-design-1-p
+[2:04:47 pm] [982] Opening https://www.coversandall.co.uk/bbq-heating-covers/kitchen-island-covers/outdoor-bar-island-covers-design-1-p
+[2:04:47 pm] [983] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-4-p
+[2:04:47 pm] [984] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/u-shaped-sofa-covers/u-shape-sofa-covers-design-3-p
+[2:04:47 pm] [985] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/u-shaped-sofa-covers/u-shape-sofa-covers-design-2-p
+[2:04:47 pm] [986] Opening https://www.coversandall.co.uk/garden-furniture-covers/sectional-covers/u-shaped-sofa-covers/u-shape-sofa-covers-design-1-p
+[2:04:47 pm] [987] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-7-p
+[2:04:47 pm] [988] Opening https://www.coversandall.co.uk/accessories/weight-bags/umbrella-weight-bags-p
+[2:04:47 pm] [989] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-8-p
+[2:04:47 pm] [990] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-10-p
+[2:05:10 pm] ✅ Batch written to CSV
+[2:05:10 pm] 
+🚀 Processing batch 100
+[2:05:10 pm] [991] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/cart-covers-design-3-p
+[2:05:10 pm] [992] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/v-hull-fishing-boat-cover-p
+[2:05:10 pm] [993] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/v-hull-runabout-boat-cover-p
+[2:05:10 pm] [994] Opening https://www.coversandall.co.uk/marine-covers/boat-cushions/v-shape-boat-cushion-p
+[2:05:10 pm] [995] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/v-shape-cushion-cover-p
+[2:05:10 pm] [996] Opening https://www.coversandall.co.uk/cushion-pillow-covers/custom-indoor-cushion-cover/v-shape-indoor-cushion-cover-p
+[2:05:10 pm] [997] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/vending-machine-cover-p
+[2:05:10 pm] [998] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/zebra-blinds/vintage-zebra-shades-p
+[2:05:10 pm] [999] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/industrial-curtains/vinyl-strip-door-curtain-kit-p
+[2:05:10 pm] [1000] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/heater-covers/patio-heater-covers-design-3-p
+[2:05:32 pm] ✅ Batch written to CSV
+[2:05:32 pm] 
+🚀 Processing batch 101
+[2:05:33 pm] [1001] Opening https://www.coversandall.co.uk/tarpaulins-curtains/custom-curtains/industrial-curtains/warehouse-curtains-p
+[2:05:33 pm] [1002] Opening https://www.coversandall.co.uk/industrial-equipment-covers/machine-covers/water-softener-machine-cover-p
+[2:05:33 pm] [1003] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/pergola-covers/waterproof-pergola-covers/custom-pergola-cover-design-2-p
+[2:05:33 pm] [1004] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/pergola-covers/waterproof-pergola-covers/custom-pergola-cover-design-1-p
+[2:05:33 pm] [1005] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/waterproof-sun-shade-sail/waterproof-sun-shade-sail-four-sided-p
+[2:05:33 pm] [1006] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/waterproof-sun-shade-sail/sun-shade-sail-rectangle-p
+[2:05:33 pm] [1007] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/waterproof-sun-shade-sail/sun-shade-sail-square-p
+[2:05:33 pm] [1008] Opening https://www.coversandall.co.uk/solar-shades/sun-shade-sail/waterproof-sun-shade-sail/sun-shade-sail-triangle-p
+[2:05:33 pm] [1009] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/wedge-cushion-cover-p
+[2:05:33 pm] [1010] Opening https://www.coversandall.co.uk/custom-covers/custom-covers-design-8-p
+[2:05:55 pm] ✅ Batch written to CSV
+[2:05:55 pm] 
+🚀 Processing batch 102
+[2:05:56 pm] [1011] Opening https://www.coversandall.co.uk/marine-covers/boat-covers/whaler-style-boat-cover-p
+[2:05:56 pm] [1012] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/rocking-chair-covers/rocking-chair-covers-design-2-p
+[2:05:56 pm] [1013] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chaise-covers/sky-lounger-covers-design-5-p
+[2:05:56 pm] [1014] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/cart-covers/cart-covers-design-6-p
+[2:05:56 pm] [1015] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-13-p
+[2:05:56 pm] [1016] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-21-p
+[2:05:56 pm] [1017] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-5-p
+[2:05:56 pm] [1018] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-2-p
+[2:05:56 pm] [1019] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/chair-cover-design-19-p
+[2:05:56 pm] [1020] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/recliner-covers/recliner-covers-design-1-p
+[2:06:19 pm] ✅ Batch written to CSV
+[2:06:19 pm] 
+🚀 Processing batch 103
+[2:06:19 pm] [1021] Opening https://www.coversandall.co.uk/bbq-heating-covers/fire-pit-covers/round-fire-pit-covers-design-2-p
+[2:06:19 pm] [1022] Opening https://www.coversandall.co.uk/marine-covers/kayak-covers/kayak-cover-design-2-p
+[2:06:19 pm] [1023] Opening https://www.coversandall.co.uk/industrial-equipment-covers/appliance-covers/air-conditioner-covers/window-air-conditioner-covers-p
+[2:06:19 pm] [1024] Opening https://www.coversandall.co.uk/cushion-pillow-covers/outdoor-cushion-covers/window-seat-cushion-cover-p
+[2:06:19 pm] [1025] Opening https://www.coversandall.co.uk/bbq-heating-covers/oven-smoker-covers/outdoor-pizza-oven-covers-design-4-p
+[2:06:19 pm] [1026] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/daybed-covers/outdoor-daybed-covers-design-11-p
+[2:06:19 pm] [1027] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/zebra-blinds/woodlook-zebra-shades-p
+[2:06:19 pm] [1028] Opening https://www.coversandall.co.uk/solar-shades/indoor-roller-shades/zebra-blinds/woody-zebra-shades-p
+[2:06:19 pm] [1029] Opening https://www.coversandall.co.uk/standard-size-covers/outdoor-furniture-covers/outdoor-seating-covers/standard-size-chair-cover-design-3-p
+[2:06:19 pm] [1030] Opening https://www.coversandall.co.uk/accessories/storage-bags/wreath-storage-bag-p
+[2:06:42 pm] ✅ Batch written to CSV
+[2:06:42 pm] 
+🚀 Processing batch 104
+[2:06:43 pm] [1031] Opening https://www.coversandall.co.uk/garden-furniture-covers/seating-covers/chair-covers/zero-gravity-chair-covers-p
+[2:06:43 pm] [1032] Opening https://www.coversandall.co.uk/industrial-equipment-covers/equipment-covers/lawn-mower-covers/zero-turn-mower-covers-p
+[2:06:43 pm] [1033] Opening https://www.coversandall.co.uk/accessories/zip-ties-p
+[2:06:59 pm] ✅ Batch written to CSV
+[2:06:59 pm] 🎉 TEST COMPLETED SUCCESSFULLY
