@@ -92,7 +92,8 @@ module.exports = defineConfig({
 
         if (data.items) data.items.forEach(processItem);
       }
-    }]
+    }],
+    ['./open-report-reporter.js']
   ],
   use: {
     screenshot: 'only-on-failure',

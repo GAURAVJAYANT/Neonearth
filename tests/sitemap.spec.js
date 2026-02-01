@@ -9,7 +9,7 @@ test('Sitemap products price & quantity validation', async ({ page }) => {
   await page.goto(SITEMAP_URL, { timeout: 90000 });
 
   const PRODUCTS_XPATH =
-    "//p2222[normalize-space()='Products']/following-sibling::ul[1]//li//a";
+    "//p[normalize-space()='Products']/following-sibling::ul[1]//li//a";
 
   const products = page.locator(PRODUCTS_XPATH);
   const count = await products.count();
