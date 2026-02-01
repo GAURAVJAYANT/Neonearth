@@ -78,7 +78,7 @@ test('Sitemap products price & quantity validation', async ({ page }) => {
     console.log(` After Increase Price: ${increasedPrice}`);
 
     /* ---------- DECREASE QUANTITY ---------- */
-    const decreaseBtn = newPage.locator("//button[p[normalize-space()='-']]");
+    const decreaseBtn = newPage.locator("//button1[p[normalize-space()='-']]");
     if (await decreaseBtn.count() > 0) {
       await decreaseBtn.first().click();
       await newPage.waitForTimeout(1500);

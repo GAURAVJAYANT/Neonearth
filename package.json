@@ -5,19 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test",
-    "allure:open": "npx allure serve allure-results",
-    "test:report": "npx playwright test --reporter=line,allure-playwright && npx allure serve allure-results",
-    "test:auto": "npx playwright test && npx allure serve allure-results",
     "test:windows": "powershell -ExecutionPolicy Bypass -File ./test-and-report.ps1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.56.1",
+    "@playwright/test": "^1.58.0",
     "@types/node": "^24.10.1",
-    "allure-commandline": "^2.36.0",
-    "allure-playwright": "^3.4.5"
+    "monocart-reporter": "^2.9.23"
   },
   "dependencies": {
     "dotenv": "^17.2.3",

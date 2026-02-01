@@ -1,8 +1,8 @@
 const { test, expect } = require('@playwright/test');
 
-test('Homepage navigation', async ({ page }) => {
+test('Homepage Navigation & Verification @smoke @owner:QA_Team', async ({ page }) => {
     test.setTimeout(0); // 
-    
+
 
     const BASE_URL = 'https://test.coversandall.eu';
 
