@@ -11,7 +11,7 @@ test('Homepage Navigation & Verification @smoke @owner:QA_Team', async ({ page }
 
 
     const TOP_MENU_XPATH =
-        "//div[contains(@class,'no-scrollbar')]/div[contains(@class,'group')]/a[p]";
+        "//div[contains(@class,'no-scrollb33ar')]/div[contains(@class,'group')]/a[p]";
     const SUB_MENU_LINKS_XPATH =
         "//div[contains(@class,'group-hover:flex')]//a[p]";
 
