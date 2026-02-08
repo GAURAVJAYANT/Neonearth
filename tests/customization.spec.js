@@ -357,10 +357,57 @@ test.describe('Customization Engine Tests', () => {
      console.log("Waiting 9 seconds after Quantity 8...");
      await page.waitForTimeout(9000);
      
-     await page.waitForTimeout(30000); // Visual pause at end before closing 
- 
+     await page.getByRole('button', { name: 'Secure Checkout' }).first().click();
+     await page.waitForTimeout(9000);
 
+      await page.getByRole('textbox', { name: 'Email*' }).click();
+  await page.getByRole('textbox', { name: 'Email*' }).fill('test@yopmail.com');
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'First Name*' }).click();
+  await page.waitForTimeout(3000);
+  
+  await page.getByRole('textbox', { name: 'First Name*' }).fill('Gaurav');
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Last Name*' }).click();
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Last Name*' }).fill('jayant');
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Phone Number' }).click();
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Phone Number' }).fill('8888888');
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Address*' }).click();
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Address*' }).fill('stree');
+  await page.waitForTimeout(3000);
+  await page.getByText('StreetervilleChicago, IL, USA').click();
+  await page.waitForTimeout(3000);
 
+  console.log("Clicking 'Save And Continue'...");
+  await page.getByRole('button', { name: 'Save And Continue' }).click();
+  
+  console.log("Clicked! Waiting 30 seconds unconditionally to observe loader...");
+  await page.waitForTimeout(30000); 
 
-});
+  console.log("60s wait over. Checking current URL...");
+  console.log("Current URL: " + page.url());
+
+  // Attempt to detect loader for debugging purposes
+  const checkoutLoader = page.locator('.loader');
+  if (await checkoutLoader.isVisible()) {
+      console.log("Loader is STILL visible after 60s.");
+  } else {
+      console.log("Loader is NOT visible.");
+  }
+
+  // Wait more if needed
+  await page.waitForTimeout(3000);
+  await page.getByRole('radio', { name: 'Purchase order' }).click();
+  await page.waitForTimeout(1000);
+  await page.getByRole('button', { name: 'SELECT FILE' }).click();
+  await page.getByRole('button', { name: 'Place Order' }).click();
+  await page.waitForTimeout(6000);
+
+})
+
 });
