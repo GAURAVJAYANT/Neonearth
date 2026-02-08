@@ -20,7 +20,7 @@ module.exports = defineConfig({
     screenshot: 'only-on-failure',
     browserName: 'chromium',
     //browserName: 'firefox',
-    headless: true, // ✅ Browser will open in headless mode
+    headless: false, // ✅ Browser will open in headless mode
     viewport: null,
     launchOptions: {
       args: ["--start-maximized"],
