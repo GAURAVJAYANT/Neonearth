@@ -1,170 +1,130 @@
 const { test, expect } = require('@playwright/test');
 
-test('test journey', async ({ page }) => {
-    
-    await page.goto('https://www.coversandall.com/');
-    // Wait for banner to be visible before interacting
-    const bannerLocator = page.locator("//p[contains(normalize-space(),'Use code:')]");
-    await bannerLocator.waitFor({ state: 'visible' });
+test('Smart auto-wait ecommerce flow (5 min safe)', async ({ page }) => {
 
-    const bannerText = await bannerLocator.innerText();
-    const codeText = bannerText.split(':')[1].trim();
-    console.log("Coupon Code:", codeText);
+  test.setTimeout(300000); // extra safety
 
+  // -------------------------------------------------
+  // 1. Open site
+  // -------------------------------------------------
+  await page.goto('https://www.coversandall.com/');
 
-   test.setTimeout(120000); // Increase timeout for slow navigation
+  // Wait banner (auto-wait up to 5 min)
+  const banner = page.locator("//p[contains(normalize-space(),'Use code:')]");
+  await expect(banner).toBeVisible();
 
-   // 1. Hover over Main Menu 'Custom Covers'
-   const customCoversLinks = page.getByText('Custom Covers', { exact: true });
-   const count = await customCoversLinks.count();
-   console.log(`Found ${count} 'Custom Covers' elements.`);
+  const bannerText = await banner.textContent();
+  const couponCode = bannerText?.split(':')[1]?.trim() || 'COVER';
+  console.log('Coupon Code:', couponCode);
 
-   let mainMenu = null;
-   // Find the first visible 'Custom Covers' (Main Menu)
-   for (let i = 0; i < count; i++) {
-       if (await customCoversLinks.nth(i).isVisible()) {
-           mainMenu = customCoversLinks.nth(i);
-           break;
-       }
-   }
+  // -------------------------------------------------
+  // 2. Hover Custom Covers → Click submenu
+  // -------------------------------------------------
+  const mainMenu = page.getByText('Custom Covers', { exact: true }).first();
+  await expect(mainMenu).toBeVisible();
+  await mainMenu.hover();
 
-   if (mainMenu) {
-       console.log('✅ Main Menu "Custom Covers" found. Hovering...');
-       await mainMenu.hover();
-       await page.waitForTimeout(2000); // Visual pause
+  const subMenu = page.locator(
+    "//a[.//p[normalize-space()='Custom Covers']]"
+  ).first();
 
-       // 2. Click Sub Menu 'Custom Covers'
-       // After hover, we expect a second 'Custom Covers' to become visible in the dropdown
-       // We can search specifically for the *second* visible one, or just re-query.
-       
-       const allCustomCovers = page.getByText('Custom Covers', { exact: true });
-       const newCount = await allCustomCovers.count();
-       let subMenu = null;
-       
-       // Strategy: Find a visible 'Custom Covers' that is NOT the main menu we just hovered
-       // Or simply pick the 2nd visible one if the UI structure allows.
-       // safer approach: loop again and pick the *last* visible one or specifically the 2nd one.
+  await expect(subMenu).toBeVisible();
+  await subMenu.click();
 
-       let visibleLinks = [];
-       for (let i = 0; i < newCount; i++) {
-           if (await allCustomCovers.nth(i).isVisible()) {
-               visibleLinks.push(allCustomCovers.nth(i));
-           }
-       }
-       
-       if (visibleLinks.length > 1) {
-           console.log(`✅ Found ${visibleLinks.length} visible "Custom Covers" links. Clicking the second one (Sub-Category)...`);
-           subMenu = visibleLinks[1]; // Index 1 is the second item
-       } else {
-           console.log("⚠️ Only 1 visible link found. Clicking it (fallback)...");
-           subMenu = visibleLinks[0];
-       }
+  // -------------------------------------------------
+  // 3. Select Cylinder Shape
+  // -------------------------------------------------
+  const cylinderLink = page.getByRole('link', { name: /Cylinder/i }).first();
+  await expect(cylinderLink).toBeVisible();
+  await cylinderLink.click();
 
-       if (subMenu) {
-           await subMenu.click();
-           await page.waitForTimeout(2000);
-       } else {
-           console.log("❌ Sub Menu NOT found!");
-       }
+  await expect(
+    page.getByText('Select or Enter Measurements')
+  ).toBeVisible();
 
-   } else {
-       console.log('❌ Main Menu "Custom Covers" not found');
-   }
+  // -------------------------------------------------
+  // 4. Fill measurements
+  // -------------------------------------------------
+  await page.locator('[name="measurements.H"]').fill('20');
+  await page.locator('[name="measurements.D"]').fill('20');
 
-   console.log("Selecting 'Round / Cylinder Shape'...");
-   // Refined locator: Search for "Cylinder" text in links (robust to minor text changes)
-   const roundShapeLink = page.getByRole('link', { name: /Cylinder/i }).first();
-   await roundShapeLink.waitFor({ state: 'visible', timeout: 10000 });
-   await roundShapeLink.click();
-   await page.waitForTimeout(4000); // Visual pause after navigation
+  // -------------------------------------------------
+  // 5. Select fabric
+  // -------------------------------------------------
+  const coverTuff = page.getByText('Cover Tuff').first();
+  await expect(coverTuff).toBeVisible();
+  await coverTuff.click();
 
-   // Wait for "Select or Enter Measurements" text to confirm page load
-   await expect(page.getByText('Select or Enter Measurements')).toBeVisible({ timeout: 30000 });
-   console.log("Measurement form visible.");
-   
-   // Proceed to filling measurements
+  // -------------------------------------------------
+  // 6. Add to cart
+  // -------------------------------------------------
+  await page.getByRole('button', { name: 'Add to Cart' }).click();
+  await page.getByText('Go To Shopping Cart', { exact: true }).click();
 
-   console.log("Attempting to fill Height (measurements.H)...");
-   await page.locator('[name="measurements.H"]').click();
-   await page.waitForTimeout(1000); // Visual pause
-   await page.keyboard.press('Backspace');
-   await page.keyboard.press('Backspace');
-   await page.locator('[name="measurements.H"]').fill('20');
-   await page.waitForTimeout(2000); // Visual pause
+  // -------------------------------------------------
+  // 7. Apply coupon
+  // -------------------------------------------------
+  await page.getByText('Available Offers').click();
 
-   console.log("Attempting to fill Diameter (measurements.D)...");
-   await page.locator('[name="measurements.D"]').click();
-   await page.waitForTimeout(1000); // Visual pause
-   await page.keyboard.press('Backspace');
-   await page.keyboard.press('Backspace');
-   await page.locator('[name="measurements.D"]').fill('20');
-   await page.waitForTimeout(2000); // Visual pause
-   
-   // Wait for price/ui update
-   await page.waitForTimeout(5000);
+  const couponInput = page.getByPlaceholder('Enter Discount Code');
+  await expect(couponInput).toBeVisible();
+  await couponInput.fill(couponCode);
 
-   console.log("Attempting to select 'Cover Tuff' fabric...");
-   const coverTuffText = page.getByText('Cover Tuff').first();
-   
-   if (await coverTuffText.isVisible()) {
-       await coverTuffText.scrollIntoViewIfNeeded();
-       await coverTuffText.click({ force: true });
-       console.log("Clicked 'Cover Tuff'");
-       
-       await page.waitForTimeout(5000);
-   } else {
-       console.error("'Cover Tuff' element NOT found/visible!");
-       await page.waitForTimeout(5000);
-   }
-   await page.waitForTimeout(7000);
+  await page.getByRole('button', { name: 'Apply' }).click();
 
-   await page.getByRole('button', { name: 'Add to Cart' }).click();
-   await page.waitForTimeout(7000);
+  // -------------------------------------------------
+  // 8. Capture prices (SMART WAIT)
+  // -------------------------------------------------
+  const subtotal = page.locator(
+    "(//p[normalize-space()='Subtotal']/following-sibling::div//span)[last()]"
+  );
 
-   await page.getByText('Go To Shopping Cart', { exact: true }).click();
-   await page.waitForTimeout(7000);
+  const discount = page.locator(
+    "//div[contains(@class,'justify-between')]//span[contains(text(),'-')]"
+  );
 
-   // NEW CODE PREVIOUS CODE IS WORKING
+  const shipping = page.locator(
+    "//p[normalize-space()='Shipping']/following-sibling::div//span"
+  );
 
-   await page.waitForTimeout(9000);
+  await expect(subtotal).toBeVisible();
 
-    await page.locator(`p:has-text("Available Offers")`).click();
-    await page.waitForTimeout(6000);
+  const subtotalText = await subtotal.textContent();
+  const discountText = await discount.textContent();
+  const shippingText = await shipping.textContent();
 
-    await page.locator(`input[name="couponCode"][type="text"][placeholder="Enter Discount Code"]`).fill("COVER");
-    await page.waitForTimeout(9000);
+  console.log('Subtotal:', subtotalText?.trim());
+  console.log('Discount:', discountText?.trim());
+  console.log('Shipping:', shippingText?.trim());
 
-    await page.locator('#couponAppliedForm').getByRole('button', { name: 'Apply' }).click();
-    await page.waitForTimeout(9000);  
+  // -------------------------------------------------
+  // 9. Quantity loop with SMART WAIT (NO CRASH)
+  // -------------------------------------------------
+  const qtyInput = page.locator('[name="quantity"]');
 
-    const subtotal = await page.locator("(//p[normalize-space()='Subtotal']/following-sibling::div//span)[last()]").textContent();
+  for (const qty of [2, 4, 6, 8]) {
+    console.log(`\n--- Testing Quantity ${qty} ---`);
 
-     console.log("Subtotal:", subtotal?.trim());
+    const oldSubtotal = await subtotal.textContent();
 
-     await page.waitForTimeout(9000); 
+    await qtyInput.fill(qty.toString());
+    await qtyInput.press('Enter');
 
-     const discount = await page.locator("//div[@class='flex justify-between py-1.5']//span[contains(text(),'-')]").textContent();
+    // Wait until subtotal CHANGES (≤ 5 minutes)
+    await expect(subtotal).not.toHaveText(oldSubtotal);
 
-     console.log("Discount:", discount?.trim());
+    const s = parseFloat((await subtotal.textContent()).replace(/[^0-9.]/g, ''));
+    const d = parseFloat((await discount.textContent()).replace(/[^0-9.]/g, ''));
+    const sh = parseFloat((await shipping.textContent()).replace(/[^0-9.]/g, ''));
 
-     await page.waitForTimeout(9000); 
+    const percent = s > 0 ? ((d / s) * 100).toFixed(2) : '0';
 
-     // Calculate Discount Percentage
-     const subtotalValue = parseFloat(subtotal?.replace(/[^0-9.]/g, '') || "0");
-     const discountValue = parseFloat(discount?.replace(/[^0-9.]/g, '') || "0");
+    console.log(`Qty ${qty} → Subtotal: $${s}, Discount: $${d} (${percent}%), Shipping: $${sh}`);
+  }
 
-     if (subtotalValue > 0) {
-         const percentage = (discountValue / subtotalValue) * 100;
-         console.log(`Discount Percentage: ${percentage.toFixed(2)}%`);
-         const priceAfterDiscount = subtotalValue - discountValue;
-         console.log(`Price After Discount: ${priceAfterDiscount.toFixed(2)}`);
-     } else {
-         console.log("Subtotal is 0 or invalid, cannot calculate percentage.");
-     }
-
-     await page.waitForTimeout(9000); 
-
-
-
+  // -------------------------------------------------
+  // 10. Pause to observe
+  // -------------------------------------------------
+  console.log('Test completed successfully. Waiting before exit...');
+  await page.waitForTimeout(15000);
 });
-
