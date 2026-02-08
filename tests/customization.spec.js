@@ -103,23 +103,8 @@ test.describe('Customization Engine Tests', () => {
      }
 
      await page.waitForTimeout(9000); 
-
-
-    /* Apply Coupon
-    const couponCode = "offer4cp";
-    await cartPage.applyCoupon(couponCode);
-
-    // Verify Discount
-    const discount = await cartPage.getDiscountAmount();
-    console.log(`Discount Applied: $${discount}`);
-    
-    // We expect some discount, assuming the code is valid
-    // If not, we log it. expecting discount >= 0 effectively passes the test if logic works, 
-    // but typically we'd expect > 0 if code is valid.
-    // Given we are testing the *capability*, we'll assert it didn't crash.
-    // If code is valid, discount should be > 0.
-    // expect(discount).toBeGreaterThan(0); */
   });
+
   test('test journey', async ({ page }) => {
     
     await page.goto('https://www.coversandall.com/');
@@ -132,7 +117,7 @@ test.describe('Customization Engine Tests', () => {
     console.log("Coupon Code:", codeText);
 
 
-   test.setTimeout(120000); // Increase timeout for slow navigation
+    test.setTimeout(300000); // Increase timeout to 5 minutes for multiple quantity checks
 
    // 1. Hover over Main Menu 'Custom Covers'
    const customCoversLinks = page.getByText('Custom Covers', { exact: true });
@@ -287,7 +272,93 @@ test.describe('Customization Engine Tests', () => {
          console.log("Shipping Price:", shipping?.trim());
      }
 
-     await page.waitForTimeout(9000); 
+     // New Logic: Quantity based checks for price ranges $0-$100, $101-$200, $201-$300, >$300
+     const quantities = [1, 2, 5, 8]; // Example quantities to hit different price points. Adjust if needed based on unit price.
+     
+     
+     // Helper function to check specific quantity manually
+     /**
+      * @param {number} qty
+      */
+     /**
+      * @param {number} qty
+      */
+     const checkQuantity = async (qty) => {
+         console.log(`\n--- Manually Testing Quantity: ${qty} ---`);
+         const subtotalLocator = page.locator("(//p[normalize-space()='Subtotal']/following-sibling::div//span)[last()]");
+         
+         // Capture current price before change to compare later
+         const oldSubtotalText = await subtotalLocator.textContent();
+         const oldSubtotal = parseFloat(oldSubtotalText?.replace(/[^0-9.]/g, '') || "0");
+         console.log(`Current Subtotal (Before Update): $${oldSubtotal}`);
+
+         const qtyInput = page.locator('[name="quantity"]');
+         
+         // Logic requested by user (Dimension Logic)
+         await qtyInput.click();
+         await page.waitForTimeout(1000); // Visual pause
+         await page.keyboard.press('Backspace');
+         await page.keyboard.press('Backspace');
+         await qtyInput.fill(qty.toString());
+         await page.waitForTimeout(2000); 
+         
+         // Trigger update by clicking subtotal (simulating blur/next action)
+         await subtotalLocator.click();
+
+         try {
+             await expect(subtotalLocator).not.toHaveText(oldSubtotalText || "", { timeout: 15000 });
+         } catch (e) {
+             console.log("⚠️ Price did not change within timeout (or was same). continuing...");
+         }
+         
+         await page.waitForTimeout(2000); // Small buffer after change detected
+
+         const currentSubtotalText = await subtotalLocator.textContent();
+         const currentDiscountText = await page.locator("//div[@class='flex justify-between py-1.5']//span[contains(text(),'-')]").textContent();
+         const currentShippingText = await page.locator("//p[normalize-space()='Shipping']/following-sibling::div//span").textContent();
+
+         const currentSubtotal = parseFloat(currentSubtotalText?.replace(/[^0-9.]/g, '') || "0");
+         const currentDiscount = parseFloat(currentDiscountText?.replace(/[^0-9.]/g, '') || "0");
+         const currentShipping = parseFloat(currentShippingText?.replace(/[^0-9.]/g, '') || "0");
+
+         let discountPercentage = 0;
+         if (currentSubtotal > 0) {
+             discountPercentage = (currentDiscount / currentSubtotal) * 100;
+         }
+
+         console.log(`Qty: ${qty} | Subtotal: $${currentSubtotal} | Discount: $${currentDiscount} (${discountPercentage.toFixed(2)}%) | Shipping: $${currentShipping}`);
+
+         // 1. Check Max Discount (Log Only)
+         if (currentDiscount > 100) {
+             console.log(`⚠️ INFO: Discount ($${currentDiscount}) exceeds $100. (Test continues)`);
+         } else {
+             console.log("✅ Discount is within limit ($100).");
+         }
+
+         // 2. Check Free Shipping (Log Only)
+         if (currentSubtotal > 100) {
+             if (currentShipping === 0) {
+                 console.log("✅ Free shipping applied (Subtotal > $100).");
+             } else {
+                 console.log(`⚠️ INFO: Shipping ($${currentShipping}) is NOT free for subtotal > $100. (Test continues)`);
+             }
+         } else {
+             console.log(`ℹ️ Subtotal <= $100 ($${currentSubtotal}). Shipping is applicable: $${currentShipping}`);
+         }
+     };
+
+     // Manually test specific quantities as requested
+     await checkQuantity(2);
+     await checkQuantity(4);
+     await checkQuantity(6);
+     
+     await checkQuantity(8);
+     // "once details capture for quantity 8 wait for 9 seconds"
+     console.log("Waiting 9 seconds after Quantity 8...");
+     await page.waitForTimeout(9000);
+     
+     await page.waitForTimeout(30000); // Visual pause at end before closing 
+ 
 
 
 
