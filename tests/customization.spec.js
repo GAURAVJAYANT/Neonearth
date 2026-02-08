@@ -282,6 +282,11 @@ test.describe('Customization Engine Tests', () => {
          console.log("Subtotal is 0 or invalid, cannot calculate percentage.");
      }
 
+     if (subtotalValue < 100) {
+         const shipping = await page.locator("//p[normalize-space()='Shipping']/following-sibling::div//span").textContent();
+         console.log("Shipping Price:", shipping?.trim());
+     }
+
      await page.waitForTimeout(9000); 
 
 
