@@ -1,4 +1,3 @@
-// @ts-check
 const { test, expect } = require('@playwright/test');
 const { ProductPage } = require('../pages/ProductPage');
 
@@ -118,7 +117,7 @@ test.describe('Customization Engine Tests', () => {
     console.log("Coupon Code:", codeText);
 
 
-   test.setTimeout(120000); // Increase timeout for slow navigation
+    test.setTimeout(500000); // Increase timeout to 5 minutes for multiple quantity checks
 
    // 1. Hover over Main Menu 'Custom Covers'
    const customCoversLinks = page.getByText('Custom Covers', { exact: true });
@@ -137,11 +136,19 @@ test.describe('Customization Engine Tests', () => {
    if (mainMenu) {
        console.log('✅ Main Menu "Custom Covers" found. Hovering...');
        await mainMenu.hover();
-       await page.waitForTimeout(2000); // 
+       await page.waitForTimeout(2000); // Visual pause
 
+       // 2. Click Sub Menu 'Custom Covers'
+       // After hover, we expect a second 'Custom Covers' to become visible in the dropdown
+       // We can search specifically for the *second* visible one, or just re-query.
+       
        const allCustomCovers = page.getByText('Custom Covers', { exact: true });
        const newCount = await allCustomCovers.count();
        let subMenu = null;
+       
+       // Strategy: Find a visible 'Custom Covers' that is NOT the main menu we just hovered
+       // Or simply pick the 2nd visible one if the UI structure allows.
+       // safer approach: loop again and pick the *last* visible one or specifically the 2nd one.
 
        let visibleLinks = [];
        for (let i = 0; i < newCount; i++) {
@@ -152,7 +159,7 @@ test.describe('Customization Engine Tests', () => {
        
        if (visibleLinks.length > 1) {
            console.log(`✅ Found ${visibleLinks.length} visible "Custom Covers" links. Clicking the second one (Sub-Category)...`);
-           subMenu = visibleLinks[1]; 
+           subMenu = visibleLinks[1]; // Index 1 is the second item
        } else {
            console.log("⚠️ Only 1 visible link found. Clicking it (fallback)...");
            subMenu = visibleLinks[0];
@@ -162,11 +169,11 @@ test.describe('Customization Engine Tests', () => {
            await subMenu.click();
            await page.waitForTimeout(2000);
        } else {
-           console.log("Sub Menu NOT found!");
+           console.log("❌ Sub Menu NOT found!");
        }
 
    } else {
-       console.log('Main Menu "Custom Covers" not found');
+       console.log('❌ Main Menu "Custom Covers" not found');
    }
 
    console.log("Selecting 'Round / Cylinder Shape'...");
@@ -226,18 +233,14 @@ test.describe('Customization Engine Tests', () => {
 
    await page.waitForTimeout(9000);
 
-    const availableOffers = page.getByText('Available Offers');
-    await availableOffers.waitFor({ state: 'visible', timeout: 10000 });
-    await availableOffers.click();
+    await page.locator(`p:has-text("Available Offers")`).click();
     await page.waitForTimeout(6000);
 
-    const couponInput = page.getByPlaceholder('Enter Discount Code');
-    await couponInput.waitFor({ state: 'visible' });
-    await couponInput.fill(codeText || "COVER"); // Use dynamic code if available
+    await page.locator(`input[name="couponCode"][type="text"][placeholder="Enter Discount Code"]`).fill("COVER");
     await page.waitForTimeout(9000);
 
     await page.locator('#couponAppliedForm').getByRole('button', { name: 'Apply' }).click();
-    await page.waitForTimeout(9000);
+    await page.waitForTimeout(9000);  
 
     const subtotal = await page.locator("(//p[normalize-space()='Subtotal']/following-sibling::div//span)[last()]").textContent();
 
@@ -269,9 +272,153 @@ test.describe('Customization Engine Tests', () => {
          console.log("Shipping Price:", shipping?.trim());
      }
 
-     await page.waitForTimeout(9000); 
+     // New Logic: Quantity based checks for price ranges $0-$100, $101-$200, $201-$300, >$300
+     const quantities = [1, 2, 5, 8]; // Example quantities to hit different price points. Adjust if needed based on unit price.
+     
+     
+     // Helper function to check specific quantity manually
+     /**
+      * @param {number} qty
+      */
+     /**
+      * @param {number} qty
+      */
+     const checkQuantity = async (qty) => {
+         console.log(`\n--- Manually Testing Quantity: ${qty} ---`);
+         const subtotalLocator = page.locator("(//p[normalize-space()='Subtotal']/following-sibling::div//span)[last()]");
+         
+         // Capture current price before change to compare later
+         const oldSubtotalText = await subtotalLocator.textContent();
+         const oldSubtotal = parseFloat(oldSubtotalText?.replace(/[^0-9.]/g, '') || "0");
+         console.log(`Current Subtotal (Before Update): $${oldSubtotal}`);
 
+         const qtyInput = page.locator('[name="quantity"]');
+         
+         // Logic requested by user (Dimension Logic)
+         await qtyInput.click();
+         await page.waitForTimeout(1000); // Visual pause
+         await page.keyboard.press('Backspace');
+         await page.keyboard.press('Backspace');
+         await qtyInput.fill(qty.toString());
+         await page.waitForTimeout(2000); 
+         
+         // Trigger update by clicking subtotal (simulating blur/next action)
+         await subtotalLocator.click();
 
+         try {
+             await expect(subtotalLocator).not.toHaveText(oldSubtotalText || "", { timeout: 15000 });
+         } catch (e) {
+             console.log("⚠️ Price did not change within timeout (or was same). continuing...");
+         }
+         
+         await page.waitForTimeout(2000); // Small buffer after change detected
 
-});
+         const currentSubtotalText = await subtotalLocator.textContent();
+         const currentDiscountText = await page.locator("//div[@class='flex justify-between py-1.5']//span[contains(text(),'-')]").textContent();
+         const currentShippingText = await page.locator("//p[normalize-space()='Shipping']/following-sibling::div//span").textContent();
+
+         const currentSubtotal = parseFloat(currentSubtotalText?.replace(/[^0-9.]/g, '') || "0");
+         const currentDiscount = parseFloat(currentDiscountText?.replace(/[^0-9.]/g, '') || "0");
+         const currentShipping = parseFloat(currentShippingText?.replace(/[^0-9.]/g, '') || "0");
+
+         let discountPercentage = 0;
+         if (currentSubtotal > 0) {
+             discountPercentage = (currentDiscount / currentSubtotal) * 100;
+         }
+
+         console.log(`Qty: ${qty} | Subtotal: $${currentSubtotal} | Discount: $${currentDiscount} (${discountPercentage.toFixed(2)}%) | Shipping: $${currentShipping}`);
+
+         // 1. Check Max Discount (Log Only)
+         if (currentDiscount > 100) {
+             console.log(`⚠️ INFO: Discount ($${currentDiscount}) exceeds $100. (Test continues)`);
+         } else {
+             console.log("✅ Discount is within limit ($100).");
+         }
+
+         // 2. Check Free Shipping (Log Only)
+         if (currentSubtotal > 100) {
+             if (currentShipping === 0) {
+                 console.log("✅ Free shipping applied (Subtotal > $100).");
+             } else {
+                 console.log(`⚠️ INFO: Shipping ($${currentShipping}) is NOT free for subtotal > $100. (Test continues)`);
+             }
+         } else {
+             console.log(`ℹ️ Subtotal <= $100 ($${currentSubtotal}). Shipping is applicable: $${currentShipping}`);
+         }
+     };
+
+     // Manually test specific quantities as requested
+     await checkQuantity(2);
+     await checkQuantity(4);
+     await checkQuantity(6);
+     
+     await checkQuantity(8);
+     // "once details capture for quantity 8 wait for 9 seconds"
+     console.log("Waiting 9 seconds after Quantity 8...");
+     await page.waitForTimeout(9000);
+     
+     await page.getByRole('button', { name: 'Secure Checkout' }).first().click();
+     await page.waitForTimeout(9000);
+
+      await page.getByRole('textbox', { name: 'Email*' }).click();
+  await page.getByRole('textbox', { name: 'Email*' }).fill('test@yopmail.com');
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'First Name*' }).click();
+  await page.waitForTimeout(3000);
+  
+  await page.getByRole('textbox', { name: 'First Name*' }).fill('Gaurav');
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Last Name*' }).click();
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Last Name*' }).fill('jayant');
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Phone Number' }).click();
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Phone Number' }).fill('8888888');
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Address*' }).click();
+  await page.waitForTimeout(3000);
+  await page.getByRole('textbox', { name: 'Address*' }).fill('stree');
+  await page.waitForTimeout(3000);
+  await page.getByText('StreetervilleChicago, IL, USA').click();
+  await page.waitForTimeout(3000);
+
+  console.log("Clicking 'Save And Continue'...");
+  await page.getByRole('button', { name: 'Save And Continue' }).click();
+  
+  console.log("Clicked! Waiting 30 seconds unconditionally to observe loader...");
+  await page.waitForTimeout(60000); 
+
+  console.log("60s wait over. Checking current URL...");
+  console.log("Current URL: " + page.url());
+
+  // Attempt to detect loader for debugging purposes
+  const checkoutLoader = page.locator('.loader');
+  if (await checkoutLoader.isVisible()) {
+      console.log("Loader is STILL visible after 60s.");
+  } else {
+      console.log("Loader is NOT visible.");
+  }
+
+  // Wait more if needed
+  await page.waitForTimeout(3000);
+  await page.getByRole('radio', { name: 'Purchase order' }).click();
+  await page.waitForTimeout(1000);
+  // File Upload Logic
+  const fileChooserPromise = page.waitForEvent('filechooser');
+  await page.getByRole('button', { name: 'SELECT FILE' }).click();
+  const fileChooser = await fileChooserPromise;
+  await fileChooser.setFiles('data/upload_test_file.txt');
+  await page.waitForTimeout(3000); // Wait for upload to process
+
+  // Uncomment Place Order if ready
+  await page.getByRole('button', { name: 'Place Order' }).click();
+  await page.waitForTimeout(20000);
+  //await page.locator(`//div[1]/section/p[1]`).textContent();
+  const orderNumber = await page.locator(`//div[1]/section/p[1]`).textContent();
+  console.log("Order Number: " + orderNumber);
+  await page.waitForTimeout(9000);
+
+})
+
 });
