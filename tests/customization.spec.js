@@ -107,7 +107,7 @@ test.describe('Customization Engine Tests', () => {
 
   test('test journey', async ({ page }) => {
     
-    await page.goto('https://www.coversandall.com/');
+    await page.goto('https://uat.alphaprints.in/');
     // Wait for banner to be visible before interacting
     const bannerLocator = page.locator("//p[contains(normalize-space(),'Use code:')]");
     await bannerLocator.waitFor({ state: 'visible' });
@@ -117,7 +117,7 @@ test.describe('Customization Engine Tests', () => {
     console.log("Coupon Code:", codeText);
 
 
-    test.setTimeout(300000); // Increase timeout to 5 minutes for multiple quantity checks
+    test.setTimeout(500000); // Increase timeout to 5 minutes for multiple quantity checks
 
    // 1. Hover over Main Menu 'Custom Covers'
    const customCoversLinks = page.getByText('Custom Covers', { exact: true });
@@ -387,7 +387,7 @@ test.describe('Customization Engine Tests', () => {
   await page.getByRole('button', { name: 'Save And Continue' }).click();
   
   console.log("Clicked! Waiting 30 seconds unconditionally to observe loader...");
-  await page.waitForTimeout(30000); 
+  await page.waitForTimeout(60000); 
 
   console.log("60s wait over. Checking current URL...");
   console.log("Current URL: " + page.url());
@@ -404,9 +404,20 @@ test.describe('Customization Engine Tests', () => {
   await page.waitForTimeout(3000);
   await page.getByRole('radio', { name: 'Purchase order' }).click();
   await page.waitForTimeout(1000);
+  // File Upload Logic
+  const fileChooserPromise = page.waitForEvent('filechooser');
   await page.getByRole('button', { name: 'SELECT FILE' }).click();
+  const fileChooser = await fileChooserPromise;
+  await fileChooser.setFiles('data/upload_test_file.txt');
+  await page.waitForTimeout(3000); // Wait for upload to process
+
+  // Uncomment Place Order if ready
   await page.getByRole('button', { name: 'Place Order' }).click();
-  await page.waitForTimeout(6000);
+  await page.waitForTimeout(20000);
+  //await page.locator(`//div[1]/section/p[1]`).textContent();
+  const orderNumber = await page.locator(`//div[1]/section/p[1]`).textContent();
+  console.log("Order Number: " + orderNumber);
+  await page.waitForTimeout(9000);
 
 })
 
