@@ -1,0 +1,58 @@
+[4:03:30 pm] Opening sitemap...
+[4:03:34 pm] Total Products Found: 2219
+[4:04:02 pm] 
+[1] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/12-custom-duck-cotton-canvas-tarp-p
+[4:04:13 pm] Product Name (PDP): #12 Custom Duck Cotton Canvas Tarp
+[4:04:13 pm] Initial Price: 24.22
+[4:04:13 pm] Clicking Add to Cart...
+[4:04:18 pm] Validating product name in mini cart...
+[4:04:18 pm] 🔥 ERROR: locator.count: Unsupported token "@class" while parsing css selector "(.//div[@class='mb-4 rounded-lg border border-black/10 bg-white p-3'])[1]/div/div/div/following-sibling::div/div/div/a/p". Did you mean to CSS.escape it?
+[4:04:18 pm] Result saved for product 1
+[4:04:18 pm] 
+[2] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/4-custom-duck-cotton-canvas-tarp-p
+[4:04:29 pm] Product Name (PDP): #4 Custom Duck Cotton Canvas Tarp
+[4:04:29 pm] Initial Price: 45.2
+[4:04:29 pm] Clicking Add to Cart...
+[4:04:34 pm] Validating product name in mini cart...
+[4:04:34 pm] 🔥 ERROR: locator.count: Unsupported token "@class" while parsing css selector "(.//div[@class='mb-4 rounded-lg border border-black/10 bg-white p-3'])[1]/div/div/div/following-sibling::div/div/div/a/p". Did you mean to CSS.escape it?
+[4:04:34 pm] Result saved for product 2
+[4:04:35 pm] 
+[3] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/8-custom-duck-cotton-canvas-tarp-p
+[4:04:41 pm] Product Name (PDP): #8 Custom Duck Cotton Canvas Tarp
+[4:04:41 pm] Initial Price: 32.23
+[4:04:41 pm] Clicking Add to Cart...
+[4:04:47 pm] Validating product name in mini cart...
+[4:04:47 pm] 🔥 ERROR: locator.count: Unsupported token "@class" while parsing css selector "(.//div[@class='mb-4 rounded-lg border border-black/10 bg-white p-3'])[1]/div/div/div/following-sibling::div/div/div/a/p". Did you mean to CSS.escape it?
+[4:04:47 pm] Result saved for product 3
+[4:04:47 pm] 
+[4] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/18-21-inch-tv-covers-p
+[4:05:01 pm] Product Name (PDP): 18-21 inch TV Covers
+[4:05:01 pm] Initial Price: 10.29
+[4:05:01 pm] Clicking Add to Cart...
+[4:05:07 pm] Validating product name in mini cart...
+[4:05:07 pm] 🔥 ERROR: locator.count: Unsupported token "@class" while parsing css selector "(.//div[@class='mb-4 rounded-lg border border-black/10 bg-white p-3'])[1]/div/div/div/following-sibling::div/div/div/a/p". Did you mean to CSS.escape it?
+[4:05:07 pm] Result saved for product 4
+[4:05:07 pm] 
+[5] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/22-25-inch-tv-covers-p
+[4:05:13 pm] Product Name (PDP): 22-25 Inch TV Covers
+[4:05:13 pm] Initial Price: 13.68
+[4:05:13 pm] Clicking Add to Cart...
+[4:05:19 pm] Validating product name in mini cart...
+[4:05:19 pm] 🔥 ERROR: locator.count: Unsupported token "@class" while parsing css selector "(.//div[@class='mb-4 rounded-lg border border-black/10 bg-white p-3'])[1]/div/div/div/following-sibling::div/div/div/a/p". Did you mean to CSS.escape it?
+[4:05:19 pm] Result saved for product 5
+[4:05:19 pm] 
+[6] Opening product: https://www.coversandall.com/industrial-equipment-covers/appliance-covers/tv-covers/26-31-inch-tv-covers-p
+[4:05:25 pm] Product Name (PDP): 26-31 Inch TV Covers
+[4:05:25 pm] Initial Price: 19.01
+[4:05:25 pm] Clicking Add to Cart...
+[4:05:30 pm] Validating product name in mini cart...
+[4:05:30 pm] 🔥 ERROR: locator.count: Unsupported token "@class" while parsing css selector "(.//div[@class='mb-4 rounded-lg border border-black/10 bg-white p-3'])[1]/div/div/div/following-sibling::div/div/div/a/p". Did you mean to CSS.escape it?
+[4:05:30 pm] Result saved for product 6
+[4:05:31 pm] 
+[7] Opening product: https://www.coversandall.com/marine-covers/bimini-top/3-bow-bimini-top-p
+[4:05:37 pm] Product Name (PDP): 3 Bow Bimini Top
+[4:05:37 pm] Initial Price: 209.95
+[4:05:37 pm] Clicking Add to Cart...
+[4:05:42 pm] Validating product name in mini cart...
+[4:05:42 pm] 🔥 ERROR: locator.count: Unsupported token "@class" while parsing css selector "(.//div[@class='mb-4 rounded-lg border border-black/10 bg-white p-3'])[1]/div/div/div/following-sibling::div/div/div/a/p". Did you mean to CSS.escape it?
+[4:05:42 pm] Result saved for product 7

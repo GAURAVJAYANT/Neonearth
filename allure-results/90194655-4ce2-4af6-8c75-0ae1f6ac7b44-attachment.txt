@@ -1,0 +1,57 @@
+
+UAT PRODUCTS: social-welcome-offer
+Total UAT: 0
+
+LIVE EXPIRED: social-welcome-offer
+
+UAT PRODUCTS: email-only-offer
+Total UAT: 0
+
+LIVE EXPIRED: email-only-offer
+
+UAT PRODUCTS: labor-of-love
+Total UAT: 0
+
+LIVE EXPIRED: labor-of-love
+
+UAT PRODUCTS: bestsellers-old
+Total UAT: 0
+
+LIVE EXPIRED: bestsellers-old
+
+UAT PRODUCTS: new-user-offer
+Total UAT: 0
+
+LIVE EXPIRED: new-user-offer
+
+UAT PRODUCTS: trick-or-treat
+Total UAT: 0
+
+LIVE EXPIRED: trick-or-treat
+
+UAT PRODUCTS: holiday-prep-sale
+Total UAT: 0
+
+LIVE EXPIRED: holiday-prep-sale
+
+UAT PRODUCTS: year-end-sale
+Total UAT: 0
+
+LIVE EXPIRED: year-end-sale
+
+UAT PRODUCTS: black-friday-special
+Total UAT: 0
+
+LIVE EXPIRED: black-friday-special
+
+UAT PRODUCTS: winter-sale
+Total UAT: 0
+
+LIVE EXPIRED: winter-sale
+
+UAT PRODUCTS: bestsellers
+Total UAT: 0
+
+LIVE EXPIRED: bestsellers
+
+Expired links saved: expired-live-links.txt

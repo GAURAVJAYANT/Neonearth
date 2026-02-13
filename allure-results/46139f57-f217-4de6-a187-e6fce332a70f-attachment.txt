@@ -1,0 +1,22 @@
+[8:52:53 pm] Opening sitemap...
+[8:52:57 pm] Total Products Found: 2219
+[8:53:24 pm] 
+[1] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/12-custom-duck-cotton-canvas-tarp-p
+[8:53:30 pm] Product Name: #12 Custom Duck Cotton Canvas Tarp
+[8:53:30 pm] Initial Price: 24.22
+[8:53:32 pm] Increased Price: 24.22
+[8:53:34 pm] Final Price: 24.22
+[8:53:34 pm] ✅ Price reset validated
+[8:53:34 pm] Clicking Add to Cart...
+[8:53:39 pm] ✅ Mini cart opened and Cart button available
+[8:53:39 pm] Result saved for product 1
+[8:53:39 pm] 
+[2] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/4-custom-duck-cotton-canvas-tarp-p
+[8:53:50 pm] Product Name: #4 Custom Duck Cotton Canvas Tarp
+[8:53:50 pm] Initial Price: 45.2
+[8:53:51 pm] Increased Price: 45.2
+[8:53:53 pm] Final Price: 90.4
+[8:53:53 pm] ❌ FAIL: Price did not reset after decrease
+[8:53:53 pm] Clicking Add to Cart...
+[8:53:57 pm] 🔥 ERROR: page.waitForTimeout: Test ended.
+[8:53:57 pm] Result saved for product 2

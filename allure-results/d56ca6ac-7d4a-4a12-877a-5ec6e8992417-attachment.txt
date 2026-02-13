@@ -1,0 +1,6 @@
+[2:06:50 pm] Opening sitemap...
+[2:06:54 pm] Total Products Found: 2219
+[2:07:05 pm] 
+[1] Opening product: https://www.coversandall.com/tarps-curtains/custom-tarps/custom-canvas-tarps/12-custom-duck-cotton-canvas-tarp-p
+[2:07:16 pm] 🔥 ERROR: page.waitForTimeout: Test ended.
+[2:07:16 pm] Result saved for product 1
