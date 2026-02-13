@@ -1,5 +1,5 @@
 // @ts-check
-const { defineConfig } = require('@playwright/test');
+const { defineConfig, devices } = require('@playwright/test');
 require('dotenv').config();
 
 module.exports = defineConfig({
@@ -15,14 +15,15 @@ module.exports = defineConfig({
       name: "Test Automation Dashboard",
       outputFile: './test-results/report.html',
     }],
+    ['json', { outputFile: 'test-results/report.json' }],
     ['./open-report-reporter.js']
   ],
   use: {
+    trace: 'on-first-retry',
+    video: 'retain-on-failure',
     screenshot: 'only-on-failure',
-    browserName: 'chromium',
-    //browserName: 'firefox',
-    headless: false, // ✅ Browser will open in headless mode
-    viewport: null,
+    headless: false,
+    viewport: null, // Set to null to allow full screen
     launchOptions: {
       args: ["--start-maximized"],
     },
