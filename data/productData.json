@@ -1,0 +1,27 @@
+[
+    {
+        "testCaseId": "TC001",
+        "productName": "Standard Tarp",
+        "url": "https://www.coversandall.com/custom-tarps-and-curtains/custom-tarps",
+        "dimensions": {
+            "W": "10",
+            "H": "10"
+        },
+        "quantities": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "testCaseId": "TC002",
+        "productName": "Cylinder Cover",
+        "url": "https://www.coversandall.com/custom-covers",
+        "dimensions": {
+            "D": "12",
+            "H": "12"
+        },
+        "quantities": [
+            "2"
+        ]
+    }
+]

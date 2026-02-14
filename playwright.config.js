@@ -9,6 +9,7 @@ module.exports = defineConfig({
   expect: {
     timeout: 40 * 1000,
   },
+  globalTeardown: require.resolve('./global-teardown.js'),
   reporter: [
     ['list'],
     ['monocart-reporter', {
@@ -20,7 +21,10 @@ module.exports = defineConfig({
   ],
   use: {
     trace: 'on-first-retry',
-    video: 'retain-on-failure',
+    video: {
+      mode: 'retain-on-failure',
+      size: { width: 1920, height: 1080 }
+    },
     screenshot: 'only-on-failure',
     headless: false,
     viewport: null, // Set to null to allow full screen
