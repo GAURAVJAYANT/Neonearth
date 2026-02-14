@@ -202,53 +202,84 @@ test.describe('Mobile Journey Test', () => {
         const quantities = ['2', '3', '4', '5', '6', '7', '8'];
 
         for (const qty of quantities) {
+            // Force reload to ensure fresh DOM for every update (brute force flaky fix)
+            console.log("Reloading cart page to ensure fresh state...");
+            await page.goto('https://www.coversandall.com/checkout/cart', { waitUntil: 'domcontentloaded' });
+
+            // Wait for any AJAX loader to clear (Magento specific)
+            const loader = page.locator('.loading-mask, .loader img');
+            try { await expect(loader).toBeHidden({ timeout: 10000 }); } catch (e) { }
+
             console.log(`\n--- Updating Quantity to: ${qty} ---`);
 
-            // Navigate to cart explicitly to reset state
-            await page.goto('https://www.coversandall.com/checkout/cart', { waitUntil: 'load' }); // 'load' is safer than domcontentloaded here
-            await page.waitForTimeout(5000);
-
-            // Find valid quantity input (avoiding coupon input)
-            // Use strict :visible filter to avoid hidden inputs
-            const qtyInputLoop = page.locator('input[data-role="cart-item-qty"]:visible, input.input-text.qty:visible, input[name*="qty"]:visible').first();
+            // Re-query the input to avoid stale element reference
+            const qtyInputLoop = page.locator('input[data-role="cart-item-qty"]').first();
 
             if (await qtyInputLoop.count() > 0) {
-                await qtyInputLoop.scrollIntoViewIfNeeded();
-                await qtyInputLoop.click({ force: true });
-                await qtyInputLoop.clear(); // Explicit clear
-                await page.waitForTimeout(500);
-                await qtyInputLoop.pressSequentially(qty, { delay: 100 }); // Type slowly
+                const currentVal = await qtyInputLoop.inputValue();
+                console.log(`Current Quantity in Input: ${currentVal}`);
 
-                // Verify value
-                const val = await qtyInputLoop.inputValue();
-                if (val !== qty) {
-                    console.log(`Initial fill failed (got ${val}), retrying...`);
+                if (currentVal !== qty) {
+                    await qtyInputLoop.scrollIntoViewIfNeeded();
+                    await qtyInputLoop.click();
+                    await page.waitForTimeout(500);
+
+                    // Manual clear using Backspace (forcefully clear 4 chars to be safe)
+                    await qtyInputLoop.press('Backspace');
+                    await qtyInputLoop.press('Backspace');
+                    await qtyInputLoop.press('Backspace');
+                    await qtyInputLoop.press('Backspace');
+                    await page.waitForTimeout(200);
+
                     await qtyInputLoop.fill(qty);
-                }
+                    await page.waitForTimeout(500);
 
-                // Trigger events manually to ensure site registers change
-                await qtyInputLoop.dispatchEvent('change');
-                await qtyInputLoop.press('Enter');
+                    await qtyInputLoop.press('Enter');
+
+                    // Force Click on Update Cart Button (Critical for Mobile)
+                    // Try multiple standard Magento locators for the update button
+                    const updateBtn = page.locator('button[name="update_cart_action"], button[value="update_qty"], button.update-cart-item').first();
+
+                    if (await updateBtn.count() > 0) {
+                        console.log("Found Update Cart Button. Force Clicking...");
+                        await updateBtn.click({ force: true });
+                    } else {
+                        console.log("Update Cart Button locator not found. Trying text...");
+                        await page.getByText('Update Shopping Cart').first().click({ force: true });
+                    }
+
+                    // Allow time for the update to trigger
+                    await page.waitForTimeout(4000);
+                } else {
+                    console.log("Quantity already matches target. Skipping update.");
+                }
             } else {
-                console.log("Qty Input not found in loop! Trying fallback...");
+                console.log("Qty Input not found! Trying fallback...");
                 const fallback = page.getByRole('textbox').filter({ hasNotText: 'Discount Code' }).first();
                 if (await fallback.count() > 0) {
+                    await fallback.click();
+                    await fallback.press('Backspace');
+                    await fallback.press('Backspace'); // minimal
                     await fallback.fill(qty);
                     await fallback.press('Enter');
-                } else {
-                    console.log("FATAL: No quantity input found.");
+
+                    const updateBtn = page.getByRole('button', { name: /Update Shopping Cart|Update Cart/i }).first();
+                    try {
+                        await updateBtn.waitFor({ state: 'visible', timeout: 3000 });
+                        await updateBtn.click();
+                    } catch (e) { }
                 }
             }
 
-            console.log("Waiting for cart update...");
-            await page.waitForTimeout(6000);
+            console.log("Waiting for cart update/price change...");
+            // Wait for loader again (post-update)
+            try {
+                // Wait for either loader appearance OR price change ideally, but loader is standard
+                await expect(loader).toBeVisible({ timeout: 2000 });
+            } catch (e) { }
+            await expect(loader).toBeHidden({ timeout: 15000 });
 
-            // Check if we need to click "Update Cart"
-            const updateBtn = page.getByRole('button', { name: /Update Shopping Cart|Update Cart/i });
-            if (await updateBtn.isVisible()) {
-                await updateBtn.click();
-                await page.waitForTimeout(5000);
-            }
+            await page.waitForTimeout(2000); // Safety buffer
 
             // Capture Prices
             const subtotalText = await page.locator(".subtotal .price").first().textContent().catch(() => '0');

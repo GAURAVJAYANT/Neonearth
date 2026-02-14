@@ -634,9 +634,9 @@ test.describe('Customization Engine Tests', () => {
         await page.getByRole('textbox', { name: 'First Name*' }).fill('Gaurav');
         await page.getByRole('textbox', { name: 'Last Name*' }).fill('jayant');
         await page.getByRole('textbox', { name: 'Phone Number' }).fill('8888888');
+        await page.getByRole('textbox', { name: 'Address*' }).click();
         await page.getByRole('textbox', { name: 'Address*' }).fill('stree');
-        await page.waitForTimeout(1000); // Small wait for autocomplete
-        await page.getByText('StreetervilleChicago, IL, USA').click();
+        await page.getByText('Streetsville GOMississauga,').first().click();
 
         console.log("Clicking 'Save And Continue'...");
         await page.getByRole('button', { name: 'Save And Continue' }).click();
