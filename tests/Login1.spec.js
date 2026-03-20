@@ -19,8 +19,8 @@ try {
 
 test.describe('Data Driven Login Tests', () => {
 
-  for (const record of loginData) {
-    test(`Login Flow for User: ${record.username}`, async ({ page }) => {
+  for (const [index, record] of loginData.entries()) {
+    test(`Login Flow for User: ${record.username} (Row ${index + 1})`, async ({ page }) => {
 
       console.log(`Starting login for: ${record.username}`);
 
@@ -47,18 +47,21 @@ test.describe('Data Driven Login Tests', () => {
       await passwordInput.fill(record.password); // from Excel
       await page.getByText('Sign In', { exact: true }).click();
 
-      // Verification
-      await expect(page.getByText('My account')).toBeVisible();
+      // Verification - The 'My account' text changes to 'Hi, [Name]' upon success
+      const accountBtn = page.locator('header').getByRole('button').filter({ hasText: /My account|Hi/i });
+      await expect(accountBtn).toBeVisible({ timeout: 15000 });
       console.log("Login Successful");
 
       await page.waitForTimeout(2000);
 
       // --- LOGOUT LOGIC ---
       console.log("Attempting Logout...");
-      await page.getByText('My account', { exact: true }).hover();
+      // Hover the account button (regardless of current text)
+      await accountBtn.hover();
 
-      // Wait for Sign Out button to appear in dropdown
-      const signOutBtn = page.getByText('Sign Out', { exact: true }); // Standard assumption
+      // Use case-insensitive name strategy for the Sign Out button
+      const signOutBtn = page.getByRole('button', { name: /Sign out/i }); 
+
       // Alternatively, check for "Logout" or inspect existing code if known. 
       // User didn't provide logout selector, so assuming standard "Sign Out".
       // If "Sign Out" fails, we might need "Logout" or specific locator.
