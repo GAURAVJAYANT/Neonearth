@@ -6,3 +6,16 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Environment and Config
+.env
+.env.example
+
+# Logs and Status
+*.log
+*.txt
+*.csv
+gitstatus*
+tracked.txt
+nav_links.json
+out.txt
