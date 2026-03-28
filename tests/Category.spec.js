@@ -45,67 +45,65 @@ async function scrollUntilAllLoaded(page, { maxScrolls = 40, pauseMs = 1500 } = 
 }
 // ─────────────────────────────────────────────────────────────────────────────
 
-test.describe('Category Products – Lazy Load Traversal', () => {
+// Categories to visit (matches links in the Neonearth header nav)
+const CATEGORIES = [
+    { name: 'Wall Arts',   navText: 'Wall Arts' },
+    { name: 'Tapestries',  navText: 'Tapestries' },
+    { name: 'Rugs & Mats', navText: 'Rugs & Mats' },
+    { name: 'Pillows',     navText: 'Pillows' },
+    { name: 'Curtains',    navText: 'Curtains' },
+    { name: 'Pet Zone',    navText: 'Pet Zone' },
+    { name: 'Theme',       navText: 'Theme' },
+];
 
-    // Categories to visit (matches links in the Neonearth header nav)
-    // Each entry can be: a direct URL  OR  a nav-link text for HomPage.clickCategory()
-    const CATEGORIES = [
-        { name: 'Wall Arts',   navText: 'Wall Arts' },
-        { name: 'Tapestries',  navText: 'Tapestries' },
-        { name: 'Rugs & Mats', navText: 'Rugs & Mats' },
-        { name: 'Pillows',     navText: 'Pillows' },
-        { name: 'Curtains',    navText: 'Curtains' },
-        { name: 'Pet Zone',    navText: 'Pet Zone' },
-        { name: 'Theme',       navText: 'Theme' },
-    ];
+test.describe('Category Products Traversal', () => {
 
-    test('Visit every category, scroll to load all products, and print product names', async ({ page }) => {
-        test.setTimeout(300_000); // 5 minutes – enough for all lazy-load scrolling
+    test('Visit every category and print product names', async ({ page }) => {
+        test.setTimeout(300000); // 5 minutes
 
         const homePage     = new NeonearthHomePage(page);
         const categoryPage = new NeonearthCategoryPage(page);
 
         for (const category of CATEGORIES) {
-            console.log(`\n${'═'.repeat(60)}`);
+            console.log(`\n============================================================`);
             console.log(`  CATEGORY: ${category.name}`);
-            console.log(`${'═'.repeat(60)}`);
+            console.log(`============================================================`);
 
             // ── 1. Navigate to homepage and then to the category ──────────
             await homePage.navigate();
-            await page.waitForTimeout(1000); // let animations settle
+            await page.waitForTimeout(1000); 
 
             await homePage.clickCategory(category.navText);
 
             // Wait for the category page to be interactive
             await page.waitForLoadState('domcontentloaded');
-            await page.waitForTimeout(2000); // let initial product batch render
+            await page.waitForTimeout(2000); 
 
             const pageTitle = await page.title();
             console.log(`  Page Title: "${pageTitle}"`);
             console.log(`  URL: ${page.url()}`);
 
             // ── 2. Scroll down to trigger lazy loading ────────────────────
-            console.log(`\n  ⏬ Scrolling to load all lazy-loaded products...`);
+            console.log(`\n  Scrolling to load all products...`);
             await scrollUntilAllLoaded(page, { maxScrolls: 40, pauseMs: 1500 });
 
             // ── 3. Extract all product names ──────────────────────────────
             const products = await categoryPage.getProductsData();
 
-            console.log(`\n  📦 Total products found in "${category.name}": ${products.length}`);
-            console.log(`  ${'─'.repeat(55)}`);
+            console.log(`\n  Total products found in "${category.name}": ${products.length}`);
+            console.log(`  -------------------------------------------------------`);
 
             if (products.length === 0) {
-                console.warn(`  ⚠️  No products found for category "${category.name}". Skipping assertion.`);
+                console.warn(`  ⚠️ No products found for category "${category.name}".`);
             } else {
                 products.forEach((product, idx) => {
                     const name = product.name?.trim() || '(unnamed)';
                     console.log(`  [${String(idx + 1).padStart(3, '0')}] ${name}`);
                 });
-                // Soft assertion – warn but don't fail the entire run for an empty page
-                expect(products.length, `"${category.name}" should have at least 1 product`).toBeGreaterThan(0);
+                expect(products.length).toBeGreaterThan(0);
             }
         }
 
-        console.log(`\n✅ All ${CATEGORIES.length} categories processed successfully.`);
+        console.log(`\n✅ All categories processed successfully.`);
     });
 });
